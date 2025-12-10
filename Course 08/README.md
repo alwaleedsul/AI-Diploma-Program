@@ -30,31 +30,32 @@ This course provides comprehensive training in Deep Learning using TensorFlow an
 
 ## Course Objectives | أهداف الدورة
 
-1. **Deep Learning Fundamentals**
-   - Neural network architectures
-   - Backpropagation
-   - Activation functions
-   - Optimization techniques
+Based on official plan (AIAT 122), students will:
 
-2. **Convolutional Neural Networks (CNNs)**
-   - Image classification
-   - Object detection
+1. **Deep Learning Basics**
+   - Understand deep learning fundamentals
+   - Neural network architectures
+   - Backpropagation and optimization
+
+2. **CNNs for Images**
+   - Convolutional Neural Networks
+   - Image classification and recognition
    - Transfer learning
 
-3. **Recurrent Neural Networks (RNNs)**
+3. **RNNs for Sequences**
+   - Recurrent Neural Networks
    - LSTM and GRU
-   - Sequence modeling
-   - Time series prediction
+   - Sequence modeling applications
 
 4. **Transformers**
    - Attention mechanisms
    - Transformer architecture
-   - Pre-trained models
+   - Pre-trained transformer models
 
-5. **Advanced Topics**
-   - Generative models
-   - Reinforcement learning basics
-   - Model deployment
+5. **Deploying Deep Learning Models**
+   - Model optimization
+   - Deployment strategies
+   - Production considerations
 
 ---
 
@@ -67,11 +68,11 @@ Course 08/
 ├── START_HERE.md
 ├── STUDENT_PROGRESS_CHECKLIST.md
 │
-├── unit1-deep-learning-basics/
-├── unit2-cnns/
-├── unit3-rnns/
-├── unit4-transformers/
-├── unit5-advanced-topics/
+├── unit1-deep-learning-basics/      📚 Unit 1: Deep Learning Basics
+├── unit2-cnns/                      📚 Unit 2: CNNs for Images
+├── unit3-rnns/                      📚 Unit 3: RNNs for Sequences
+├── unit4-transformers/              📚 Unit 4: Transformers
+├── unit5-deployment/                📚 Unit 5: Deploying Deep Learning Models
 │
 ├── PROJECTS/
 ├── QUIZZES/

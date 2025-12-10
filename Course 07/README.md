@@ -30,27 +30,32 @@ This course provides comprehensive training in Natural Language Processing (NLP)
 
 ## Course Objectives | أهداف الدورة
 
-1. **NLP Fundamentals**
-   - Text preprocessing and tokenization
-   - Language modeling
-   - Word embeddings
+Based on official plan (AIAT 121), students will:
 
-2. **NLP Techniques**
-   - Named Entity Recognition (NER)
-   - Sentiment Analysis
-   - Text Classification
-   - Machine Translation basics
+1. **Introduction to NLP**
+   - Understand NLP fundamentals
+   - Text processing basics
+   - NLP applications overview
 
-3. **Deep Learning for NLP**
-   - Recurrent Neural Networks (RNNs)
-   - Long Short-Term Memory (LSTM)
-   - Transformers
-   - BERT and modern language models
+2. **Tokenization and Morphology**
+   - Text tokenization techniques
+   - Morphological analysis
+   - Language structure understanding
 
-4. **Practical Applications**
-   - Chatbots
-   - Text summarization
-   - Question answering systems
+3. **Machine Learning for NLP**
+   - ML algorithms for text
+   - Feature extraction
+   - Text classification and clustering
+
+4. **Deep Learning for NLP**
+   - RNNs and LSTMs for sequences
+   - Transformers architecture
+   - Modern language models (BERT, GPT)
+
+5. **Applications and Ethics**
+   - Real-world NLP applications
+   - Ethical considerations
+   - Bias in NLP systems
 
 ---
 
@@ -63,11 +68,11 @@ Course 07/
 ├── START_HERE.md
 ├── STUDENT_PROGRESS_CHECKLIST.md
 │
-├── unit1-nlp-fundamentals/
-├── unit2-text-processing/
-├── unit3-language-models/
-├── unit4-deep-learning-nlp/
-├── unit5-applications/
+├── unit1-nlp-fundamentals/          📚 Unit 1: Introduction to NLP
+├── unit2-tokenization-morphology/   📚 Unit 2: Tokenization & Morphology
+├── unit3-ml-for-nlp/               📚 Unit 3: Machine Learning for NLP
+├── unit4-deep-learning-nlp/        📚 Unit 4: Deep Learning for NLP
+├── unit5-applications-ethics/      📚 Unit 5: Applications & Ethics
 │
 ├── PROJECTS/
 ├── QUIZZES/
