@@ -39,6 +39,11 @@ By the end of this unit, students will be able to:
    - Binary classification
    - Pattern recognition basics
 
+6. **Introduction to Generative AI** (Brief)
+   - What is generative AI?
+   - Generative vs discriminative models
+   - Basic concepts (for future courses)
+
 ---
 
 **Unit Duration:** 2 weeks  
