@@ -146,3 +146,9 @@ review_notebooks_comprehensive.py
 # Setup guides (if not student-facing, move to DOCS or remove)
 # Keep CROSS_PLATFORM_GUIDE.md if it's for students
 # GITHUB_SETUP.md - decide if student-facing
+
+# Additional internal markdown files to exclude
+**/META/**/*.md
+**/SCRIPTS/**/*.md
+*ARCHIVED*.md
+*IMPLEMENTATION_COMPLETE*.md
