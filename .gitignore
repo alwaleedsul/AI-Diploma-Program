@@ -120,3 +120,21 @@ FINAL_STATUS.md
 !SEMESTER2_OFFICIAL_GOALS.md
 !SEMESTER2_ALIGNMENT_REPORT.md
 !CLEANUP_PLAN.md
+
+# Root-level internal documentation (keep only essential)
+# Keep: README.md, requirements.txt, .gitignore, .gitattributes
+# Keep: STRUCTURE_ALIGNMENT_VERIFICATION.md, SEMESTER2_*.md (useful references)
+STRUCTURE_COMPARISON.md
+CONTENT_DEVELOPMENT_STATUS.md
+COMPREHENSIVE_NOTEBOOK_REVIEW_FINAL.md
+NOTEBOOK_REVIEW_REPORT.md
+STRUCTURE_COMPARISON_ANALYSIS.md
+COURSE_01_COMPARISON.md
+PLAN_COMPARISON.md
+COURSE_06_STATUS.md
+CLEANUP_PLAN.md
+CLEANUP_SUMMARY.md
+
+# Source files (if content extracted to notebooks)
+*.pptx
+**/course-content/*.pptx
