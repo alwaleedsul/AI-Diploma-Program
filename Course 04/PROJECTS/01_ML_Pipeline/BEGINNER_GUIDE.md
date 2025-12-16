@@ -3,6 +3,17 @@
 
 ---
 
+> 💡 **Already familiar with ML pipelines?**  
+> See **[Implementation_Guide.md](Implementation_Guide.md)** for:
+> - Quick technical reference
+> - Code structure recommendations
+> - Function signatures
+> - Testing guidelines
+>
+> **This guide is for complete beginners. If you just need technical details, see the Implementation Guide.**
+
+---
+
 ## 🎯 Real-World Application | التطبيق في الحياة الواقعية
 
 ### Example: House Price Prediction System

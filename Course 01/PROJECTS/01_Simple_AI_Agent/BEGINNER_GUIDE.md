@@ -3,6 +3,12 @@
 
 ---
 
+> 💡 **Already familiar with search algorithms?**  
+> This guide is for complete beginners with step-by-step instructions.
+> If you need just technical details, check the project README.md.
+
+---
+
 ## 🎯 Real-World Application | التطبيق في الحياة الواقعية
 
 ### Example: Delivery Route Optimizer

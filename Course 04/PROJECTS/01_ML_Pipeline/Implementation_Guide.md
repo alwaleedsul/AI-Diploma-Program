@@ -3,6 +3,18 @@
 
 ---
 
+> 📖 **New to this project or need detailed help?**  
+> Check out **[BEGINNER_GUIDE.md](BEGINNER_GUIDE.md)** for:
+> - Real-world application examples (House Price Prediction)
+> - Complete step-by-step day-by-day instructions
+> - Working code examples with explanations
+> - Course content connections
+> - Troubleshooting tips
+>
+> **This guide is a quick technical reference for students who already understand the concepts.**
+
+---
+
 ## Step-by-Step Implementation | التنفيذ خطوة بخطوة
 
 ### Step 1: Data Loading and Exploration
