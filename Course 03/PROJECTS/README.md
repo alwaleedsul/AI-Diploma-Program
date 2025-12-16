@@ -10,9 +10,12 @@ This folder contains all project materials for the Mathematics and Probabilities
 **Topic:** Mathematical Foundations  
 **Difficulty:** Advanced  
 **Estimated Time:** 3-4 weeks  
-**Folder:** `01_Algorithms_From_Scratch/`
+**Folder:** `01_Algorithms_From_Scratch/`  
+**Real-World Example:** Building Your Own ML Library (Understanding ML internals)
 
 Implement core ML algorithms (Linear Regression, Logistic Regression, PCA) from scratch using only NumPy.
+
+📖 **New to implementing algorithms?** Check out the **[Beginner's Guide](01_Algorithms_From_Scratch/BEGINNER_GUIDE.md)** for step-by-step instructions!
 
 [View Details →](01_Algorithms_From_Scratch/README.md)
 
