@@ -156,3 +156,5 @@ review_notebooks_comprehensive.py
 # Exclude solution files from course folders (students shouldn't see answers)
 **/solutions/
 **/solutions/**
+**/SOLUTION/
+**/SOLUTION/**
