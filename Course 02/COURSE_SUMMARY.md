@@ -10,7 +10,7 @@ This document provides a comprehensive text summary of all course materials.
 ## Pdfs
 
 
-### Course 02_compressed
+### 02
 
 --- Page 1 ---
 
@@ -19,7 +19,7 @@ Introduction
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 2 ---
 
@@ -46,7 +46,7 @@ Course Mode (2)
 •You can always talk to me if you are feeling stressed or missing 
 something!
 •Collaboration on homework is okay, but please cite 
-collaborators 
+collaborators
 
 --- Page 5 ---
 
@@ -239,7 +239,7 @@ Quiz: Which of the following can be done at present?
 ▪Translate spoken Chinese into spoken English in real time? 
 ▪Win an art competition? 
 ▪Write an intentionally funny story? 
-▪Construct a building? 
+▪Construct a building?
 
 --- Page 23 ---
 
@@ -417,7 +417,7 @@ Search Algorithms
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 40 ---
 
@@ -429,7 +429,7 @@ initial state to the goal state .
 •Example: A navigator app uses a typical search process, where 
 the agent (the thinking part of the program) receives as input 
 your current location and your desired destination, and, based 
-on a search algorithm, returns a suggested path. 
+on a search algorithm, returns a suggested path.
 
 --- Page 41 ---
 
@@ -530,7 +530,7 @@ costs, which allows choosing the optimal solution. Once the node is
 chosen, by virtue of storing the parent node and the action that led 
 from the parent to the current node, it is possible to trace back every 
 step of the way from the initial state to this node, and this sequence 
-of actions is the solution. 
+of actions is the solution.
 
 --- Page 49 ---
 
@@ -744,7 +744,7 @@ Future statesCostAction•A search tree:
 PLANS that achieve those states For most problems, we 
 can never actually build 
 the whole tree
-Note: AlphaGo algorithm used Monte Carlo tree search (MCTS)!   
+Note: AlphaGo algorithm used Monte Carlo tree search (MCTS)!
 
 --- Page 66 ---
 
@@ -855,7 +855,7 @@ location to the goal , but also g(n), the cost that was accrued until
 the current location . 
 •By combining both these values, the algorithm has a more accurate 
 way of determining the cost of the solution and optimizing its choices 
-on the go. 
+on the go.
 
 --- Page 78 ---
 
@@ -894,7 +894,7 @@ with Python (Python 4 AI)
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti 2019 @gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 82 ---
 
@@ -3301,7 +3301,7 @@ Linear Image Classifiers
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 374 ---
 
@@ -3465,7 +3465,7 @@ w2
 w1W3,:
 W2,:
 W1,:
-Note: After some updates, the separation hyperplanes will look as follows: 
+Note: After some updates, the separation hyperplanes will look as follows:
 
 --- Page 385 ---
 
@@ -4999,7 +4999,7 @@ Sample belongs to Class 3
 The categorical cross -entropy loss function takes two K -dimensional vectors, y and y, that 
 represent a probability distribution and the one -hot encoded target, respectively.^
 K denotes the number of different classes and the subscript 𝑖denotes 𝑖-thelement of the 
-vector. 
+vector.
 
 --- Page 459 ---
 
@@ -5028,7 +5028,7 @@ b2[1]
 b4[3]
 b4[1][[ 0.15232633 0.42112296 -0.32685409 0.12062509 ]
 [-0.39337332 -0.31456204 -0.25989355 -0.0194304 ]
-[-0.35759404 0.35853488 -0.0902096 0.02739133 ]]Wh= 
+[-0.35759404 0.35853488 -0.0902096 0.02739133 ]]Wh=
 
 --- Page 462 ---
 
@@ -5052,7 +5052,7 @@ Some Insights
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 465 ---
 
@@ -5125,7 +5125,7 @@ I(x, y): Grayscale image (HxWx1)
 y(0, 0)
 f1f2
 (0, 0)
-I(x, y) = U(0, 0) x                 + U(1, 0) x                + U(0, 1) x                 + …. + U(3, 5) x                  + U(20, -10) x                +…. 
+I(x, y) = U(0, 0) x                 + U(1, 0) x                + U(0, 1) x                 + …. + U(3, 5) x                  + U(20, -10) x                +….
 
 --- Page 471 ---
 
@@ -5545,7 +5545,7 @@ Fully -connected
 Fully -connected 
 4096x1
 1000x14096x1
-Softmax Fully -connected 
+Softmax Fully -connected
 
 --- Page 494 ---
 
@@ -5584,7 +5584,7 @@ A Primer
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 498 ---
 
@@ -6039,7 +6039,7 @@ Sometimes this includes hundreds of thousands of examples!
 Batch and Stochastic Gradient Descent
 Note: Instead of using all the examples for every step, use a subset of them (batch).
 For each iteration k, use the following loss function to derive the derivatives: 
-Important Note: is an approximation of          ! 
+Important Note: is an approximation of          !
 
 --- Page 536 ---
 
@@ -6070,7 +6070,7 @@ Probability & Statistics Concepts 4 AI
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti 2019 @gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 540 ---
 
@@ -6272,7 +6272,7 @@ A Primer
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti 2019 @gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 557 ---
 
@@ -6727,7 +6727,7 @@ Sometimes this includes hundreds of thousands of examples!
 Batch and Stochastic Gradient Descent
 Note: Instead of using all the examples for every step, use a subset of them (batch).
 For each iteration k, use the following loss function to derive the derivatives: 
-Important Note: is an approximation of          ! 
+Important Note: is an approximation of          !
 
 --- Page 595 ---
 
@@ -6872,7 +6872,7 @@ moving averages of squared past gradients, we can limit the update to only the
 past few gradients .Issue: The AdaGrad optimizer works well for sparse settings . However, its 
 performance deteriorates in settings where the loss functions are nonconvex and 
 gradients are dense due to the rapid decay of the learning rate in these settings 
-since it uses all past gradients in the update . 
+since it uses all past gradients in the update .
 
 --- Page 612 ---
 
@@ -7293,7 +7293,7 @@ Perceptron Model
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 643 ---
 
@@ -7459,7 +7459,7 @@ Value Iteration Algorithm
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 654 ---
 
@@ -7778,7 +7778,7 @@ Settings: Stochastic actions, γ = 0.9 , H = 100V*(<4, 3>) =
 V*(<3, 3>) = 0.72
 0.1 0.10.8
 Action NoiseV*(<3, 3>) = 0.8x0.9xV*(<4, 3>) + 0.1x0.9xV*(<3, 3>) + 0.1x0.9xV*(<3, 2>) = 0.72
-The value V*(<3, 3>) is updated ″recursively″! 
+The value V*(<3, 3>) is updated ″recursively″!
 
 --- Page 678 ---
 
@@ -7957,7 +7957,7 @@ such that:
 Note: Given two functions f(z)and g(z)such that:
 Then, we can write:
 ≥ 0 f(z*)
-≥ g(z*) 
+≥ g(z*)
 
 --- Page 697 ---
 
@@ -8018,7 +8018,7 @@ SR→ SR 0.9 -1.0
 r←= 0.0 * ( -2.0 + γ * (+1)) + 1.0 * (1.0 + γ * ( -1.0))
 r←= 0.0 + 0.0 = 0.0r←:0.0
 r→= 0.1 * ( -3.0 + γ * (+1)) + 0.9 * ( -1.0 + γ * ( -1.0))
-r←= -0.2-1.8 = -2.0r→:-2.00.0Value Iteration Algorithm (2) 
+r←= -0.2-1.8 = -2.0r→:-2.00.0Value Iteration Algorithm (2)
 
 --- Page 702 ---
 
@@ -8206,7 +8206,7 @@ C3
 Suc.
 Sport
 S.M.
-SleepFail 
+SleepFail
 
 --- Page 712 ---
 
@@ -8216,7 +8216,7 @@ with Python (Python 4 AI)
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 713 ---
 
@@ -9221,7 +9221,7 @@ with Python (Python 4 AI)
 Dr. Lahouari Ghouti, PhD
 Abjad AI Company
 Email: lghouti2019@gmail.com
-LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/ 
+LinkedIn: https://www.linkedin.com/in/dr -lahouari -ghouti/
 
 --- Page 837 ---
 
@@ -9661,7 +9661,7 @@ Nim
 Function Approximation
 Approximating Q(s, a), often by a function 
 combining various features, rather than storing 
-one value for every state -action pair 
+one value for every state -action pair
 
 --- Page 941 ---
 
@@ -9707,4 +9707,3 @@ Learning Paradigms
 •Reinforcement Learning
 •Unsupervised Learning
 
----
