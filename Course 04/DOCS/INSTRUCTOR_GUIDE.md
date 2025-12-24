@@ -221,16 +221,29 @@ pip install -r requirements.txt
 
 ### Suggested Datasets
 
-1. **House Prices** (for regression)
-   - Kaggle: House Prices Dataset
-   - Or use generated data in examples
+**📚 For comprehensive dataset integration plan, see:**
+- `DOCS/REAL_WORLD_DATASETS_PLAN.md` - Complete plan with diverse datasets from multiple fields
 
-2. **Iris Dataset** (for classification)
-   - Built into sklearn: `from sklearn.datasets import load_iris`
+**Quick Reference:**
 
-3. **Customer Segmentation** (for clustering)
-   - Mall Customer Dataset
-   - Or generate synthetic data
+1. **Regression Datasets**
+   - California Housing (sklearn) ✅ - Real Estate
+   - Diabetes (sklearn) - Healthcare
+   - Bike Sharing (UCI) - Transportation
+   - Energy Consumption (UCI) - Energy
+
+2. **Classification Datasets**
+   - Breast Cancer (sklearn) - Healthcare
+   - Wine Quality (UCI) - Food & Beverage
+   - Iris (sklearn) - Biology
+   - Credit Card Fraud (Kaggle) - Finance
+
+3. **Clustering Datasets**
+   - Mall Customers (Kaggle) - Retail
+   - Countries Data (UCI/World Bank) - Economics
+   - Iris (sklearn) - Biology
+
+**See `REAL_WORLD_DATASETS_PLAN.md` for complete list with domain diversity!**
 
 ### Useful Links
 

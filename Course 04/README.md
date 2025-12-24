@@ -172,6 +172,8 @@ All documentation is in the `DOCS/` folder:
 - **ASSESSMENT_GUIDE.md** - Assessment guidelines
 - **INSTRUCTOR_GUIDE.md** - Teaching guide
 - **VISUALIZATIONS_GUIDE.md** - Visualization best practices
+- **REAL_WORLD_DATASETS_PLAN.md** - Comprehensive plan for diverse real-world datasets from multiple fields (Finance, Healthcare, E-Commerce, Education, Transportation, etc.)
+- **DATASET_QUICK_REFERENCE.md** - Quick code snippets to load datasets for each unit
 
 ---
 
