@@ -159,6 +159,12 @@ review_notebooks_comprehensive.py
 **/SOLUTION/
 **/SOLUTION/**
 
+# Exclude quiz answer keys (instructor-only)
+**/*_ANSWER_KEY.md
+**/*ANSWER_KEY*.md
+**/*answer_key*.md
+**/*Answer_Key*.md
+
 # Exclude teacher-only documentation
 TEACHER_*.md
 *TEACHER*.md
@@ -179,6 +185,9 @@ TEACHER_ONLY_README.md
 *DEPLOYMENT*.md
 *CONFLICT*.md
 *CONSISTENCY*.md
+*COVERAGE*.md
+*REPORT*.md
+*PLAN*.md
 *BEGINNER_GUIDES*.md
 *PROJECT_BEGINNER*.md
 *PROJECT_COURSE*.md
@@ -214,7 +223,7 @@ TEACHER_ONLY_README.md
 *CONFLICT_CHECK*.md
 *COURSE_MAP.md
 
-# Exclude development Python scripts (root level)
+# Exclude development Python scripts (root level and course folders)
 create_*.py
 *_fix*.py
 *convert*.py
@@ -228,6 +237,8 @@ check_*.py
 fix_*.py
 standardize_*.py
 merge_*.py
+**/META/*.py
+**/SCRIPTS/*.py
 
 # Keep only essential root-level files for students
 # README.md - course overview (KEEP)
