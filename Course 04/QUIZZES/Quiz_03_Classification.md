@@ -156,33 +156,6 @@ What is the difference between `.predict()` and `.predict_proba()` in logistic r
 
 ---
 
-## Answer Key | مفتاح الإجابات
-
-### Part 1: Classification Algorithms
-1. **A** - Regression predicts continuous values, classification predicts categories
-2. **B** - Logistic Regression uses sigmoid function
-3. **B** - Decision Trees are easy to interpret and visualize
-4. **A** - SVM finds the best decision boundary that maximizes the margin
-
-### Part 2: Evaluation Metrics
-5. **A** - Accuracy measures the proportion of correctly classified instances
-6. **B** - Precision is the proportion of positive predictions that are correct
-7. **C** - Recall is the proportion of actual positives that are correctly identified
-8. **D** - F1-score is the harmonic mean of precision and recall
-
-### Part 3: Confusion Matrix and ROC
-9. **B** - True Positive (TP) represents correctly predicted positive cases
-10. **A** - False Positive (FP) is when model predicted Class 1, but actual is Class 0 (false alarm)
-11. **B** - False Negative (FN) is when model predicted Class 0, but actual is Class 1 (missed detection)
-12. **B** - AUC measures the model's ability to distinguish between classes
-
-### Part 4: Logistic Regression Details
-13. **C** - Metrics are calculated after training, on test data
-14. **B** - `.predict()` returns classes (0 or 1), `.predict_proba()` returns probabilities (0-1)
-
-
----
-
 **Good luck!** 🍀  
 **حظاً موفقاً!**
 

@@ -44,8 +44,17 @@ Each quiz follows this structure:
 1. Complete the unit materials and examples first
 2. Review the unit content
 3. Take the quiz without referring to materials
-4. Check your answers using the answer key
-5. Review areas where you scored low
+4. Submit your answers to your instructor
+5. Review feedback and areas where you scored low
+
+---
+
+## For Instructors | للمدرسين
+
+**Answer keys are available in separate files:**
+- Answer key files are marked with `_ANSWER_KEY` suffix
+- Example: `Quiz_03_Classification_ANSWER_KEY.md`
+- ⚠️ **DO NOT SHARE ANSWER KEYS WITH STUDENTS**
 
 ---
 
