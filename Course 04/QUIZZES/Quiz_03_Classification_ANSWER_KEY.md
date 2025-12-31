@@ -4,7 +4,7 @@
 
 ---
 
-## Part 1: Classification Algorithms (20 points)
+## Part 1: Classification Algorithms (35 points)
 
 ### Question 1 (5 points)
 **Answer: A**
@@ -21,6 +21,18 @@
 ### Question 4 (5 points)
 **Answer: A**
 - SVM finds the best decision boundary that maximizes the margin
+
+### Question 5 (5 points)
+**Answer: B**
+- Random Forest is an ensemble method that combines multiple decision trees
+
+### Question 6 (5 points)
+**Answer: B**
+- Random Forest reduces overfitting by combining multiple trees (ensemble method)
+
+### Question 7 (5 points)
+**Answer: B**
+- KNN finds the K nearest training examples and predicts the majority class
 
 ---
 
@@ -64,7 +76,7 @@
 
 ---
 
-## Part 4: Logistic Regression Details (10 points)
+## Part 4: Advanced Topics (20 points)
 
 ### Question 13 (5 points)
 **Answer: C**
@@ -74,15 +86,23 @@
 **Answer: B**
 - `.predict()` returns classes (0 or 1), `.predict_proba()` returns probabilities (0-1)
 
+### Question 15 (5 points)
+**Answer: B**
+- Class imbalance occurs when one class has significantly more samples than another
+
+### Question 16 (5 points)
+**Answer: A**
+- Use `class_weight='balanced'` parameter in logistic regression to handle class imbalance
+
 ---
 
 ## Grading Rubric | معايير التقييم
 
-- **90-100% (54-60 points)**: Excellent understanding
-- **80-89% (48-53 points)**: Good understanding
-- **70-79% (42-47 points)**: Satisfactory understanding
-- **60-69% (36-41 points)**: Needs improvement
-- **Below 60% (<36 points)**: Requires review of concepts
+- **90-100% (68-75 points)**: Excellent understanding
+- **80-89% (60-67 points)**: Good understanding
+- **70-79% (53-59 points)**: Satisfactory understanding
+- **60-69% (45-52 points)**: Needs improvement
+- **Below 60% (<45 points)**: Requires review of concepts
 
 ---
 
@@ -92,6 +112,9 @@
 2. **TP/FP/TN/FN confusion**: Students struggle with the True/False and Positive/Negative combinations
 3. **When metrics are calculated**: Some students think metrics are calculated before training
 4. **`.predict()` vs `.predict_proba()`**: Students confuse which returns what
+5. **Random Forest vs Decision Tree**: Students may not understand that Random Forest is an ensemble of multiple trees
+6. **KNN algorithm**: Students may confuse how KNN makes predictions (distance-based vs tree-based)
+7. **Class imbalance**: Students may not recognize when class imbalance is a problem or how to handle it
 
 ---
 

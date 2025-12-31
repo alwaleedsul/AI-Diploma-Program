@@ -1,14 +1,14 @@
 # Quiz 03: Classification Techniques | اختبار 03: تقنيات التصنيف
 
 ## Instructions | التعليمات
-- **Time Limit**: 40 minutes
-- **Total Points**: 60 points
+- **Time Limit**: 45 minutes
+- **Total Points**: 75 points
 - **Format**: Multiple choice, short answer, code completion
 - **Allowed Resources**: None (closed book)
 
 ---
 
-## Part 1: Classification Algorithms (20 points)
+## Part 1: Classification Algorithms (35 points)
 
 ### Question 1 (5 points)
 What is the main difference between regression and classification?
@@ -46,6 +46,36 @@ What does SVM (Support Vector Machine) try to find?
 - B) The most common class
 - C) The average of all features
 - D) The correlation between features
+
+
+---
+
+### Question 5 (5 points)
+What is Random Forest?
+- A) A single decision tree with many branches
+- B) An ensemble method that combines multiple decision trees
+- C) A type of neural network
+- D) A clustering algorithm
+
+
+---
+
+### Question 6 (5 points)
+What is the main advantage of Random Forest over a single Decision Tree?
+- A) It's always faster
+- B) It reduces overfitting by combining multiple trees
+- C) It's easier to interpret
+- D) It doesn't require any hyperparameters
+
+
+---
+
+### Question 7 (5 points)
+How does K-Nearest Neighbors (KNN) classify a new data point?
+- A) It uses a sigmoid function
+- B) It finds the K nearest training examples and predicts the majority class
+- C) It builds a decision tree
+- D) It uses support vectors
 
 
 ---
@@ -134,7 +164,7 @@ What does AUC (Area Under Curve) measure in ROC analysis?
 
 ---
 
-## Part 4: Logistic Regression Details (10 points)
+## Part 4: Advanced Topics (20 points)
 
 ### Question 13 (5 points)
 When are classification metrics (accuracy, precision, recall) calculated?
@@ -152,6 +182,26 @@ What is the difference between `.predict()` and `.predict_proba()` in logistic r
 - B) `.predict()` returns classes (0 or 1), `.predict_proba()` returns probabilities (0-1)
 - C) They are the same
 - D) `.predict()` is for training, `.predict_proba()` is for testing
+
+
+---
+
+### Question 15 (5 points)
+What is class imbalance in classification?
+- A) When classes have equal number of samples
+- B) When one class has significantly more samples than another
+- C) When features are imbalanced
+- D) When the model is overfitting
+
+
+---
+
+### Question 16 (5 points)
+How can you handle class imbalance in logistic regression?
+- A) Use `class_weight='balanced'` parameter
+- B) Remove the minority class
+- C) Always use accuracy as the metric
+- D) Increase the learning rate
 
 
 ---
