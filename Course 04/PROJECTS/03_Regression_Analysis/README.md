@@ -78,11 +78,12 @@ Implement and compare different regression techniques with proper hyperparameter
 
 ## Dataset Suggestions | اقتراحات مجموعات البيانات
 
-- **Boston Housing** (House prices)
-- **California Housing** (House prices)
-- **Car Prices** (Car value prediction)
-- **Energy Efficiency** (Energy consumption)
-- **Sales Data** (Sales prediction)
+- `datasets/raw/us_accidents.csv` — Traffic Management (predict severity/duration proxy)
+- `datasets/raw/creditcard_fraud.csv` — Financial risk scoring (use continuous proxy)
+- `datasets/raw/crime_statistics.csv` — Internal intelligence metrics
+- `datasets/raw/border_crossing_data.csv` — Border throughput forecasting
+
+Use `random_state=73` for all splits/models to keep runs reproducible.
 
 ---
 

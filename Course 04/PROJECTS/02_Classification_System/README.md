@@ -81,11 +81,12 @@ Build a comprehensive classification system that implements and compares multipl
 
 ## Dataset Suggestions | اقتراحات مجموعات البيانات
 
-- **Iris Dataset** (3 classes)
-- **Wine Quality** (Multi-class)
-- **Digits Dataset** (10 classes)
-- **Customer Churn** (Binary or multi-class)
-- **Spam Detection** (Binary)
+- `datasets/raw/montgomery_911_calls.csv` (multi-class: EMS/Fire/Traffic) — Emergency Response
+- `datasets/raw/unsw_nb15.csv` (multi-class cyber threats; or collapse to binary threat) — Cyber/Communication
+- `datasets/raw/crime_statistics.csv` (categorical incident grouping) — Internal Intelligence
+- `datasets/raw/creditcard_fraud.csv` (binary with imbalance; set class weights) — Financial/Terrorism Financing
+
+Use `random_state=73` for all splits/models to keep results reproducible.
 
 ---
 

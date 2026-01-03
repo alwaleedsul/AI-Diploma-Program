@@ -2,20 +2,17 @@
 
 ## 🎯 Real-World Application | التطبيق في الحياة الواقعية
 
-**Example: House Price Prediction System**
+**GDI Example: Financial Transaction Risk Scoring**
 
-This project helps you build systems like:
-- **Real Estate Platforms** (Zillow, Redfin) - Instant home price estimates
-- **E-commerce Platforms** (Amazon) - Product price optimization
-- **Financial Services** (Credit scoring, loan approval)
-- **Healthcare** (Disease prediction, treatment recommendations)
-- **Marketing** (Customer segmentation, churn prediction)
+Build a pipeline that ingests transactions and flags risky behavior to support:
+- **Financial/Terrorism Financing Investigations**: high-risk transaction scoring
+- **Border Cargo Screening**: shipments flagged for secondary inspection
+- **Cyber/Communication Threats**: login/session risk scoring
 
-**Real-World Impact:**
-- ✅ Instant price estimates for millions of homes
-- ✅ More accurate than manual appraisals
-- ✅ Available 24/7
-- ✅ Saves time and money for businesses
+**Impact for GDI:**
+- ✅ Faster triage of suspicious activity
+- ✅ Consistent, auditable decisions
+- ✅ Reusable pipeline for new data sources
 
 **📖 New to machine learning?** Check out **[PROJECT_GUIDE.md](PROJECT_GUIDE.md)** for step-by-step instructions!
 
@@ -131,23 +128,14 @@ project_01_ml_pipeline/
 
 ## Dataset Suggestions | اقتراحات مجموعات البيانات
 
-Choose one of these datasets or find your own:
+Use provided GDI datasets (under `Course 04/datasets/raw/`):
 
-1. **Titanic Dataset** (Classification)
-   - Predict survival
-   - Available on Kaggle
+1. **creditcard_fraud.csv** (default) — Financial/Terrorism Financing (binary target: `Class`)
+2. **border_crossing_data.csv** — Border Cargo/Entry flows (pick a binary target you define)
+3. **unsw_nb15.csv** — Cyber intrusion (multi-class or binary threat flag)
+4. **crime_statistics.csv** — Internal intelligence pattern scoring
 
-2. **House Prices** (Regression)
-   - Predict house prices
-   - Available on Kaggle
-
-3. **Iris Dataset** (Classification)
-   - Classic ML dataset
-   - Available in scikit-learn
-
-4. **Boston Housing** (Regression)
-   - Predict house prices
-   - Available in scikit-learn
+Set `random_state=73` everywhere for reproducibility.
 
 ---
 
