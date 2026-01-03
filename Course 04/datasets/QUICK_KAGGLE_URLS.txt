@@ -1,0 +1,22 @@
+KAGGLE DATASET URLS - QUICK REFERENCE
+=====================================
+
+1. Credit Card Fraud Detection
+   URL: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+   Dataset ID: mlg-ulb/creditcardfraud
+   Size: ~145 MB
+   File: creditcard.csv
+
+2. US-Accidents Dataset
+   URL: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+   Dataset ID: sobhanmoosavi/us-accidents
+   Size: ~300+ MB
+   File: US_Accidents_March23.csv (or latest)
+
+DOWNLOAD INSTRUCTIONS:
+- Manual: Visit URLs above → Click "Download" → Extract → Move to datasets/raw/
+- Automated: See KAGGLE_DOWNLOAD_GUIDE.md or run: python download_kaggle_datasets.py
+
+REQUIREMENTS:
+- Kaggle account (free): https://www.kaggle.com/account/register
+- For API: pip install kaggle + API credentials from https://www.kaggle.com/settings
