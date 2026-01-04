@@ -263,3 +263,23 @@ merge_*.py
 **/TESTING_REPORT.md
 **/NEXT_STEPS.md
 **/ASSESSMENTS/ASSESSMENT_SUMMARY.md
+
+# Large dataset files (students download separately)
+# Keep small sample files, exclude large datasets
+Course 04/datasets/raw/*.csv
+!Course 04/datasets/raw/crime_statistics.csv
+!Course 04/datasets/raw/titanic.csv
+
+# Development/research files in DOCS and datasets (specific patterns)
+Course 04/DOCS/COMPREHENSIVE_*.md
+Course 04/DOCS/FINAL_*.md
+Course 04/DOCS/DEEP_*.md
+Course 04/DOCS/DATASET_CHOICE*.md
+Course 04/DOCS/*TEST_RESULTS*.md
+Course 04/DOCS/QUICK_TEST*.md
+Course 04/DOCS/REAL_DATASETS_AVAILABILITY*.md
+Course 04/DOCS/*ALIGNMENT_ASSESSMENT*.md
+Course 04/datasets/*ALTERNATIVES*.md
+Course 04/datasets/*SEARCH*.md
+Course 04/datasets/KAGGLE_SEARCH*.md
+Course 04/datasets/combine_*.py
