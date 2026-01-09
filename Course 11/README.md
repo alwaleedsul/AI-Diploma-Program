@@ -14,6 +14,37 @@ This course provides comprehensive training in deploying AI models to production
 
 **Course Code:** AIAT 125  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 4  
+**Lecture Hours:** 2  
+**Practical Hours:** 4  
+**Total Hours:** 96 (32 theoretical + 64 practical)
+
+**Unit Breakdown:**
+- Unit 1: 6 theoretical + 12 practical = 18 hours
+- Unit 2: 6 theoretical + 13 practical = 19 hours
+- Unit 3: 6 theoretical + 13 practical = 19 hours
+- Unit 4: 7 theoretical + 13 practical = 20 hours
+- Unit 5: 7 theoretical + 13 practical = 20 hours
+
+
+---
+
+
+---
+
+## Safety Procedures | إجراءات السلامة
+
+**Important:** Please review the safety procedures before starting any lab work or practical exercises.
+
+**مهم:** يرجى مراجعة إجراءات السلامة قبل بدء أي عمل مخبري أو تمارين عملية.
+
+📖 **Full Safety Guide:** See `../DOCS/SAFETY_PROCEDURES.md` for complete safety procedures and requirements.
+
+**Key Safety Rules:**
+- ✅ Maintain clean, organized workspace
+- ✅ Keep food and drinks away from equipment
+- ✅ Know locations of fire extinguishers and first aid tools
+- ✅ Report safety concerns immediately
 
 ---
 
@@ -28,39 +59,21 @@ This course provides comprehensive training in deploying AI models to production
 
 ---
 
-## Course Objectives | أهداف الدورة
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
 
-Based on official plan (AIAT 125), students will:
+**The detailed objectives of the training program are: For the trainee to be able to:**
 
-1. **Introduction to Deploying AI Models**
-   - Deployment concepts
-   - Model serialization
-   - Deployment strategies
-   - Production considerations
+**CLO1:** Explain key concepts of AI model deployment and the comprehensive deployment process.
 
-2. **Model Versioning and Serving**
-   - Model versioning systems
-   - Model serving frameworks
-   - A/B testing
-   - Rollback strategies
+**CLO2:** Apply deployment techniques for packaging AI models for deployment in different environments.
 
-3. **Cloud and Containerization**
-   - Cloud platforms (AWS, Azure, GCP)
-   - Docker containerization
-   - Kubernetes basics
-   - Serverless deployment
+**CLO3:** Implement and manage Application Programming Interfaces (APIs) for serving AI models and creating inference pipelines.
 
-4. **APIs and Interfaces**
-   - REST API development
-   - GraphQL for ML
-   - API design best practices
-   - Interface development
+**CLO4:** Use containerization techniques (Docker) and orchestration tools (Kubernetes) for deploying scalable models.
 
-5. **Production Pipelines and Monitoring**
-   - MLOps pipelines
-   - Model monitoring
-   - Performance tracking
-   - Alerting systems
+**CLO5:** Set up Continuous Integration and Continuous Delivery (CI/CD) pipelines for deploying AI models with minimal downtime.
+
+**CLO6:** Monitor deployed AI models in terms of performance and troubleshoot common issues related to model degradation or bias.
 
 ---
 

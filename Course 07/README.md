@@ -14,6 +14,37 @@ This course provides comprehensive training in Natural Language Processing (NLP)
 
 **Course Code:** AIAT 121  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 3  
+**Lecture Hours:** 2  
+**Practical Hours:** 2  
+**Total Hours:** 64 (32 theoretical + 32 practical)
+
+**Unit Breakdown:**
+- Unit 1: 6 theoretical + 6 practical = 12 hours
+- Unit 2: 6 theoretical + 6 practical = 12 hours
+- Unit 3: 6 theoretical + 6 practical = 12 hours
+- Unit 4: 7 theoretical + 7 practical = 14 hours
+- Unit 5: 7 theoretical + 7 practical = 14 hours
+
+
+---
+
+
+---
+
+## Safety Procedures | إجراءات السلامة
+
+**Important:** Please review the safety procedures before starting any lab work or practical exercises.
+
+**مهم:** يرجى مراجعة إجراءات السلامة قبل بدء أي عمل مخبري أو تمارين عملية.
+
+📖 **Full Safety Guide:** See `../DOCS/SAFETY_PROCEDURES.md` for complete safety procedures and requirements.
+
+**Key Safety Rules:**
+- ✅ Maintain clean, organized workspace
+- ✅ Keep food and drinks away from equipment
+- ✅ Know locations of fire extinguishers and first aid tools
+- ✅ Report safety concerns immediately
 
 ---
 
@@ -28,34 +59,44 @@ This course provides comprehensive training in Natural Language Processing (NLP)
 
 ---
 
-## Course Objectives | أهداف الدورة
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
 
-Based on official plan (AIAT 121), students will:
+**The detailed objectives of the training program are: For the trainee to be able to:**
 
-1. **Introduction to NLP**
-   - Understand NLP fundamentals
-   - Text processing basics
-   - NLP applications overview
+**CLO1:** Understand NLP fundamentals and importance in real-world applications.
 
-2. **Tokenization and Morphology**
-   - Text tokenization techniques
-   - Morphological analysis
-   - Language structure understanding
+**CLO2:** Apply text processing techniques such as tokenization, stemming, lemmatization, and vectorization.
 
-3. **Machine Learning for NLP**
-   - ML algorithms for text
-   - Feature extraction
-   - Text classification and clustering
+**CLO3:** Implement traditional machine learning models for NLP tasks such as classification, named entity recognition, and topic modeling.
 
-4. **Deep Learning for NLP**
-   - RNNs and LSTMs for sequences
-   - Transformers architecture
-   - Modern language models (BERT, GPT)
+**CLO4:** Use deep learning techniques such as Recurrent Neural Networks (RNNs), Long Short-Term Memory networks (LSTMs), and Transformers.
 
-5. **Applications and Ethics**
-   - Real-world NLP applications
-   - Ethical considerations
-   - Bias in NLP systems
+**CLO5:** Work with popular NLP frameworks such as NLTK, spaCy, and Hugging Face Transformers.
+
+**CLO6:** Develop and evaluate NLP applications such as sentiment analysis, text summarization, and chatbots.
+
+**CLO7:** Analyze ethical considerations and challenges in NLP, including bias and fairness in AI models.
+
+**CLO8:** Optimize and fine-tune pre-trained language models for custom NLP tasks.
+
+**CLO9:** Implement multilingual and cross-lingual NLP solutions.
+
+**CLO10:** Design and implement end-to-end NLP pipelines for real-world applications.
+- Transfer learning for NLP
+- Model optimization techniques
+- Performance improvement
+
+**CLO9:** Implement multilingual and cross-lingual NLP solutions
+- Multilingual text processing
+- Cross-lingual transfer learning
+- Language-specific challenges
+- Multilingual applications
+
+**CLO10:** Design and implement end-to-end NLP pipelines
+- Complete NLP pipeline design
+- Integration of NLP components
+- Production-ready NLP systems
+- End-to-end implementation
 
 ---
 

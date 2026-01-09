@@ -1,42 +1,79 @@
-# Unit 2: Search Algorithms | خوارزميات البحث
+# Unit 2: AI Concepts, Terminology, and Application Domains
+# الوحدة 2: مفاهيم الذكاء الاصطناعي والمصطلحات ومجالات التطبيق
 
-### Learning Objectives | أهداف التعلم
+**Official Unit Name:** AI Concepts, Terminology, and Application Domains  
+**Duration:** 12 hours (6 theory + 6 practical)
 
-By the end of this unit, students will be able to:
-- Understand search problems and state spaces
-- Implement Breadth-First Search (BFS)
-- Implement Depth-First Search (DFS)
-- Implement A* algorithm with heuristics
-- Apply search algorithms to pathfinding problems
+**📖 Official Structure:** See `../../../COMPLETE_COURSE_STRUCTURE_AND_CLOS.md` and `../../../DETAILED_UNIT_DESCRIPTIONS.md` for complete details.
+
+**Note:** This unit folder also contains search algorithms content (which is part of Unit 1 in the official structure). See Unit 1 for search algorithm materials.
 
 ---
 
-## Topics Covered | المواضيع المغطاة
+## Learning Objectives | أهداف التعلم
 
-1. **Introduction to Search Problems**
-   - State space representation
-   - Goal states
-   - Search trees
+By the end of this unit, students will be able to:
+- Review and apply Python basics for AI development
+- Understand and implement expert systems
+- Work with knowledge representation methods (ontology, knowledge graphs, RDF, SPARQL)
+- Apply probabilistic reasoning and Bayes' rule to AI problems
+- Understand machine learning fundamentals and types
 
-2. **Breadth-First Search (BFS)**
-   - Queue-based implementation
-   - Guaranteed shortest path
-   - Time and space complexity
+---
 
-3. **Depth-First Search (DFS)**
-   - Stack-based implementation
-   - Memory efficient
-   - Applications
+## Theoretical Content | المحتوى النظري
 
-4. **A* Algorithm**
-   - Heuristic functions
-   - Cost function
-   - Optimal pathfinding
+### 1. Python Basics Review
+- Review of Python basics (lists, dictionaries, loops, functions)
+- Advanced file handling and data processing
+- Working with AI-specific libraries (NumPy, Pandas)
 
-5. **Applications**
-   - Pathfinding in games
-   - Puzzle solving
-   - Route planning
+### 2. Expert Systems
+- Definition and applications of expert systems
+- Components of expert systems
+- Rule-based systems vs machine learning-based systems
+- Forward and backward reasoning in expert systems
+
+### 3. Knowledge Representation and Reasoning
+- Introduction to ontology and knowledge graphs
+- Working with RDF (Resource Description Framework)
+- Querying knowledge graphs using SPARQL
+
+### 4. Probabilistic Reasoning and Uncertainty in AI
+- Understanding uncertainty in AI and its challenges
+- Introduction to Bayes' rule in AI
+- Concept and applications of Bayesian statistics
+- Bayes' theorem: formula, interpretation, real-world use cases
+- Practical examples of Bayes' rule with step-by-step solutions
+
+### 5. Introduction to Machine Learning
+- Overview of machine learning and its importance
+- Types of machine learning:
+  - Supervised learning
+  - Unsupervised learning
+  - Reinforcement learning
+- Data in supervised learning: features, labels, preprocessing
+- Encoding categorical features for ML models
+- Understanding the data generation process in ML
+
+---
+
+## Practical Content | المحتوى العملي
+
+### Hands-On Activities:
+- ✅ Applied review of Python basics (lists, dictionaries, file handling)
+- ✅ Implementing a simple expert system using Python
+- ✅ Working with RDF and SPARQL for knowledge graph queries
+- ✅ Applying Bayes' theorem to real-world problems using Python
+- ✅ Encoding categorical features for ML models
+- ✅ Developing simple supervised and unsupervised learning models
+- ✅ Exploring the data generation process using Python and Pandas
+
+### Notebooks and Exercises:
+- See `examples/` folder for code demonstrations
+- Complete exercises in `exercises/` folder
+- Check solutions in `solutions/` folder
+- Test understanding with quizzes in `quizzes/` folder
 
 ---
 

@@ -23,6 +23,37 @@ This course provides comprehensive training in machine learning algorithms using
 
 **Course Code:** AIAT 114  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 4  
+**Lecture Hours:** 2  
+**Practical Hours:** 4  
+**Total Hours:** 64 (32 theoretical + 32 practical)
+
+**Unit Breakdown:**
+- Unit 1: 6 theoretical + 6 practical = 12 hours
+- Unit 2: 6 theoretical + 6 practical = 12 hours
+- Unit 3: 6 theoretical + 6 practical = 12 hours
+- Unit 4: 6 theoretical + 6 practical = 12 hours
+- Unit 5: 7 theoretical + 7 practical = 14 hours
+
+
+---
+
+
+---
+
+## Safety Procedures | إجراءات السلامة
+
+**Important:** Please review the safety procedures before starting any lab work or practical exercises.
+
+**مهم:** يرجى مراجعة إجراءات السلامة قبل بدء أي عمل مخبري أو تمارين عملية.
+
+📖 **Full Safety Guide:** See `../DOCS/SAFETY_PROCEDURES.md` for complete safety procedures and requirements.
+
+**Key Safety Rules:**
+- ✅ Maintain clean, organized workspace
+- ✅ Keep food and drinks away from equipment
+- ✅ Know locations of fire extinguishers and first aid tools
+- ✅ Report safety concerns immediately
 
 ---
 
@@ -130,6 +161,26 @@ This course provides comprehensive training in machine learning algorithms using
 - Boosting algorithms (XGBoost, LightGBM)
 - Model selection strategies
 - Ensemble methods
+
+---
+
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
+
+**The detailed objectives of the training program are: For the trainee to be able to:**
+
+**CLO1:** Apply data processing methodologies (handling missing data, categorical variables, and feature scaling) effectively in machine learning systems.
+
+**CLO2:** Demonstrate proficiency in linear and polynomial regression models, including interpreting model coefficients and understanding basic assumptions.
+
+**CLO3:** Evaluate advanced regression algorithms (such as Ridge, Lasso, SVR) and select appropriate models based on use cases.
+
+**CLO4:** Build and evaluate classification models (such as logistic regression, decision trees, SVM, random forests) using diverse performance metrics.
+
+**CLO5:** Implement clustering techniques (such as K-means, hierarchical clustering) and dimensionality reduction (PCA, LDA) for exploratory data analysis.
+
+**CLO6:** Employ model selection strategies (such as cross-validation, grid search) and boosting techniques (such as AdaBoost, XGBoost) to improve model performance.
+
+**CLO7:** Analyze and interpret machine learning results, effectively presenting recommendations in business or research contexts.
 
 ---
 

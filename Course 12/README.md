@@ -14,6 +14,37 @@ This is the capstone project course where students apply all knowledge gained th
 
 **Course Code:** AIAT 126  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 3  
+**Lecture Hours:** 1  
+**Practical Hours:** 4  
+**Total Hours:** 80 (16 theoretical + 64 practical)
+
+**Unit Breakdown:**
+- Unit 1: 4 theoretical + 10 practical = 14 hours
+- Unit 2: 3 theoretical + 12 practical = 15 hours
+- Unit 3: 3 theoretical + 14 practical = 17 hours
+- Unit 4: 3 theoretical + 14 practical = 17 hours
+- Unit 5: 3 theoretical + 14 practical = 17 hours
+
+
+---
+
+
+---
+
+## Safety Procedures | إجراءات السلامة
+
+**Important:** Please review the safety procedures before starting any lab work or practical exercises.
+
+**مهم:** يرجى مراجعة إجراءات السلامة قبل بدء أي عمل مخبري أو تمارين عملية.
+
+📖 **Full Safety Guide:** See `../DOCS/SAFETY_PROCEDURES.md` for complete safety procedures and requirements.
+
+**Key Safety Rules:**
+- ✅ Maintain clean, organized workspace
+- ✅ Keep food and drinks away from equipment
+- ✅ Know locations of fire extinguishers and first aid tools
+- ✅ Report safety concerns immediately
 
 ---
 
@@ -25,31 +56,21 @@ This is the capstone project course where students apply all knowledge gained th
 
 ---
 
-## Course Objectives | أهداف الدورة
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
 
-1. **Project Planning**
-   - Problem identification
-   - Requirements gathering
-   - Project scoping
-   - Timeline planning
+**The detailed objectives of the training program are: For the trainee to be able to:**
 
-2. **Implementation**
-   - Data collection and preparation
-   - Model development
-   - System integration
-   - Testing and validation
+*Note: Detailed CLOs for Course 12 (Capstone Project) are not explicitly listed in the PDF extraction. Based on the course description, students should be able to:*
 
-3. **Deployment**
-   - Production deployment
-   - Monitoring setup
-   - Documentation
-   - User training
+**CLO1:** Design and develop a comprehensive AI solution to address a specific real-world problem.
 
-4. **Presentation**
-   - Project documentation
-   - Technical presentation
-   - Demo preparation
-   - Portfolio development
+**CLO2:** Integrate knowledge from different AI subfields into a coherent and practical system.
+
+**CLO3:** Conduct critical evaluation of implemented solution performance using relevant metrics.
+
+**CLO4:** Effectively communicate project goals, processes, results, and impacts through technical documentation.
+
+**CLO5:** Identify and analyze ethical, legal, and social considerations relevant to the AI solution.
 
 ---
 

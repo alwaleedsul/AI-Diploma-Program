@@ -12,6 +12,16 @@ By the end of this unit, students will be able to:
 
 ---
 
+## Unit Duration | مدة الوحدة
+
+**Theoretical Hours:** 6 hours  
+**Practical Hours:** 6 hours  
+**Total Hours:** 12 hours
+
+**Format:** 6 theoretical + 6 practical hours
+
+---
+
 ## Topics Covered
 
 1. **Classification Algorithms**

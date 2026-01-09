@@ -14,6 +14,37 @@ This course provides comprehensive training in Generative AI, covering Generativ
 
 **Course Code:** AIAT 124  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 3  
+**Lecture Hours:** 2  
+**Practical Hours:** 2  
+**Total Hours:** 64 (32 theoretical + 32 practical)
+
+**Unit Breakdown:**
+- Unit 1: 6 theoretical + 6 practical = 12 hours
+- Unit 2: 6 theoretical + 6 practical = 12 hours
+- Unit 3: 6 theoretical + 6 practical = 12 hours
+- Unit 4: 7 theoretical + 7 practical = 14 hours
+- Unit 5: 7 theoretical + 7 practical = 14 hours
+
+
+---
+
+
+---
+
+## Safety Procedures | إجراءات السلامة
+
+**Important:** Please review the safety procedures before starting any lab work or practical exercises.
+
+**مهم:** يرجى مراجعة إجراءات السلامة قبل بدء أي عمل مخبري أو تمارين عملية.
+
+📖 **Full Safety Guide:** See `../DOCS/SAFETY_PROCEDURES.md` for complete safety procedures and requirements.
+
+**Key Safety Rules:**
+- ✅ Maintain clean, organized workspace
+- ✅ Keep food and drinks away from equipment
+- ✅ Know locations of fire extinguishers and first aid tools
+- ✅ Report safety concerns immediately
 
 ---
 
@@ -28,37 +59,23 @@ This course provides comprehensive training in Generative AI, covering Generativ
 
 ---
 
-## Course Objectives | أهداف الدورة
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
 
-Based on official plan (AIAT 124), students will:
+**The detailed objectives of the training program are: For the trainee to be able to:**
 
-1. **Introduction to Generative AI**
-   - Understand generative AI concepts
-   - Generative vs discriminative models
-   - Applications overview
+**CLO1:** Explain basic principles of generative AI, including probabilistic modeling, neural network structures, and key concepts.
 
-2. **Generative Models for Deep Learning**
-   - GANs (Generative Adversarial Networks)
-   - VAEs (Variational Autoencoders)
-   - Architecture and training
+**CLO2:** Apply generative modeling techniques such as Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), and Transformer-based models.
 
-3. **Applications of Generative AI**
-   - Image generation
-   - Text generation
-   - Creative applications
-   - Real-world use cases
+**CLO3:** Implement and optimize generative models using frameworks such as TensorFlow and PyTorch for tasks such as text generation, image synthesis, and audio creation.
 
-4. **Ethical Considerations and Transparency**
-   - Deepfakes and detection
-   - Bias in generative models
-   - Responsible AI generation
-   - Transparency requirements
+**CLO4:** Evaluate generative model performance using quantitative metrics (such as FID, BLEU, and perplexity) and qualitative assessments, addressing challenges such as mode collapse.
 
-5. **Real-World Applications and Challenges**
-   - Production deployment
-   - Quality control
-   - Evaluation metrics
-   - Industry applications
+**CLO5:** Design and develop generative AI-based solutions for practical applications, including automatic content generation, data augmentation, and creative applications.
+
+**CLO6:** Analyze ethical, legal, and social implications of generative AI, including issues related to bias, misinformation, intellectual property rights, and transparency requirements.
+
+**CLO7:** Explore emerging trends and future developments in generative AI, such as multimodal generation, diffusion models, and their impacts.
 
 ---
 

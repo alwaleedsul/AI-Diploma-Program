@@ -12,6 +12,16 @@ By the end of this unit, students will be able to:
 
 ---
 
+## Unit Duration | مدة الوحدة
+
+**Theoretical Hours:** 7 hours  
+**Practical Hours:** 7 hours  
+**Total Hours:** 14 hours
+
+**Format:** 7 theoretical + 7 practical hours
+
+---
+
 ## Topics Covered
 
 1. **Hyperparameter Tuning**

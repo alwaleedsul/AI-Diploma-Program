@@ -24,6 +24,42 @@ This course provides a comprehensive introduction to Artificial Intelligence, co
 **Course Code:** AIAT 111  
 **Language:** Bilingual (Arabic/English)
 
+**Credit Hours:** 3  
+**Lecture Hours:** 2/week  
+**Practical Hours:** 2/week  
+**Total Hours:** 64 (32 theoretical + 32 practical)
+
+**📖 Official Course Structure:** See `../COMPLETE_COURSE_STRUCTURE_AND_CLOS.md` for complete course details, CLOs, and unit structures.  
+**📋 Quick Reference:** See `../QUICK_REFERENCE_GUIDE.md` for course overview.
+
+**Unit Breakdown:**
+- Unit 1: Introduction to AI and Applications (6 theory + 6 practical = 12 hours)
+- Unit 2: AI Concepts, Terminology, and Application Domains (6 theory + 6 practical = 12 hours)
+- Unit 3: AI Concepts, Terminology, and Application Domains Part 2 (6 theory + 6 practical = 12 hours)
+- Unit 4: Neural Networks Fundamentals (7 theory + 7 practical = 14 hours)
+- Unit 5: Introduction to Generative AI and Course Summary (7 theory + 7 practical = 14 hours)
+
+**📚 Detailed Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for complete theoretical and practical content for each unit.
+
+---
+
+
+---
+
+## Safety Procedures | إجراءات السلامة
+
+**Important:** Please review the safety procedures before starting any lab work or practical exercises.
+
+**مهم:** يرجى مراجعة إجراءات السلامة قبل بدء أي عمل مخبري أو تمارين عملية.
+
+📖 **Full Safety Guide:** See `../DOCS/SAFETY_PROCEDURES.md` for complete safety procedures and requirements.
+
+**Key Safety Rules:**
+- ✅ Maintain clean, organized workspace
+- ✅ Keep food and drinks away from equipment
+- ✅ Know locations of fire extinguishers and first aid tools
+- ✅ Report safety concerns immediately
+
 ---
 
 ## Prerequisites | المتطلبات الأساسية
@@ -37,29 +73,27 @@ This course provides a comprehensive introduction to Artificial Intelligence, co
 
 ---
 
-## Course Objectives | أهداف الدورة
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
 
-By the end of this course, students will be able to:
+**The detailed objectives of the training program are: For the trainee to be able to:**
 
-1. **Understand AI Fundamentals**
-   - Define AI and its applications
-   - Understand AI history and evolution
-   - Identify different types of AI systems
+**CLO1:** Distinguish between traditional AI (rule-based) and modern AI (data-driven), explaining the main historical landmarks and philosophical discussions (such as Turing's objections).
 
-2. **Master Search Algorithms**
-   - Implement BFS, DFS, and A* algorithms
-   - Apply search algorithms to real problems
-   - Understand heuristic functions
+**CLO2:** Apply basic AI techniques like search algorithms (uninformed, heuristic, and competitive) and understand the design of rational agents (PEAS framework).
 
-3. **Understand Knowledge Representation**
-   - Represent knowledge using graphs and trees
-   - Implement rule-based systems
-   - Work with knowledge bases
+**CLO3:** Demonstrate knowledge of knowledge systems, including knowledge representation, ontologies, and knowledge agent engineering.
 
-4. **Introduction to Neural Networks**
-   - Understand basic neural network concepts
-   - Implement simple neural networks
-   - Apply neural networks to classification
+**CLO4:** Use Bayesian probabilities and other probabilistic models to deal with uncertainty in AI problems, distinguishing between rule-based systems and data-driven models.
+
+**CLO5:** Implement supervised and unsupervised ML pipelines, understanding data processing, encoding, hypothesis space, and loss/optimization.
+
+**CLO6:** Build and train basic feedforward neural networks for classification or regression tasks, understanding the mathematics of individual neurons and activation functions.
+
+**CLO7:** Compare different deep learning structures (CNN, RNN, LSTM), evaluate overfitting vs underfitting, and apply techniques to improve model generalization.
+
+**CLO8:** Explore generative AI concepts and frameworks, discussing ethical implications and creative applications of models like GANs, Transformers, and large language models.
+- Understand generative AI applications
+- Work with generative AI frameworks
 
 ---
 

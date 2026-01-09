@@ -24,6 +24,17 @@ This course delves into the ethical implications and responsibilities associated
 **Course Code:** AIAT 116  
 **Course Name:** أخلاقيات الذكاء الاصطناعي (Ethics of Artificial Intelligence)  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 3  
+**Lecture Hours:** 2  
+**Practical Hours:** 2  
+**Total Hours:** 64 (32 theoretical + 32 practical)
+
+**Unit Breakdown:**
+- Unit 1: 6 theoretical + 6 practical = 12 hours
+- Unit 2: 6 theoretical + 6 practical = 12 hours
+- Unit 3: 6 theoretical + 6 practical = 12 hours
+- Unit 4: 7 theoretical + 7 practical = 14 hours
+- Unit 5: 7 theoretical + 7 practical = 14 hours
 
 ---
 
@@ -69,6 +80,14 @@ This course delves into the ethical implications and responsibilities associated
 2. **Install:** Libraries (see `DOCS/INSTALLATION_GUIDE.md`)
 3. **Start:** `unit1-ethics-foundations/examples/01_ethical_frameworks.ipynb`
 4. **Track:** Use `STUDENT_PROGRESS_CHECKLIST.md`
+
+---
+
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
+
+**The detailed objectives of the training program are: For the trainee to be able to:**
+
+*Note: Detailed CLOs for Course 06 (AI Ethics) are not explicitly listed in the PDF extraction. The course focuses on ethical frameworks, bias and justice, privacy and security, transparency and accountability, and governance and regulations in AI systems.*
 
 ---
 

@@ -23,6 +23,30 @@ This course provides a fundamental understanding of the mathematics required for
 
 **Course Code:** 113 AIAT  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 3  
+**Lecture Hours:** 2  
+**Practical Hours:** 2
+
+**Note:** This course uses a module-based structure rather than traditional units.
+
+---
+
+
+---
+
+## Safety Procedures | إجراءات السلامة
+
+**Important:** Please review the safety procedures before starting any lab work or practical exercises.
+
+**مهم:** يرجى مراجعة إجراءات السلامة قبل بدء أي عمل مخبري أو تمارين عملية.
+
+📖 **Full Safety Guide:** See `../DOCS/SAFETY_PROCEDURES.md` for complete safety procedures and requirements.
+
+**Key Safety Rules:**
+- ✅ Maintain clean, organized workspace
+- ✅ Keep food and drinks away from equipment
+- ✅ Know locations of fire extinguishers and first aid tools
+- ✅ Report safety concerns immediately
 
 ---
 
@@ -36,6 +60,24 @@ This course provides a fundamental understanding of the mathematics required for
 - Completion of Course 02 recommended (but not required)
 
 **Setup**: See `docs/INSTALLATION_GUIDE.md` for detailed library installation instructions
+
+---
+
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
+
+**The detailed objectives of the training program are: For the trainee to be able to:**
+
+**CLO1:** Demonstrate comprehensive understanding of basic mathematical concepts, including linear algebra and probabilities, and their applications in artificial intelligence and machine learning.
+
+**CLO2:** Apply mathematical techniques such as matrix operations, eigenvalue analysis, and multivariable calculus to solve complex problems in machine learning.
+
+**CLO3:** Evaluate and interpret data using statistical methods, including hypothesis testing and confidence intervals, to make informed decisions.
+
+**CLO4:** Use dimensionality reduction techniques such as PCA, SVD, and t-SNE effectively to analyze and visualize high-dimensional datasets.
+
+**CLO5:** Formulate, implement, and optimize machine learning models using gradient descent and other optimization techniques.
+
+**CLO6:** Implement mathematical and statistical algorithms relevant to machine learning, including regression, inner products, and projections using Python libraries.
 
 ---
 

@@ -14,6 +14,18 @@ This course provides comprehensive training in Deep Learning using TensorFlow an
 
 **Course Code:** AIAT 122  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 3  
+**Lecture Hours:** 2  
+**Practical Hours:** 2  
+**Total Hours:** 96 (32 theoretical + 64 practical)
+
+**Unit Breakdown:**
+- Unit 1: 6 theoretical + 12 practical = 18 hours
+- Unit 2: 6 theoretical + 13 practical = 19 hours
+- Unit 3: 6 theoretical + 13 practical = 19 hours
+- Unit 4: 7 theoretical + 13 practical = 20 hours
+- Unit 5: 7 theoretical + 13 practical = 20 hours
+
 
 ---
 
@@ -28,34 +40,19 @@ This course provides comprehensive training in Deep Learning using TensorFlow an
 
 ---
 
-## Course Objectives | أهداف الدورة
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
 
-Based on official plan (AIAT 122), students will:
+**The detailed objectives of the training program are: For the trainee to be able to:**
 
-1. **Deep Learning Basics**
-   - Understand deep learning fundamentals
-   - Neural network architectures
-   - Backpropagation and optimization
+**CLO1:** Explain basic concepts of deep learning, including the structure and performance of neural networks, backpropagation algorithm, and optimization techniques.
 
-2. **CNNs for Images**
-   - Convolutional Neural Networks
-   - Image classification and recognition
-   - Transfer learning
+**CLO2:** Develop and implement deep learning architectures such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformers.
 
-3. **RNNs for Sequences**
-   - Recurrent Neural Networks
-   - LSTM and GRU
-   - Sequence modeling applications
+**CLO3:** Build and deploy deep learning models to solve real-world problems, including tasks in image recognition (such as classification and object detection).
 
-4. **Transformers**
-   - Attention mechanisms
-   - Transformer architecture
-   - Pre-trained transformer models
+**CLO4:** Optimize deep learning models by applying techniques such as hyperparameter tuning (grid search, random search) and regularization (dropout, batch normalization).
 
-5. **Deploying Deep Learning Models**
-   - Model optimization
-   - Deployment strategies
-   - Production considerations
+**CLO5:** Critically evaluate ethical issues related to deep learning, including biases in datasets, fairness in model predictions, and interpretability.
 
 ---
 

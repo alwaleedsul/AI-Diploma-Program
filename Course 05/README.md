@@ -22,6 +22,17 @@ This course provides comprehensive training in scalable data science techniques 
 
 **Course Code:** AIAT 115  
 **Language:** Bilingual (Arabic/English)
+**Credit Hours:** 4  
+**Lecture Hours:** 2  
+**Practical Hours:** 4  
+**Total Hours:** 64 (32 theoretical + 32 practical)
+
+**Unit Breakdown:**
+- Unit 1: 6 theoretical + 6 practical = 12 hours
+- Unit 2: 6 theoretical + 6 practical = 12 hours
+- Unit 3: 6 theoretical + 6 practical = 12 hours
+- Unit 4: 7 theoretical + 7 practical = 14 hours
+- Unit 5: 7 theoretical + 7 practical = 14 hours
 
 ---
 
@@ -64,6 +75,14 @@ This course provides comprehensive training in scalable data science techniques 
 2. **Install:** Libraries (see `DOCS/SETUP_INSTRUCTIONS.md`)
 3. **Start:** `unit1-introduction/examples/01_data_science_intro.py` (or `.ipynb`)
 4. **Track:** Use `STUDENT_PROGRESS_CHECKLIST.md`
+
+---
+
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
+
+**The detailed objectives of the training program are: For the trainee to be able to:**
+
+*Note: Detailed CLOs for Course 05 (Scalable Data Science) are not explicitly listed in the PDF extraction. The course focuses on scalable data processing, cleaning, visualization, and modeling techniques using Python and NVIDIA RAPIDS.*
 
 ---
 

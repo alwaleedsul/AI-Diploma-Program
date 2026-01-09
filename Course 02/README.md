@@ -20,6 +20,13 @@ The `START_HERE.md` file contains:
 
 This course connects Python programming fundamentals with core AI concepts. Each notebook demonstrates how Python's features enable AI implementations.
 
+**Course Code:** AIAT 112  
+**Credit Hours:** 4  
+**Lecture Hours:** 2  
+**Practical Hours:** 4
+
+**Note:** This course uses a notebook-based structure rather than traditional units.
+
 ---
 
 ## Prerequisites | المتطلبات الأساسية
@@ -65,6 +72,22 @@ This course connects Python programming fundamentals with core AI concepts. Each
 2. **Install:** Libraries (see `DOCS/INSTALLATION_GUIDE.md`)
 3. **Start:** `NOTEBOOKS/00_Python_Libraries_for_AI.ipynb`
 4. **Track:** Use `STUDENT_PROGRESS_CHECKLIST.md`
+
+---
+
+## Course Learning Outcomes (CLOs) | مخرجات التعلم
+
+**The detailed objectives of the training program are: For the trainee to be able to:**
+
+**CLO1:** Implement and demonstrate at least three major AI algorithms (such as A* search algorithm, k-nearest neighbors, and decision trees) using Python.
+
+**CLO2:** Complete a practical project that applies machine learning techniques to a real problem, demonstrating their ability to integrate AI concepts into a practical application.
+
+**CLO3:** Evaluate AI model performance using appropriate metrics (such as accuracy, precision, recall, F1 score) and be able to discuss the implications of these metrics in the context of their projects.
+
+**CLO4:** Analyze case studies of AI applications, identifying the algorithms used and evaluating their effectiveness in solving specific problems.
+
+**CLO5:** Design and implement a prototype intelligent system that includes at least two different AI techniques (such as natural language processing and machine learning), demonstrating creativity and technical competence.
 
 ---
 
