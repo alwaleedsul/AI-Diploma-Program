@@ -30,7 +30,7 @@ Before diving into individual courses, review the comprehensive curriculum docum
    - Comprehensive topic breakdowns
    - Practical exercises and activities
 
-4. **[CURRICULUM_SUMMARY_REPORT.md](CURRICULUM_SUMMARY_REPORT.md)** 📊 **Statistics & Analysis** ⚠️ *File not found - needs to be created*
+4. **[CURRICULUM_SUMMARY_REPORT.md](CURRICULUM_SUMMARY_REPORT.md)** 📊 **Statistics & Analysis**
    - Comprehensive statistics and metrics
    - Hours breakdown (theory vs practical)
    - Quality assurance verification
@@ -42,29 +42,15 @@ Before diving into individual courses, review the comprehensive curriculum docum
 
 ## 🚀 Quick Start | البدء السريع
 
-### For New Students | للطلاب الجدد:
+1. **📖 Review [QUICK_REFERENCE_GUIDE.md](QUICK_REFERENCE_GUIDE.md)** - Quick overview of curriculum
+2. **📋 Check [COMPLETE_COURSE_STRUCTURE_AND_CLOS.md](COMPLETE_COURSE_STRUCTURE_AND_CLOS.md)** - Full course structure
+3. **Choose your course** from the list below
+4. **Navigate to the course directory** (e.g., `Course 04/`)
+5. **Read `START_HERE.md`** in that course directory
+6. **Follow the setup instructions** in `START_HERE.md`
+7. **Begin learning!**
 
-1. **📖 Read [STUDENT_GUIDE.md](STUDENT_GUIDE.md)** ⭐ **START HERE!**
-   - Complete guide to the program
-   - Setup instructions
-   - Learning path
-   - Progress tracking
-
-2. **📋 Review [QUICK_REFERENCE_GUIDE.md](QUICK_REFERENCE_GUIDE.md)** - Quick overview of curriculum
-3. **🗺️ Check [COURSE_NAVIGATION.md](COURSE_NAVIGATION.md)** - How courses connect
-4. **Choose your course** from the list below
-5. **Navigate to the course directory** (e.g., `Course 01/`)
-6. **Read `START_HERE.md`** in that course directory
-7. **Follow the setup instructions** in `START_HERE.md`
-8. **Begin learning!**
-
-### Quick Links | روابط سريعة:
-
-- **[STUDENT_GUIDE.md](STUDENT_GUIDE.md)** - Complete student guide ⭐
-- **[TROUBLESHOOTING_GUIDE.md](TROUBLESHOOTING_GUIDE.md)** - Common issues & solutions
-- **[COURSE_NAVIGATION.md](COURSE_NAVIGATION.md)** - Course connections
-- **[GPU_REQUIREMENTS_SUMMARY.md](GPU_REQUIREMENTS_SUMMARY.md)** - GPU needs
-- **[TEACHING_TIMELINE.md](TIMELINE/TEACHING_TIMELINE.md)** - Complete schedule
+**💡 New to the program?** Start with the [QUICK_REFERENCE_GUIDE.md](QUICK_REFERENCE_GUIDE.md) for a complete curriculum overview!
 
 ---
 
@@ -560,11 +546,11 @@ cat START_HERE.md
 - **Total Hours:** 944 training hours (368 theory + 576 practical)
 - **Documentation:** Complete and verified
 
-📊 **See [CURRICULUM_SUMMARY_REPORT.md](CURRICULUM_SUMMARY_REPORT.md) for detailed statistics** ⚠️ *Note: This file needs to be created*
+📊 **See [CURRICULUM_SUMMARY_REPORT.md](CURRICULUM_SUMMARY_REPORT.md) for detailed statistics**
 
 ---
 
 **Last Updated:** January 7, 2025  
 **Status:** ✅ Complete curriculum structure and documentation ready!  
-**Source:** دبلوم مشارك الذكاء الاصطناعي (Can you organize everything wellيمية طويق للتدريب) نهائي.pdf
+**Source:** دبلوم مشارك الذكاء الاصطناعي (اكاديمية طويق للتدريب) نهائي.pdf
 
