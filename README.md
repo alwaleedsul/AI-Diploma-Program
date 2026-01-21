@@ -30,7 +30,7 @@ Before diving into individual courses, review the comprehensive curriculum docum
    - Comprehensive topic breakdowns
    - Practical exercises and activities
 
-4. **[CURRICULUM_SUMMARY_REPORT.md](CURRICULUM_SUMMARY_REPORT.md)** 📊 **Statistics & Analysis**
+4. **[CURRICULUM_SUMMARY_REPORT.md](CURRICULUM_SUMMARY_REPORT.md)** 📊 **Statistics & Analysis** ⚠️ *File not found - needs to be created*
    - Comprehensive statistics and metrics
    - Hours breakdown (theory vs practical)
    - Quality assurance verification
@@ -42,15 +42,29 @@ Before diving into individual courses, review the comprehensive curriculum docum
 
 ## 🚀 Quick Start | البدء السريع
 
-1. **📖 Review [QUICK_REFERENCE_GUIDE.md](QUICK_REFERENCE_GUIDE.md)** - Quick overview of curriculum
-2. **📋 Check [COMPLETE_COURSE_STRUCTURE_AND_CLOS.md](COMPLETE_COURSE_STRUCTURE_AND_CLOS.md)** - Full course structure
-3. **Choose your course** from the list below
-4. **Navigate to the course directory** (e.g., `Course 04/`)
-5. **Read `START_HERE.md`** in that course directory
-6. **Follow the setup instructions** in `START_HERE.md`
-7. **Begin learning!**
+### For New Students | للطلاب الجدد:
 
-**💡 New to the program?** Start with the [QUICK_REFERENCE_GUIDE.md](QUICK_REFERENCE_GUIDE.md) for a complete curriculum overview!
+1. **📖 Read [STUDENT_GUIDE.md](STUDENT_GUIDE.md)** ⭐ **START HERE!**
+   - Complete guide to the program
+   - Setup instructions
+   - Learning path
+   - Progress tracking
+
+2. **📋 Review [QUICK_REFERENCE_GUIDE.md](QUICK_REFERENCE_GUIDE.md)** - Quick overview of curriculum
+3. **🗺️ Check [COURSE_NAVIGATION.md](COURSE_NAVIGATION.md)** - How courses connect
+4. **Choose your course** from the list below
+5. **Navigate to the course directory** (e.g., `Course 01/`)
+6. **Read `START_HERE.md`** in that course directory
+7. **Follow the setup instructions** in `START_HERE.md`
+8. **Begin learning!**
+
+### Quick Links | روابط سريعة:
+
+- **[STUDENT_GUIDE.md](STUDENT_GUIDE.md)** - Complete student guide ⭐
+- **[TROUBLESHOOTING_GUIDE.md](TROUBLESHOOTING_GUIDE.md)** - Common issues & solutions
+- **[COURSE_NAVIGATION.md](COURSE_NAVIGATION.md)** - Course connections
+- **[GPU_REQUIREMENTS_SUMMARY.md](GPU_REQUIREMENTS_SUMMARY.md)** - GPU needs
+- **[TEACHING_TIMELINE.md](TIMELINE/TEACHING_TIMELINE.md)** - Complete schedule
 
 ---
 
@@ -76,7 +90,7 @@ Before diving into individual courses, review the comprehensive curriculum docum
 
 #### Course 02: AI Fundamentals | أساسيات الذكاء الاصطناعي
 **Code:** AIAT 112  
-**Directory:** `Course02/`
+**Directory:** `Course 02/`
 
 **Description:** Introduction to AI concepts, search algorithms, knowledge representation, and machine learning models.
 
@@ -94,7 +108,7 @@ Before diving into individual courses, review the comprehensive curriculum docum
 
 #### Course 03: Mathematics for AI | الرياضيات للذكاء الاصطناعي
 **Code:** AIAT 113  
-**Directory:** `Course03/`
+**Directory:** `Course 03/`
 
 **Description:** Mathematical foundations essential for understanding AI and machine learning algorithms.
 
@@ -390,7 +404,7 @@ Each course follows a consistent structure:
 
 ### For Students:
 
-1. **Start with Course 02** - Read `Course02/START_HERE.md`
+1. **Start with Course 02** - Read `Course 02/START_HERE.md`
 2. **Work through units sequentially** - Each unit builds on previous ones
 3. **Complete exercises** - Practice in `exercises/` directory
 4. **Check solutions** - Compare with `solutions/` directory
@@ -434,8 +448,8 @@ All courses are **bilingual** (Arabic/English):
 AI Diploma/
 │
 ├── Course 01/             Introduction to AI (AIAT 111)
-├── Course02/              AI Fundamentals (AIAT 112)
-├── Course03/              Mathematics for AI (AIAT 113)
+├── Course 02/             AI Fundamentals (AIAT 112)
+├── Course 03/             Mathematics for AI (AIAT 113)
 ├── Course 04/             Machine Learning (AIAT 114)
 ├── Course 05/             Data Science (AIAT 115)
 ├── Course 06/             AI Ethics (AIAT 116)
@@ -456,8 +470,8 @@ AI Diploma/
 
 **Semester 1:**
 - [Course 01 - START_HERE](Course%2001/START_HERE.md) (AIAT 111)
-- [Course 02 - START_HERE](Course02/START_HERE.md) (AIAT 112)
-- [Course 03 - START_HERE](Course03/START_HERE.md) (AIAT 113)
+- [Course 02 - START_HERE](Course%2002/START_HERE.md) (AIAT 112)
+- [Course 03 - START_HERE](Course%2003/START_HERE.md) (AIAT 113)
 - [Course 04 - START_HERE](Course%2004/START_HERE.md) (AIAT 114)
 - [Course 05 - START_HERE](Course%2005/START_HERE.md) (AIAT 115)
 - [Course 06 - START_HERE](Course%2006/START_HERE.md) (AIAT 116)
@@ -520,7 +534,7 @@ See individual course directories for license information.
 **مستعد للبدء؟** انتقل إلى الدورة الأولى واقرأ `START_HERE.md`!
 
 ```bash
-cd Course02
+cd "Course 02"
 cat START_HERE.md
 ```
 
@@ -546,11 +560,11 @@ cat START_HERE.md
 - **Total Hours:** 944 training hours (368 theory + 576 practical)
 - **Documentation:** Complete and verified
 
-📊 **See [CURRICULUM_SUMMARY_REPORT.md](CURRICULUM_SUMMARY_REPORT.md) for detailed statistics**
+📊 **See [CURRICULUM_SUMMARY_REPORT.md](CURRICULUM_SUMMARY_REPORT.md) for detailed statistics** ⚠️ *Note: This file needs to be created*
 
 ---
 
 **Last Updated:** January 7, 2025  
 **Status:** ✅ Complete curriculum structure and documentation ready!  
-**Source:** دبلوم مشارك الذكاء الاصطناعي (اكاديمية طويق للتدريب) نهائي.pdf
+**Source:** دبلوم مشارك الذكاء الاصطناعي (Can you organize everything wellيمية طويق للتدريب) نهائي.pdf
 

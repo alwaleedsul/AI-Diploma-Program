@@ -5,6 +5,7 @@
 numpy>=1.21.0
 pandas>=1.3.0
 scipy>=1.7.0
+dask>=2022.5.0
 
 # Machine Learning
 scikit-learn>=1.0.0
@@ -33,6 +34,8 @@ Pillow>=9.0.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
 plotly>=5.10.0
+dash>=2.10.0
+dash-bootstrap-components>=1.4.0
 
 # Reinforcement Learning
 gym>=0.21.0
@@ -48,10 +51,12 @@ requests>=2.27.0
 # Explainable AI
 shap>=0.40.0
 lime>=0.2.0
+fairlearn>=0.9.0  # Fairness in machine learning
 
 # Probabilistic Models
 pgmpy>=0.1.19
-pymc3>=3.11.0
+pymc>=4.0.0  # Updated from pymc3 (deprecated)
+networkx>=3.0  # Graph analysis and expert systems
 
 # GPU Acceleration (Optional)
 # cudf-cu11>=22.04.0  # Uncomment if using NVIDIA GPU
