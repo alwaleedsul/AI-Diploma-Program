@@ -57,6 +57,11 @@ This course provides comprehensive training in Generative AI, covering Generativ
 - Strong understanding of deep learning
 - Familiarity with neural networks
 
+**Hardware**: 
+- **GPU strongly recommended** for generative AI (GANs, VAEs, Stable Diffusion)
+- **Training on CPU is extremely slow** (can take days/weeks)
+- **Use Google Colab for free GPU access!** (See `DOCS/COLAB_SETUP.md`)
+
 ---
 
 ## Course Learning Outcomes (CLOs) | مخرجات التعلم

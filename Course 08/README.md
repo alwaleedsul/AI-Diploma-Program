@@ -38,6 +38,11 @@ This course provides comprehensive training in Deep Learning using TensorFlow an
 - Strong understanding of machine learning
 - Familiarity with neural networks basics
 
+**Hardware**: 
+- **GPU strongly recommended** for training deep learning models (10-100x faster)
+- **Use Google Colab for free GPU access!** (See `DOCS/COLAB_SETUP.md`)
+- CPU works but training will be very slow
+
 ---
 
 ## Course Learning Outcomes (CLOs) | مخرجات التعلم
