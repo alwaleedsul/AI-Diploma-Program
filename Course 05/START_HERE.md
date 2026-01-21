@@ -73,11 +73,13 @@ pip check
 
 **🖥️ GPU Installation (OPTIONAL):**
 - **GPU is NOT required** - Course works perfectly on CPU!
-- If you have NVIDIA GPU and want GPU acceleration:
+- **🌐 Use Google Colab for free GPU!** (See `DOCS/COLAB_SETUP.md`)
+- If you have NVIDIA GPU locally:
   ```bash
   conda install -c rapidsai -c conda-forge cudf cuml
   ```
 - All notebooks have pandas fallbacks - you can complete the course without GPU
+- GPU notebooks include Colab setup cells - just run them in Colab!
 
 **If you see errors:** Read `DOCS/SETUP_INSTRUCTIONS.md` for troubleshooting.
 

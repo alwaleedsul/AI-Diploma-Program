@@ -234,6 +234,7 @@ See `../requirements.txt` for complete list with versions.
 
 **If you don't have NVIDIA GPU:**
 - ✅ Course works perfectly with pandas (CPU)
+- ✅ **Use Google Colab for free GPU access!** (See `DOCS/COLAB_SETUP.md`)
 - ✅ All concepts are taught the same way
 - ✅ You'll learn GPU benefits even without GPU hardware
 - ✅ Performance will be slower on large datasets, but functionality is identical
@@ -243,11 +244,18 @@ See `../requirements.txt` for complete list with versions.
 - ✅ See 10-100x speedup on large datasets
 - ✅ Experience production-level performance
 
-**Installation (Optional):**
+**Installation Options:**
+
+**Option 1: Local Installation (if you have NVIDIA GPU)**
 ```bash
-# Only if you have NVIDIA GPU
 conda install -c rapidsai -c conda-forge cudf cuml
 ```
+
+**Option 2: Google Colab (Free GPU - Recommended for students without GPU)**
+1. Open notebook in Google Colab: https://colab.research.google.com/
+2. Enable GPU: Runtime → Change runtime type → GPU
+3. Run the Colab setup cell at the beginning of GPU notebooks
+4. See `DOCS/COLAB_SETUP.md` for detailed instructions
 
 ---
 
