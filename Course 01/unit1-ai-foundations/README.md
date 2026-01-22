@@ -1,6 +1,16 @@
 # Unit 1: Introduction to AI and Applications
 # الوحدة 1: مقدمة في الذكاء الاصطناعي والتطبيقات
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Read `Course 01/START_HERE.md`
+- [ ] Installed Python 3.8+ and core libraries (`pip check` passes)
+- [ ] Comfortable with basic Python syntax (variables, loops, functions)
+- [ ] Reviewed the program overview in `README.md`
+- [ ] Skimmed `COURSE_MAP.md` to understand topic overlaps
+
 **Official Unit Name:** Introduction to AI and Applications  
 **Duration:** 12 hours (6 theory + 6 practical)
 

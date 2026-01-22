@@ -8,6 +8,20 @@
 
 ---
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-nlp-fundamentals/` | Introduction to Natural Language Processing |
+| Unit 2 | `unit2-tokenization-morphology/` | Text Representation and Feature Engineering |
+| Unit 3 | `unit3-ml-for-nlp/` | Machine Learning for NLP |
+| Unit 4 | `unit4-deep-learning-nlp/` | Deep Learning for NLP |
+| Unit 5 | `unit5-applications-ethics/` | NLP Applications and Ethics Standards |
+
 ## Course Overview | نظرة عامة على الدورة
 
 This course provides comprehensive training in Natural Language Processing (NLP) using Python. Students will learn to process, analyze, and generate human language using modern NLP techniques and deep learning models.
@@ -82,21 +96,6 @@ This course provides comprehensive training in Natural Language Processing (NLP)
 **CLO9:** Implement multilingual and cross-lingual NLP solutions.
 
 **CLO10:** Design and implement end-to-end NLP pipelines for real-world applications.
-- Transfer learning for NLP
-- Model optimization techniques
-- Performance improvement
-
-**CLO9:** Implement multilingual and cross-lingual NLP solutions
-- Multilingual text processing
-- Cross-lingual transfer learning
-- Language-specific challenges
-- Multilingual applications
-
-**CLO10:** Design and implement end-to-end NLP pipelines
-- Complete NLP pipeline design
-- Integration of NLP components
-- Production-ready NLP systems
-- End-to-end implementation
 
 ---
 

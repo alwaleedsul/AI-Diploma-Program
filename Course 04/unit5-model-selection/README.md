@@ -1,6 +1,16 @@
 # Unit 5: Model Selection and Boosting
 ## اختيار النموذج والتعزيز
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Units 1-4 in this course
+- [ ] Comfortable with regression, classification, and clustering
+- [ ] Understand cross-validation basics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives
 
 By the end of this unit, students will be able to:

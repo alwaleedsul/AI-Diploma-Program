@@ -1,6 +1,15 @@
 # Unit 4: Evaluation and Optimization
 ## التقييم والتحسين
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 3: Model Development and Training
+- [ ] Understand evaluation metrics and error analysis
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

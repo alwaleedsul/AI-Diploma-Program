@@ -1,6 +1,15 @@
 # Unit: Privacy and Security
 ## Privacy and Security
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 2: Bias, Fairness, and Discrimination in AI
+- [ ] Understand data collection and privacy basics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

@@ -1,6 +1,8 @@
 # Student Progress Checklist
 ## AIAT 126 - Capstone Project
 
+**Note:** Templates in `TEMPLATES/` are instructor-only. Students should follow unit steps in this course.
+
 ---
 
 ## 📋 Project Progress

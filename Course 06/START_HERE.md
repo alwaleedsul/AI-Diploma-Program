@@ -8,6 +8,9 @@
 This file tells you exactly what to do on **Day 1** and how to navigate this course.  
 هذا الملف يخبرك بالضبط ماذا تفعل في **اليوم الأول** وكيف تتنقل في هذه الدورة.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).  
+**📚 Official unit structure:** See `../DETAILED_UNIT_DESCRIPTIONS.md` and `README.md` (Unit ↔ Folder mapping).
+
 ---
 
 ## ✅ Day 1 Checklist | قائمة اليوم الأول
@@ -107,16 +110,16 @@ This file explains:
    ↓
 3. 📓 Unit 1: Foundations of AI Ethics
    ↓
-4. 📓 Unit 2: Bias, Justice, and Discrimination
+4. 📓 Unit 2: Bias, Fairness, and Discrimination in AI
    ↓
-5. 📓 Unit 3: Privacy and Security
+5. 📓 Unit 3: Privacy, Security, and Data Protection
    ↓
-6. 📓 Unit 4: Transparency and Accountability
+6. 📓 Unit 4: Interpretability, Transparency, and Accountability
    ↓
-7. 📓 Unit 5: Governance and Regulations
+7. 📓 Unit 5: AI Governance, Regulations, and Future Challenges
 ```
 
-**Important:** Each unit builds on the previous one. Don't skip units!
+**Important:** Each unit builds on the previous one. Don't skip units! (See `../DETAILED_UNIT_DESCRIPTIONS.md` for official unit scope.)
 
 ---
 
@@ -132,10 +135,10 @@ Use this checklist to track your progress:
 
 ### Units
 - [ ] **Unit 1**: Foundations of AI Ethics
-- [ ] **Unit 2**: Bias, Justice, and Discrimination
-- [ ] **Unit 3**: Privacy and Security
-- [ ] **Unit 4**: Transparency and Accountability
-- [ ] **Unit 5**: Governance and Regulations
+- [ ] **Unit 2**: Bias, Fairness, and Discrimination in AI
+- [ ] **Unit 3**: Privacy, Security, and Data Protection
+- [ ] **Unit 4**: Interpretability, Transparency, and Accountability
+- [ ] **Unit 5**: AI Governance, Regulations, and Future Challenges
 
 **For detailed progress tracking, use:** `STUDENT_PROGRESS_CHECKLIST.md`
 

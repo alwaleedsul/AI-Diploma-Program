@@ -1,6 +1,18 @@
 # Unit 2: Knowledge Representation
 # الوحدة 2: تمثيل المعرفة
 
+**Note:** This unit is a supplemental mirror. The official path is `NOTEBOOKS/02_Knowledge_Representation.ipynb`.
+
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 1: Course Introduction and Search Algorithms
+- [ ] Comfortable with Python classes and dictionaries
+- [ ] Understand basic logic concepts (AND, OR, NOT)
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 **Official Unit Name:** Knowledge Representation  
 **Duration:** 19 hours (6 theory + 13 practical)
 

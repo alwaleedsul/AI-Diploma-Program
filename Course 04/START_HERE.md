@@ -8,6 +8,9 @@
 This file tells you exactly what to do on **Day 1** and how to navigate this course.  
 هذا الملف يخبرك بالضبط ماذا تفعل في **اليوم الأول** وكيف تتنقل في هذه الدورة.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).  
+**📚 Official unit structure:** See `../DETAILED_UNIT_DESCRIPTIONS.md` and `README.md` (Unit ↔ Folder mapping).
+
 ---
 
 ## ✅ Day 1 Checklist | قائمة اليوم الأول
@@ -104,12 +107,14 @@ This file explains:
 **You may notice that some topics (like Linear Regression) appear in multiple courses. This is intentional!**
 
 **📖 For a complete guide to understanding duplications and navigating between courses:**
-- Read `COURSE_MAP.md` in the root directory
+- Read `../COURSE_MAP.md` in the root directory
 - This document explains:
   - Why topics appear in multiple courses
   - Which course to use for each topic
   - How courses connect to each other
   - Learning paths based on your background
+
+**📍 File Location:** `/AI Diploma/COURSE_MAP.md`
 
 **Quick Reference:**
 - **Linear Regression**: Also introduced in `Course 02/NOTEBOOKS/05_AI_Learning_Models.ipynb` (concept introduction)
@@ -129,18 +134,18 @@ This file explains:
    ↓
 2. ✅ Install Libraries (Step 3 above)
    ↓
-3. 📓 Unit 1: Basic Data Processing Methods and Regression
+3. 📓 Unit 1: Regression Algorithms
    ↓
-4. 📓 Unit 2: Advanced Regression Techniques and Model Evaluation
+4. 📓 Unit 2: Regression and Model Evaluation
    ↓
-5. 📓 Unit 3: Advanced Classification Techniques and Model Evaluation
+5. 📓 Unit 3: Classification Algorithms
    ↓
 6. 📓 Unit 4: Clustering and Dimensionality Reduction
    ↓
 7. 📓 Unit 5: Model Selection and Boosting
 ```
 
-**Important:** Each unit builds on the previous one. Don't skip units!
+**Important:** Each unit builds on the previous one. Don't skip units! (See `../DETAILED_UNIT_DESCRIPTIONS.md` for official unit scope.)
 
 ---
 
@@ -155,9 +160,9 @@ Use this checklist to track your progress:
 - [ ] Read this START_HERE.md file
 
 ### Units
-- [ ] **Unit 1**: Basic Data Processing Methods and Regression
-- [ ] **Unit 2**: Advanced Regression Techniques and Model Evaluation
-- [ ] **Unit 3**: Advanced Classification Techniques and Model Evaluation
+- [ ] **Unit 1**: Regression Algorithms
+- [ ] **Unit 2**: Regression and Model Evaluation
+- [ ] **Unit 3**: Classification Algorithms
 - [ ] **Unit 4**: Clustering and Dimensionality Reduction
 - [ ] **Unit 5**: Model Selection and Boosting
 

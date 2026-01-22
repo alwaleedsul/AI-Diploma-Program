@@ -1,5 +1,15 @@
 # Unit 1: NLP Fundamentals | أساسيات معالجة اللغة الطبيعية
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Semester 1 courses (01-06)
+- [ ] Comfortable with Python and basic ML concepts
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Read `Course 07/START_HERE.md`
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

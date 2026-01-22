@@ -1,6 +1,18 @@
 # Unit 1: Course Introduction and Search Algorithms
 # الوحدة 1: مقدمة الدورة وخوارزميات البحث
 
+**Note:** This unit is a supplemental mirror. The official path is `NOTEBOOKS/01_Introduction_Search_Algorithms.ipynb`.
+
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Python Essentials PE1 & PE2
+- [ ] Finished Notebook 00: Python Libraries for AI
+- [ ] Comfortable with Python lists, loops, and functions
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 **Official Unit Name:** Course Introduction and Search Algorithms  
 **Duration:** 18 hours (6 theory + 12 practical)
 

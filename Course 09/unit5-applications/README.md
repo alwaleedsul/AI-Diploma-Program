@@ -1,6 +1,15 @@
 # Unit 5: Applications and Advanced Topics | التطبيقات والمواضيع المتقدمة
 ## AIAT 123 - Reinforcement Learning
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Units 1-4 in this course
+- [ ] Comfortable with deep RL and evaluation metrics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

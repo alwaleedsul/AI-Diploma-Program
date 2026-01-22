@@ -8,6 +8,20 @@
 
 ---
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-deployment-basics/` | Introduction to AI Model Deployment |
+| Unit 2 | `unit2-versioning-serving/` | Model Packaging and Serving |
+| Unit 3 | `unit3-cloud-deployment/` | Cloud Deployment and Infrastructure |
+| Unit 4 | `unit4-containers-orchestration/` | Containers and Orchestration |
+| Unit 5 | `unit5-pipelines-monitoring/` | Monitoring, Maintenance, and MLOps |
+
 ## Course Overview | نظرة عامة على الدورة
 
 This course provides comprehensive training in deploying AI models to production. Students will learn to build scalable, maintainable AI systems using modern deployment tools and practices.
@@ -88,8 +102,8 @@ Course 11/
 │
 ├── unit1-deployment-basics/        📚 Unit 1: Introduction to Deployment
 ├── unit2-versioning-serving/        📚 Unit 2: Versioning & Serving
-├── unit3-cloud-containerization/    📚 Unit 3: Cloud & Containerization
-├── unit4-apis-interfaces/           📚 Unit 4: APIs & Interfaces
+├── unit3-cloud-deployment/          📚 Unit 3: Cloud Deployment
+├── unit4-containers-orchestration/  📚 Unit 4: Containers & Orchestration
 ├── unit5-pipelines-monitoring/      📚 Unit 5: Pipelines & Monitoring
 │
 ├── PROJECTS/

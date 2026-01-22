@@ -1,6 +1,15 @@
 # Unit: Transparency and Accountability
 ## Transparency and Accountability
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 3: Privacy, Security, and Data Protection
+- [ ] Understand model evaluation and interpretability basics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

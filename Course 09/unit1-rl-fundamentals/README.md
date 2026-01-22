@@ -1,5 +1,15 @@
 # Unit 1: Reinforcement Learning Fundamentals | أساسيات التعلم المعزز
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Course 04 (Machine Learning)
+- [ ] Comfortable with probability basics and Markov processes
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Read `Course 09/START_HERE.md`
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

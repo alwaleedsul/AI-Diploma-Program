@@ -1,6 +1,16 @@
 # Unit 3: Deep Reinforcement Learning | التعلم المعزز العميق
 ## AIAT 123 - Reinforcement Learning
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 2: Prediction and Control without a Model
+- [ ] Completed Course 08 Unit 1 (Deep Learning Basics) recommended
+- [ ] Comfortable with neural networks and backpropagation
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

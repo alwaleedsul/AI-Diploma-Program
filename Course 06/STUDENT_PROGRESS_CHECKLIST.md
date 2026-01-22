@@ -1,6 +1,8 @@
 # Student Progress Checklist
 ## AIAT 116 - Ethics of Artificial Intelligence
 
+**Note:** Templates in `TEMPLATES/` are instructor-only. Students should follow units and notebooks.
+
 ---
 
 ## 📋 Course Progress

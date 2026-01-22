@@ -1,6 +1,16 @@
 # Unit 4: Neural Networks Fundamentals
 # الوحدة 4: أساسيات الشبكات العصبية
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 3: AI Concepts Part 2
+- [ ] Understand basic ML concepts (features, labels, loss)
+- [ ] Comfortable with Python functions and NumPy arrays
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 **Official Unit Name:** Neural Networks Fundamentals  
 **Duration:** 14 hours (7 theory + 7 practical)
 

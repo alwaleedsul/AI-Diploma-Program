@@ -1,6 +1,15 @@
 # Unit 3: Variational Autoencoders (VAEs) | المشفرات التباينية التلقائية
 ## AIAT 124 - Generative AI
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 1: Foundations of Generative AI
+- [ ] Comfortable with probability distributions and latent spaces
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

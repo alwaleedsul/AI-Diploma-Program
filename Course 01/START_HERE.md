@@ -7,6 +7,9 @@
 
 This is your **first course** in the AI Diploma Program. Follow these steps to get started.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).  
+**📚 Official unit structure:** See `../DETAILED_UNIT_DESCRIPTIONS.md` and `README.md` (Unit ↔ Folder mapping).
+
 ---
 
 ## 📋 Day 1 Checklist | قائمة اليوم الأول
@@ -38,31 +41,37 @@ python
 
 ## 📚 Learning Sequence | تسلسل التعلم
 
-### Week 1-2: Unit 1 - AI Foundations
+### Week 1-2: Unit 1 - Introduction to AI and Applications
 1. Read `unit1-ai-foundations/README.md`
 2. Study examples in `unit1-ai-foundations/examples/`
 3. Complete exercises in `unit1-ai-foundations/exercises/`
 4. Take quiz: `unit1-ai-foundations/quizzes/quiz_01.md`
 
-### Week 3-4: Unit 2 - Search Algorithms
+### Week 3-4: Unit 2 - AI Concepts, Terminology, and Application Domains
 1. Read `unit2-search-algorithms/README.md`
 2. Study examples
 3. Complete exercises
 4. Take quiz
 
-### Week 5-6: Unit 3 - Knowledge Representation
+### Week 5-6: Unit 3 - AI Concepts Part 2
 1. Read `unit3-knowledge-representation/README.md`
 2. Study examples
 3. Complete exercises
 4. Take quiz
 
-### Week 7-8: Unit 4 - Neural Networks Basics
+### Week 7-8: Unit 4 - Neural Networks Fundamentals
 1. Read `unit4-neural-networks-basics/README.md`
 2. Study examples
 3. Complete exercises
 4. Take quiz
 
-### Week 9-10: Projects
+### Week 9-10: Unit 5 - Introduction to Generative AI and Course Summary
+1. Read `unit5-generative-ai-intro/README.md`
+2. Study examples
+3. Complete exercises
+4. Take quiz (if available)
+
+### Projects
 - Complete at least one project from `PROJECTS/` folder
 
 ---

@@ -1,6 +1,16 @@
 # Unit: Data Cleaning and Preprocessing
 ## Data Cleaning and Preprocessing
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 1: Introduction to Data Science
+- [ ] Comfortable with Pandas DataFrames and basic plotting
+- [ ] Understand missing data and data types
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

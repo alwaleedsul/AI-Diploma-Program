@@ -4,6 +4,9 @@
 
 This course is part of Semester 2 of the AI Diploma Program.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).  
+**📚 Official unit structure:** See `../DETAILED_UNIT_DESCRIPTIONS.md` and `README.md` (Unit ↔ Folder mapping).
+
 ---
 
 ## 📋 Prerequisites | المتطلبات الأساسية

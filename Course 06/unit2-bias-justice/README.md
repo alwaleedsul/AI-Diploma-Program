@@ -1,6 +1,15 @@
 # Unit: Bias and Justice
 ## Bias and Justice
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 1: Foundations of AI Ethics
+- [ ] Understand bias, fairness, and basic evaluation metrics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

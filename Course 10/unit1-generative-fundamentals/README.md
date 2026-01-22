@@ -1,5 +1,15 @@
 # Unit 1: Generative Models Fundamentals | أساسيات النماذج التوليدية
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Course 08 (Deep Learning) recommended
+- [ ] Comfortable with neural networks and training loops
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Read `Course 10/START_HERE.md`
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

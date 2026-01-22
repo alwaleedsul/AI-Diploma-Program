@@ -17,6 +17,7 @@ Complete guide for students navigating the AI Diploma curriculum.
 - **Units**: Each course has multiple units
 - **Notebooks**: Practical activities in `examples/` directories
 - **Exercises**: Practice exercises in `exercises/` directories
+- **Templates**: `TEMPLATES/` is instructor-only (students should not use it)
 
 ### Step 3: Navigate the Curriculum
 - Use `MASTER_NOTEBOOK_INDEX.md` to find specific notebooks

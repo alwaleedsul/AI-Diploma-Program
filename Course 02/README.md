@@ -25,7 +25,9 @@ This course connects Python programming fundamentals with core AI concepts. Each
 **Lecture Hours:** 2  
 **Practical Hours:** 4
 
-**Note:** This course uses a notebook-based structure rather than traditional units.
+**✅ Official Path:** Follow the notebooks in `NOTEBOOKS/` (00 → 05).
+**Note:** This course uses a **notebook-based structure** as the official learning path.
+The `unit*` folders are **supplemental mirrors** and optional reference only.
 
 ---
 
@@ -93,6 +95,22 @@ This course connects Python programming fundamentals with core AI concepts. Each
 
 ## 📚 Course Content | محتوى الدورة
 
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+### 🔁 Unit ↔ Notebook Mapping (for Detailed Unit Descriptions)
+
+The official path uses notebooks, but the detailed curriculum describes **Units 1–5**. Use this mapping:
+
+| Detailed Unit | Official Notebook | Topic |
+|---|---|---|
+| Unit 1 | `NOTEBOOKS/01_Introduction_Search_Algorithms.ipynb` | Search algorithms |
+| Unit 2 | `NOTEBOOKS/02_Knowledge_Representation.ipynb` | Knowledge representation |
+| Unit 3 | `NOTEBOOKS/03_Learning_Under_Uncertainty.ipynb` | Learning under uncertainty |
+| Unit 4 | `NOTEBOOKS/04_Optimization_Techniques.ipynb` | Optimization techniques |
+| Unit 5 | `NOTEBOOKS/05_AI_Learning_Models.ipynb` | AI learning models |
+
+**Note:** `NOTEBOOKS/00_Python_Libraries_for_AI.ipynb` is a prerequisite foundation for all units.
+
 ### Notebooks (in NOTEBOOKS/ folder)
 
 #### 00. Python Libraries for AI | مكتبات بايثون للذكاء الاصطناعي
@@ -152,6 +170,16 @@ This course connects Python programming fundamentals with core AI concepts. Each
 
 #### 04. Optimization Techniques | تقنيات التحسين
 **File**: `NOTEBOOKS/04_Optimization_Techniques.ipynb`
+
+**⚠️ Math Prerequisites:**
+Before starting this notebook, it's **highly recommended** to complete:
+- **Course 03 Unit 1:** Linear Algebra (vectors, matrices, transformations)
+- **Course 03 Unit 2:** Calculus (derivatives, gradients, multivariate calculus)
+
+**Why?** Optimization techniques like gradient descent require understanding of:
+- How gradients work (calculus)
+- How to compute derivatives (calculus)
+- Vector operations (linear algebra)
 
 **Topics Covered**:
 - Gradient descent implementation

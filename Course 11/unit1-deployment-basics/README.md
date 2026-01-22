@@ -1,5 +1,15 @@
 # Unit 1: Deployment Basics | أساسيات النشر
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Course 04 (Machine Learning) recommended
+- [ ] Comfortable with Python and basic APIs
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Read `Course 11/START_HERE.md`
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

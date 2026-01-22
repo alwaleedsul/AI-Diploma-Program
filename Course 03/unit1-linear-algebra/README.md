@@ -1,6 +1,18 @@
 # Unit 1: Linear Algebra for Machine Learning
 ## الرياضيات الخطية لتعلم الآلة
 
+**Note:** This unit is a legacy mirror. The official path is in `modules/module_01/`.
+
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Comfortable with basic algebra (equations, variables)
+- [ ] Comfortable with Python basics and NumPy arrays
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed the course overview in `Course 03/START_HERE.md`
+- [ ] Skimmed `COURSE_MAP.md` to see where math is used
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

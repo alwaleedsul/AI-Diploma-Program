@@ -15,6 +15,8 @@ The `START_HERE.md` file contains:
 
 **Don't skip it!** It will save you time and confusion.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
 ---
 
 ## Course Overview | نظرة عامة على الدورة
@@ -28,6 +30,18 @@ This course delves into the ethical implications and responsibilities associated
 **Lecture Hours:** 2  
 **Practical Hours:** 2  
 **Total Hours:** 64 (32 theoretical + 32 practical)
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-ethics-foundations/` | Foundations of AI Ethics |
+| Unit 2 | `unit2-bias-justice/` | Bias, Fairness, and Discrimination in AI |
+| Unit 3 | `unit3-privacy-security/` | Privacy, Security, and Data Protection |
+| Unit 4 | `unit4-transparency-accountability/` | Interpretability, Transparency, and Accountability |
+| Unit 5 | `unit5-governance-regulations/` | AI Governance, Regulations, and Future Challenges |
 
 **Unit Breakdown:**
 - Unit 1: 6 theoretical + 6 practical = 12 hours

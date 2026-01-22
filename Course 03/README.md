@@ -27,7 +27,9 @@ This course provides a fundamental understanding of the mathematics required for
 **Lecture Hours:** 2  
 **Practical Hours:** 2
 
-**Note:** This course uses a module-based structure rather than traditional units.
+**✅ Official Path:** Follow the modules in `modules/` (Module 01 → Module 05).
+**Note:** This course uses a **module-based structure** as the official learning path.
+The `unit*` folders in this course are **legacy mirrors** of module content for reference only.
 
 ---
 
@@ -57,7 +59,8 @@ This course provides a fundamental understanding of the mathematics required for
 **Knowledge**: Students should have:
 - Basic Python programming knowledge (variables, functions, classes)
 - Basic mathematics: High school algebra and calculus
-- Completion of Course 02 recommended (but not required)
+- Completion of Course 01 recommended (but not required)
+- **Important:** This course should be taken before Course 02 Unit 4 (Optimization Techniques)
 
 **Setup**: See `docs/INSTALLATION_GUIDE.md` for detailed library installation instructions
 
@@ -118,6 +121,20 @@ This course provides a fundamental understanding of the mathematics required for
 ---
 
 ## 📚 Course Content | محتوى الدورة
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+### 🔁 Unit ↔ Module Mapping (for Detailed Unit Descriptions)
+
+The official path uses modules, but the detailed curriculum describes **Units 1–5**. Use this mapping:
+
+| Detailed Unit | Official Module | Topic |
+|---|---|---|
+| Unit 1 | `modules/module_01/` | Linear Algebra |
+| Unit 2 | `modules/module_02/` | Calculus and Multivariable Calculus |
+| Unit 3 | `modules/module_03/` | Optimization & Statistics |
+| Unit 4 | `modules/module_04/` | Dimensionality Reduction |
+| Unit 5 | `modules/module_05/` | Probabilities & Inference |
 
 ### Module 01: Linear Algebra for Machine Learning | الجبر الخطي لتعلم الآلة
 **Location**: `modules/module_01/`

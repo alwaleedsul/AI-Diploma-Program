@@ -8,6 +8,9 @@
 This file tells you exactly what to do on **Day 1** and how to navigate this course.  
 هذا الملف يخبرك بالضبط ماذا تفعل في **اليوم الأول** وكيف تتنقل في هذه الدورة.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).  
+**📚 Official unit structure:** See `../DETAILED_UNIT_DESCRIPTIONS.md` and `README.md` (Unit ↔ Folder mapping).
+
 ---
 
 ## ✅ Day 1 Checklist | قائمة اليوم الأول
@@ -127,12 +130,12 @@ This file explains:
    ↓
 5. 📓 Unit 3: Data Visualization
    ↓
-6. 📓 Unit 4: Machine Learning Introduction
+6. 📓 Unit 4: Introduction to Machine Learning
    ↓
-7. 📓 Unit 5: Scaling and Production
+7. 📓 Unit 5: Extending the Scope of Data Science
 ```
 
-**Important:** Each unit builds on the previous one. Don't skip units!
+**Important:** Each unit builds on the previous one. Don't skip units! (See `../DETAILED_UNIT_DESCRIPTIONS.md` for official unit scope.)
 
 ---
 
@@ -150,8 +153,8 @@ Use this checklist to track your progress:
 - [ ] **Unit 1**: Introduction to Data Science
 - [ ] **Unit 2**: Data Cleaning and Preparation
 - [ ] **Unit 3**: Data Visualization
-- [ ] **Unit 4**: Machine Learning Introduction
-- [ ] **Unit 5**: Scaling and Production
+- [ ] **Unit 4**: Introduction to Machine Learning
+- [ ] **Unit 5**: Extending the Scope of Data Science
 
 **For detailed progress tracking, use:** `STUDENT_PROGRESS_CHECKLIST.md`
 

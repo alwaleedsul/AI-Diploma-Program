@@ -1,6 +1,8 @@
 # Student Progress Checklist
 ## AIAT 115 - Scalable Data Science
 
+**Note:** Templates in `TEMPLATES/` are instructor-only. Students should follow units and notebooks.
+
 ---
 
 ## 📋 Course Progress

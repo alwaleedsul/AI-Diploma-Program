@@ -1,6 +1,16 @@
 # Unit 3: Advanced Classification Techniques and Model Evaluation
 ## تقنيات التصنيف المتقدمة وتقييم النماذج
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 2: Regression and Model Evaluation
+- [ ] Understand classification vs regression
+- [ ] Comfortable with train/test split and evaluation metrics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives
 
 By the end of this unit, students will be able to:

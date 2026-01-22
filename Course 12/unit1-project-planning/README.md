@@ -1,6 +1,16 @@
 # Unit 1: Project Planning and Proposal
 ## تخطيط المشروع والاقتراح
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Courses 01-11 (full program foundations)
+- [ ] Comfortable with problem scoping and project planning
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Read `Course 12/START_HERE.md`
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

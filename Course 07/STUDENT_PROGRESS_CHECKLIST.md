@@ -1,6 +1,8 @@
 # Student Progress Checklist | قائمة تقدم الطالب
 ## AIAT 121 - Natural Language Processing
 
+**Note:** Templates in `TEMPLATES/` are instructor-only. Students should follow units and notebooks.
+
 ---
 
 ## 📋 Course Progress | تقدم الدورة

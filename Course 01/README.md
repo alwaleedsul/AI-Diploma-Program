@@ -15,6 +15,8 @@ The `START_HERE.md` file contains:
 
 **Don't skip it!** It will save you time and confusion.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
 ---
 
 ## Course Overview | نظرة عامة على الدورة
@@ -30,7 +32,18 @@ This course provides a comprehensive introduction to Artificial Intelligence, co
 **Total Hours:** 64 (32 theoretical + 32 practical)
 
 **📖 Official Course Structure:** See `../COMPLETE_COURSE_STRUCTURE_AND_CLOS.md` for complete course details, CLOs, and unit structures.  
-**📋 Quick Reference:** See `../QUICK_REFERENCE_GUIDE.md` for course overview.
+**📋 Quick Reference:** See `../QUICK_REFERENCE_GUIDE.md` for course overview.  
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-ai-foundations/` | Introduction to AI and Applications |
+| Unit 2 | `unit2-search-algorithms/` | AI Concepts, Terminology, and Application Domains |
+| Unit 3 | `unit3-knowledge-representation/` | AI Concepts Part 2 |
+| Unit 4 | `unit4-neural-networks-basics/` | Neural Networks Fundamentals |
+| Unit 5 | `unit5-generative-ai-intro/` | Introduction to Generative AI and Course Summary |
 
 **Unit Breakdown:**
 - Unit 1: Introduction to AI and Applications (6 theory + 6 practical = 12 hours)
@@ -38,8 +51,6 @@ This course provides a comprehensive introduction to Artificial Intelligence, co
 - Unit 3: AI Concepts, Terminology, and Application Domains Part 2 (6 theory + 6 practical = 12 hours)
 - Unit 4: Neural Networks Fundamentals (7 theory + 7 practical = 14 hours)
 - Unit 5: Introduction to Generative AI and Course Summary (7 theory + 7 practical = 14 hours)
-
-**📚 Detailed Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for complete theoretical and practical content for each unit.
 
 ---
 

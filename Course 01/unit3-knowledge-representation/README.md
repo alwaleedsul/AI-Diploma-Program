@@ -1,6 +1,16 @@
 # Unit 3: AI Concepts, Terminology, and Application Domains Part 2
 # الوحدة 3: مفاهيم الذكاء الاصطناعي والمصطلحات ومجالات التطبيق - الجزء الثاني
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 2: AI Concepts, Terminology, and Application Domains
+- [ ] Understand basic AI terminology (agents, states, goals)
+- [ ] Comfortable with Python data structures (lists, dicts)
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 **Official Unit Name:** AI Concepts, Terminology, and Application Domains Part 2  
 **Duration:** 12 hours (6 theory + 6 practical)
 

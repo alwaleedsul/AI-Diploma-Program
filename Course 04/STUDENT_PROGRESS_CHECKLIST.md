@@ -3,6 +3,8 @@
 Use this checklist to track your progress through the course.  
 استخدم هذه القائمة لتتبع تقدمك في الدورة.
 
+**Note:** Templates in `TEMPLATES/` are instructor-only. Students should follow units and notebooks.
+
 ---
 
 ## ✅ Setup & Preparation | الإعداد والتحضير

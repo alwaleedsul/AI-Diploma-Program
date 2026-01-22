@@ -1,6 +1,16 @@
 # Unit: Introduction to Data Science
 ## Introduction to Data Science
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Course 02 (Python for AI) or equivalent Python basics
+- [ ] Comfortable with NumPy arrays and Pandas DataFrames
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Read `Course 05/START_HERE.md`
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

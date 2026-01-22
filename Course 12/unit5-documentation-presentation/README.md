@@ -1,6 +1,16 @@
 # Unit 5: Project Documentation and Final Presentation
 ## توثيق المشروع والعرض النهائي
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 4: Evaluation and Optimization
+- [ ] Have results and artifacts ready for reporting
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed presentation templates in `Course 12/TEMPLATES/`
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

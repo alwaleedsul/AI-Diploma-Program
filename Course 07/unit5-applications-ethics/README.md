@@ -1,6 +1,15 @@
 # Unit 5: Applications and Ethics | التطبيقات والأخلاقيات
 ## AIAT 121 - Natural Language Processing
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 4: Deep Learning for NLP
+- [ ] Understand NLP evaluation metrics and applications
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

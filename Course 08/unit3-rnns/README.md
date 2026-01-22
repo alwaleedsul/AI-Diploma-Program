@@ -1,6 +1,16 @@
 # Unit 3: RNNs for Sequences | الشبكات العصبية التكرارية للتسلسلات
 ## AIAT 122 - Deep Learning
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 2: Convolutional Neural Networks (CNNs) for Computer Vision
+- [ ] Comfortable with sequence data and time series
+- [ ] Understand basic neural network training
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

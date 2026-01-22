@@ -1,6 +1,8 @@
 # Student Progress Checklist
 ## AIAT 113 - Mathematics and Probabilities for Machine Learning
 
+**Note:** Templates in `TEMPLATES/` are instructor-only. Students should follow modules.
+
 ---
 
 ## 📋 Course Progress

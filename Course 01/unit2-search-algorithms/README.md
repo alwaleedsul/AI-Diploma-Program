@@ -1,6 +1,16 @@
 # Unit 2: AI Concepts, Terminology, and Application Domains
 # الوحدة 2: مفاهيم الذكاء الاصطناعي والمصطلحات ومجالات التطبيق
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 1: Introduction to AI and Applications
+- [ ] Comfortable with Python basics (lists, loops, conditionals)
+- [ ] Understand what search means in AI (states, actions, goals)
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 **Official Unit Name:** AI Concepts, Terminology, and Application Domains  
 **Duration:** 12 hours (6 theory + 6 practical)
 

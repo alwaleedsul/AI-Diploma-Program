@@ -8,6 +8,20 @@
 
 ---
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-deep-learning-basics/` | Introduction to Deep Learning and Neural Networks |
+| Unit 2 | `unit2-cnns/` | Convolutional Neural Networks (CNNs) for Computer Vision |
+| Unit 3 | `unit3-rnns/` | Recurrent Neural Networks (RNNs) and Transformers for Sequential Data |
+| Unit 4 | `unit4-transformers/` | Advanced Deep Learning Techniques |
+| Unit 5 | `unit5-deployment/` | Model Optimization and Deployment |
+
 ## Course Overview | نظرة عامة على الدورة
 
 This course provides comprehensive training in Deep Learning using TensorFlow and PyTorch. Students will learn to build, train, and deploy deep neural networks for various applications.

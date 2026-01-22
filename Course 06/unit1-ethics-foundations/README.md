@@ -1,6 +1,16 @@
 # Unit: Ethics Foundations
 ## Ethics Foundations
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Courses 01-05 or understand basic AI/ML concepts
+- [ ] Comfortable with AI terms (data, model, bias)
+- [ ] Read `Course 06/START_HERE.md`
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

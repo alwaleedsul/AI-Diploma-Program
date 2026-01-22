@@ -8,6 +8,10 @@
 This file tells you exactly what to do on **Day 1** and how to navigate this course.  
 هذا الملف يخبرك بالضبط ماذا تفعل في **اليوم الأول** وكيف تتنقل في هذه الدورة.
 
+**✅ Official Path:** Follow the notebooks in `NOTEBOOKS/` (00 → 05).  
+**ℹ️ Note:** The `unit*` folders are **supplemental mirrors** and optional reference only.  
+**📚 Unit ↔ Notebook mapping:** See `README.md` and `../DETAILED_UNIT_DESCRIPTIONS.md` for official unit scope.
+
 ---
 
 ## ✅ Day 1 Checklist | قائمة اليوم الأول
@@ -120,12 +124,33 @@ This file explains:
    ↓
 6. 📓 Notebook 03: Learning under Uncertainty
    ↓
-7. 📓 Notebook 04: Optimization Techniques
+7. ⚠️ **IMPORTANT:** Before Notebook 04, complete Course 03 (Mathematics) Units 1-2
+   - Course 03 Unit 1: Linear Algebra
+   - Course 03 Unit 2: Calculus
+   - **Why?** Optimization requires understanding of calculus and gradients
    ↓
-8. 📓 Notebook 05: AI-based Learning Models
+8. 📓 Notebook 04: Optimization Techniques
+   - **Prerequisites:** Course 03 Units 1-2 (Linear Algebra & Calculus)
+   ↓
+9. 📓 Notebook 05: AI-based Learning Models
 ```
 
 **Important:** Each notebook builds on the previous one. Don't skip notebooks!
+
+**⚠️ Math Prerequisite for Notebook 04:**
+Before starting Notebook 04 (Optimization Techniques), it's **highly recommended** to complete Course 03 (Mathematics for AI) Units 1-2:
+- **Unit 1:** Linear Algebra (vectors, matrices, transformations)
+- **Unit 2:** Calculus (derivatives, gradients, multivariate calculus)
+
+**Why?** Optimization techniques like gradient descent require understanding of:
+- How gradients work (calculus)
+- How to compute derivatives (calculus)
+- Vector operations (linear algebra)
+
+**Options:**
+1. **Complete Course 03 first** (recommended for best understanding)
+2. **Complete Course 03 Units 1-2** before Notebook 04 (minimum requirement)
+3. **Continue but review** Course 03 materials when you encounter math concepts
 
 ---
 
@@ -176,7 +201,9 @@ Use this checklist to track your progress:
 **You may notice that some topics (like BFS, Linear Regression) appear in multiple courses. This is intentional!**
 
 **📖 For a complete guide to understanding duplications and navigating between courses:**
-- Read `COURSE_MAP.md` in the root directory
+- Read `../COURSE_MAP.md` in the root directory
+
+**📍 File Location:** `/AI Diploma/COURSE_MAP.md`
 - This document explains:
   - Why topics appear in multiple courses
   - Which course to use for each topic

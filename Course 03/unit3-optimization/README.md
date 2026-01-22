@@ -1,6 +1,18 @@
 # Unit 3: Optimization and Statistical Foundations for Machine Learning
 ## التحسين والأسس الإحصائية لتعلم الآلة
 
+**Note:** This unit is a legacy mirror. The official path is in `modules/module_03/`.
+
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 2: Calculus and Multivariate Calculus
+- [ ] Understand derivatives and gradients
+- [ ] Comfortable with NumPy arrays and vector notation
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

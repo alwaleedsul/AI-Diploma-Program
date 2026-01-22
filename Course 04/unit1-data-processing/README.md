@@ -1,6 +1,18 @@
 # Unit 1: Basic Data Processing Methods and Regression
 ## أساليب معالجة البيانات الأساسية والانحدار
 
+**Maps to (DETAILED_UNIT_DESCRIPTIONS):** Unit 1 — Regression Algorithms.
+
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Course 03 Units 1-2 (Linear Algebra & Calculus)
+- [ ] Comfortable with Python basics and NumPy/Pandas
+- [ ] Understand train/test split and basic statistics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives
 
 By the end of this unit, students will be able to:

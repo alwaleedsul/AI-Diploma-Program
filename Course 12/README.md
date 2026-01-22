@@ -8,6 +8,20 @@
 
 ---
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-project-planning/` | Project Planning and Proposal |
+| Unit 2 | `unit2-data-collection/` | Data Collection and Preparation |
+| Unit 3 | `unit3-model-development/` | Model Development and Training |
+| Unit 4 | `unit4-evaluation-optimization/` | Evaluation and Optimization |
+| Unit 5 | `unit5-documentation-presentation/` | Project Documentation and Final Presentation |
+
 ## Course Overview | نظرة عامة على الدورة
 
 This is the capstone project course where students apply all knowledge gained throughout the AI Diploma Program to solve a real-world problem. Students will design, implement, and deploy a complete AI system.

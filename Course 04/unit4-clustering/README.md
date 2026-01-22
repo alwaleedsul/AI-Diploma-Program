@@ -1,6 +1,16 @@
 # Unit 4: Clustering and Dimensionality Reduction
 ## التجميع وتقليل الأبعاد
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 3: Classification Algorithms
+- [ ] Completed Course 03 Unit 4 (Dimensionality Reduction)
+- [ ] Comfortable with distance metrics and scaling
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives
 
 By the end of this unit, students will be able to:

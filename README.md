@@ -38,6 +38,8 @@ Before diving into individual courses, review the comprehensive curriculum docum
 
 **📌 These documents are the official curriculum structure extracted from the source PDF.**
 
+**✅ Learning Flow Alignment:** Course READMEs, START_HERE files, and unit prerequisites are aligned with [DETAILED_UNIT_DESCRIPTIONS.md](DETAILED_UNIT_DESCRIPTIONS.md). See [LEARNING_FLOW_ALIGNMENT_REPORT.md](LEARNING_FLOW_ALIGNMENT_REPORT.md) for the audit summary.
+
 ---
 
 ## 🚀 Quick Start | البدء السريع
@@ -51,6 +53,10 @@ Before diving into individual courses, review the comprehensive curriculum docum
 7. **Begin learning!**
 
 **💡 New to the program?** Start with the [QUICK_REFERENCE_GUIDE.md](QUICK_REFERENCE_GUIDE.md) for a complete curriculum overview!
+
+**🗺️ Confused about topic duplications?** See [COURSE_MAP.md](COURSE_MAP.md) to understand which course to use for each topic!
+
+**📌 Student Note:** The `TEMPLATES/` folder is for instructors only. Students should follow course units and notebooks.
 
 ---
 
@@ -66,11 +72,16 @@ Before diving into individual courses, review the comprehensive curriculum docum
 
 **Topics:**
 - AI foundations and history
-- Search algorithms (BFS, DFS, A*)
-- Knowledge representation
-- Neural networks basics
+- Search algorithms (BFS, DFS, A*) - *Introduction level*
+- Knowledge representation - *Introduction level*
+- Neural networks basics - *Introduction level (Full course: Course 08)*
 
 **Prerequisites:** Basic computer literacy
+
+**📖 Note:** This course provides **introduction-level** coverage. For deep dives, see:
+- Search algorithms: Course 02 (implementation)
+- Neural networks: Course 08 (Deep Learning - full course)
+- Generative AI: Course 10 (full course)
 
 ---
 
@@ -90,6 +101,8 @@ Before diving into individual courses, review the comprehensive curriculum docum
 
 **Prerequisites:** Python 3.9+, basic programming knowledge
 
+**⚠️ Important:** For Unit 4 (Optimization Techniques), it's **highly recommended** to complete Course 03 (Mathematics) Units 1-2 (Linear Algebra & Calculus) first, as optimization requires understanding of calculus and gradients.
+
 ---
 
 #### Course 03: Mathematics for AI | الرياضيات للذكاء الاصطناعي
@@ -105,7 +118,9 @@ Before diving into individual courses, review the comprehensive curriculum docum
 - Dimensionality Reduction
 - Probabilistic Inference
 
-**Prerequisites:** Course 02 completion recommended
+**Prerequisites:** Course 01 completion recommended
+
+**⚠️ Important:** This course should be taken **BEFORE** Course 02 Unit 4 (Optimization Techniques) for best understanding. The math foundations (especially calculus) are essential for understanding optimization algorithms like gradient descent.
 
 ---
 
@@ -136,11 +151,13 @@ Before diving into individual courses, review the comprehensive curriculum docum
 - Data loading and exploration
 - Data cleaning and preprocessing
 - Data visualization (Matplotlib, Seaborn, Plotly)
-- Machine learning introduction
+- Machine learning introduction - *Application level (Full course: Course 04)*
 - Scaling with Dask and RAPIDS
 - Production pipelines
 
 **Prerequisites:** Python 3.8+, basic Python programming
+
+**📖 Note:** This course focuses on **data science application**. For comprehensive ML coverage, see Course 04. Python basics are reviewed here, but full Python coverage is in Course 02.
 
 ---
 
@@ -317,23 +334,31 @@ Each course follows a consistent structure:
    - Builds foundational AI concepts
    - No programming prerequisites
 
-2. **Continue with Course 02** (AI Fundamentals)
+2. **Continue with Course 02** (AI Fundamentals) - Units 1-3
    - Python for AI
    - Search algorithms and knowledge representation
+   - **Note:** Complete Units 1-3, then proceed to Course 03 before Unit 4
 
 3. **Proceed to Course 03** (Mathematics)
    - Mathematical foundations
-   - Essential for understanding ML algorithms
+   - Essential for understanding ML algorithms and optimization
+   - **Important:** Complete this before Course 02 Unit 4 (Optimization)
 
-4. **Advance to Course 04** (Machine Learning)
+4. **Return to Course 02** - Complete Unit 4-5
+   - Now you have math foundations for optimization
+   - AI learning models and deployment
+
+5. **Advance to Course 04** (Machine Learning)
    - Core ML algorithms and techniques
    - Hands-on implementation
+   - Uses math from Course 03
 
-5. **Continue with Course 05** (Data Science)
+6. **Continue with Course 05** (Data Science)
    - Scalable data processing
    - Production-ready techniques
+   - Applies ML from Course 04
 
-6. **Complete Semester 1 with Course 06** (AI Ethics)
+7. **Complete Semester 1 with Course 06** (AI Ethics)
    - Responsible AI development
    - Industry best practices
 
@@ -360,6 +385,10 @@ Each course follows a consistent structure:
 - Basic Python programming (variables, functions, classes)
 - Familiarity with command line/terminal
 - Basic understanding of data structures
+
+**Need a refresher?**
+- Python bridge: `DOCS/BRIDGE_PYTHON.md`
+- Math bridge: `DOCS/BRIDGE_MATH.md`
 
 ---
 
@@ -479,6 +508,18 @@ AI Diploma/
 - **All code is runnable** - Examples work out of the box
 - **Solutions are provided** - Check your work against solutions
 - **Progress tracking** - Use checklists to track your learning
+
+### 🔗 Topic Duplications | تكرار المواضيع
+
+**Topics appear in multiple courses intentionally** (spiral curriculum approach):
+- **Introduction level:** Conceptual overview (Course 01)
+- **Deep dive level:** Full coverage (Course 04, 08, etc.)
+- **Application level:** Practical use (Course 05, 12)
+
+**📖 See [COURSE_MAP.md](COURSE_MAP.md) for complete navigation guide:**
+- Which course to use for each topic
+- Why topics appear multiple times
+- Learning paths based on your background
 
 ---
 

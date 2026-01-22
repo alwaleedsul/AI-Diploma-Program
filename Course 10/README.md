@@ -8,6 +8,20 @@
 
 ---
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-generative-fundamentals/` | Foundations of Generative AI |
+| Unit 2 | `unit2-gans/` | Text and Language Generation |
+| Unit 3 | `unit3-vaes/` | Image and Visual Generation |
+| Unit 4 | `unit4-applications/` | Ethical and Regulatory Considerations |
+| Unit 5 | `unit5-ethics/` | Future Trends and Research in Generative AI |
+
 ## Course Overview | نظرة عامة على الدورة
 
 This course provides comprehensive training in Generative AI, covering Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and modern generative models like diffusion models.

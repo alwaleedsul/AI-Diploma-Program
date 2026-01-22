@@ -1,6 +1,16 @@
 # Unit 3: Model Development and Training
 ## تطوير النموذج والتدريب
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 2: Data Collection and Preparation
+- [ ] Completed Course 04 (Machine Learning) recommended
+- [ ] Comfortable with model training and evaluation basics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

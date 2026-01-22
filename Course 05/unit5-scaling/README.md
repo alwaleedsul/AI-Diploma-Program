@@ -1,6 +1,16 @@
 # Unit: Scaling and Production
 ## Scaling and Production
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Units 1-4 in this course
+- [ ] Comfortable with Pandas, visualization, and basic ML
+- [ ] Understand data pipelines and performance basics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

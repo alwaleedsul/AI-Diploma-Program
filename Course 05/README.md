@@ -14,6 +14,8 @@ The `START_HERE.md` file contains:
 
 **Don't skip it!** It will save you time and confusion.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
 ---
 
 ## Course Overview | نظرة عامة على الدورة
@@ -26,6 +28,18 @@ This course provides comprehensive training in scalable data science techniques 
 **Lecture Hours:** 2  
 **Practical Hours:** 4  
 **Total Hours:** 64 (32 theoretical + 32 practical)
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-introduction/` | Introduction to Data Science |
+| Unit 2 | `unit2-cleaning/` | Data Cleaning and Preparation |
+| Unit 3 | `unit3-visualization/` | Data Visualization |
+| Unit 4 | `unit4-ml-intro/` | Introduction to Machine Learning |
+| Unit 5 | `unit5-scaling/` | Extending the Scope of Data Science |
 
 **Unit Breakdown:**
 - Unit 1: 6 theoretical + 6 practical = 12 hours

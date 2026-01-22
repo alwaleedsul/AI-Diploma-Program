@@ -1,6 +1,18 @@
 # Unit 5: Probability Theory and Statistical Inference
 ## نظرية الاحتمالات والاستدلال الإحصائي
 
+**Note:** This unit is a legacy mirror. The official path is in `modules/module_05/`.
+
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 3: Optimization and Statistical Foundations
+- [ ] Comfortable with basic algebra and functions
+- [ ] Familiar with basic statistics (mean, variance)
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

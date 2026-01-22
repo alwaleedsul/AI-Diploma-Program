@@ -1,6 +1,16 @@
 # Unit 4: Transformers | المحولات
 ## AIAT 122 - Deep Learning
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 3: Recurrent Neural Networks (RNNs) and Transformers for Sequential Data
+- [ ] Understand attention mechanisms at a high level
+- [ ] Comfortable with sequence modeling concepts
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

@@ -1,6 +1,15 @@
 # Unit 2: Tokenization and Morphology | التقطيع والصرف
 ## AIAT 121 - Natural Language Processing
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 1: NLP Fundamentals
+- [ ] Comfortable with text preprocessing basics
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

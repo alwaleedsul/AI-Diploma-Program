@@ -1,6 +1,15 @@
 # Unit 3: Machine Learning for NLP | تعلم الآلة لمعالجة اللغة الطبيعية
 ## AIAT 121 - Natural Language Processing
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 2: Tokenization and Morphology
+- [ ] Comfortable with basic ML (classification, evaluation metrics)
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

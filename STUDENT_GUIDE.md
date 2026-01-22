@@ -43,6 +43,9 @@
 4. Follow installation steps
 5. Begin with Unit 1
 
+**Note for Students:** The `TEMPLATES/` folder is for instructors only.  
+You should follow course units and notebooks, not templates.
+
 ---
 
 ## 📚 Course Progression | تقدم الدورات

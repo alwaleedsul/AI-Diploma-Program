@@ -1,6 +1,18 @@
 # Unit 4: Dimensionality Reduction
 ## تقليل الأبعاد
 
+**Note:** This unit is a legacy mirror. The official path is in `modules/module_04/`.
+
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 1: Linear Algebra for Machine Learning
+- [ ] Completed Unit 3: Optimization and Statistical Foundations
+- [ ] Comfortable with matrix operations and eigenvalues
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

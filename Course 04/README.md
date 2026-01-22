@@ -15,6 +15,8 @@ The `START_HERE.md` file contains:
 
 **Don't skip it!** It will save you time and confusion.
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
 ---
 
 ## Course Overview | نظرة عامة على الدورة
@@ -28,13 +30,24 @@ This course provides comprehensive training in machine learning algorithms using
 **Practical Hours:** 4  
 **Total Hours:** 64 (32 theoretical + 32 practical)
 
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-data-processing/` | Regression Algorithms |
+| Unit 2 | `unit2-regression/` | Regression and Model Evaluation |
+| Unit 3 | `unit3-classification/` | Classification Algorithms |
+| Unit 4 | `unit4-clustering/` | Clustering and Dimensionality Reduction |
+| Unit 5 | `unit5-model-selection/` | Model Selection and Boosting |
+
 **Unit Breakdown:**
 - Unit 1: 6 theoretical + 6 practical = 12 hours
 - Unit 2: 6 theoretical + 6 practical = 12 hours
 - Unit 3: 6 theoretical + 6 practical = 12 hours
 - Unit 4: 6 theoretical + 6 practical = 12 hours
 - Unit 5: 7 theoretical + 7 practical = 14 hours
-
 
 ---
 

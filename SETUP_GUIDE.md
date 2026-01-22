@@ -95,8 +95,11 @@ python -m ipykernel install --user --name=ai_diploma_env
 
 **For Course 08 (Deep Learning):**
 ```bash
-# TensorFlow GPU (if you have NVIDIA GPU)
-pip install tensorflow-gpu
+# TensorFlow GPU support (if you have NVIDIA GPU)
+# Note: TensorFlow 2.x includes GPU support automatically
+# Just install tensorflow (already in requirements.txt)
+# Make sure you have CUDA and cuDNN installed for GPU support
+# See: https://www.tensorflow.org/install/gpu
 
 # PyTorch GPU (if you have NVIDIA GPU)
 # Visit: https://pytorch.org/get-started/locally/

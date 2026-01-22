@@ -8,6 +8,10 @@
 This file tells you exactly what to do on **Day 1** and how to navigate this course.  
 هذا الملف يخبرك بالضبط ماذا تفعل في **اليوم الأول** وكيف تتنقل في هذه الدورة.
 
+**✅ Official Path:** This course follows the **modules/** structure.  
+**ℹ️ Note:** The `unit*` folders are **legacy mirrors** and optional reference only.  
+**📚 Unit ↔ Module mapping:** See `README.md` and `../DETAILED_UNIT_DESCRIPTIONS.md` for official unit scope.
+
 ---
 
 ## ✅ Day 1 Checklist | قائمة اليوم الأول

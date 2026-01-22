@@ -1,6 +1,16 @@
 # Unit 5: Introduction to Generative AI and Course Summary
 # الوحدة 5: مقدمة في الذكاء الاصطناعي التوليدي وملخص الدورة
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 4: Neural Networks Fundamentals
+- [ ] Understand basics of neural networks and training
+- [ ] Comfortable with Python and NumPy arrays
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed `COURSE_MAP.md` for Generative AI deep dive (Course 10)
+
 **Official Unit Name:** Introduction to Generative AI and Course Summary  
 **Duration:** 14 hours (7 theory + 7 practical)
 

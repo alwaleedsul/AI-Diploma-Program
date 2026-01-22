@@ -1,6 +1,15 @@
 # Unit 5: Production Pipelines and Monitoring | خطوط الإنتاج والمراقبة
 ## AIAT 125 - AI Model Deployment
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 4: Containers and Orchestration
+- [ ] Understand model lifecycle basics (train → deploy → monitor)
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

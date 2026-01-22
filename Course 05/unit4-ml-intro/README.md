@@ -1,6 +1,16 @@
 # Unit: Introduction to Machine Learning
 ## Introduction to Machine Learning
 
+## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
+
+Before starting this unit, confirm:
+
+- [ ] Completed Unit 3: Data Visualization
+- [ ] Comfortable with train/test split and evaluation metrics
+- [ ] Recommended: Course 04 (Machine Learning) for deep dive
+- [ ] Installed required libraries (`pip check` passes)
+- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+
 ### Learning Objectives | أهداف التعلم
 
 By the end of this unit, students will be able to:

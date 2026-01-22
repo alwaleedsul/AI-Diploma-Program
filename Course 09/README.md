@@ -8,6 +8,20 @@
 
 ---
 
+**✅ Official Path:** Follow the unit folders in order (Unit 1 → Unit 5).
+
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+
+**Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
+
+| Detailed Unit | Folder | Topic |
+|---------------|--------|-------|
+| Unit 1 | `unit1-rl-fundamentals/` | Introduction to Reinforcement Learning |
+| Unit 2 | `unit2-policy-value/` | Prediction and Control without a Model |
+| Unit 3 | `unit3-deep-rl/` | Deep Reinforcement Learning |
+| Unit 4 | `unit4-exploration-exploitation/` | Exploration and Exploitation Strategies |
+| Unit 5 | `unit5-applications/` | Advanced Topics and Applications |
+
 ## Course Overview | نظرة عامة على الدورة
 
 This course provides comprehensive training in Reinforcement Learning (RL). Students will learn to build agents that learn from interaction with environments through trial and error.
