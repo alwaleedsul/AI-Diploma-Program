@@ -34,13 +34,11 @@
     "unit1-introduction/09_advanced_numpy_operations.ipynb",
     "unit2-cleaning/04_data_loading.ipynb",
     "unit5-scaling/21_model_monitoring.ipynb",
-    "unit5-scaling/22_data_pipeline_automation.ipynb"
+    "unit5-scaling/22_data_pipeline_automation.ipynb",
+    "unit4-ml-intro/08_supervised_learning_logistic_regression.ipynb",
+    "unit4-ml-intro/10_hyperparameter_tuning_grid_random_search.ipynb"
   ],
   "errors": [
-    [
-      "unit4-ml-intro/10_hyperparameter_tuning_grid_random_search.ipynb",
-      "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit4-ml-intro/examples/10_hyperparameter_tuning_grid_random_search.ipynb to notebook\nTraceback (most recent call last"
-    ],
     [
       "unit4-ml-intro/13_cpu_vs_gpu_ml.ipynb",
       "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit4-ml-intro/examples/13_cpu_vs_gpu_ml.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/b"
@@ -56,10 +54,6 @@
     [
       "unit2-cleaning/05_missing_values_duplicates.ipynb",
       "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit2-cleaning/examples/05_missing_values_duplicates.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/bin/jupyter-nbconvert\", line 11, in <module>\n    sys.exit(main())\n             ~~~~^^\n  F"
-    ],
-    [
-      "unit4-ml-intro/08_supervised_learning_logistic_regression.ipynb",
-      "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit4-ml-intro/examples/08_supervised_learning_logistic_regression.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/bin/jupyter-nbconvert\", line 11, in <module>\n    sys.exit(main())\n         "
     ],
     [
       "unit4-ml-intro/12_model_evaluation.ipynb",
@@ -80,7 +74,7 @@
   ],
   "timeouts": [],
   "total": 45,
-  "success_count": 35,
-  "error_count": 10,
+  "success_count": 37,
+  "error_count": 8,
   "timeout_count": 0
 }
