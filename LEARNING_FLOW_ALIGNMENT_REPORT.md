@@ -100,3 +100,7 @@ For full unit-level content, always use **[DETAILED_UNIT_DESCRIPTIONS.md](DETAIL
 - **Flowchart:** [DOCS/guides/OFFICIAL_PATH_FLOWCHART.md](DOCS/guides/OFFICIAL_PATH_FLOWCHART.md); Remaining Gaps §5 updated.
 - **Phase 2:** [UNIT_BY_UNIT_AUDIT](DOCS/guides/UNIT_BY_UNIT_AUDIT.md) (60 units), [CLOS_MATERIALS_MATRIX](DOCS/guides/CLOS_MATERIALS_MATRIX.md) (75 CLOs).
 - **Plan:** [AI_DIPLOMA_DEEP_DIVE_PLAN](DOCS/guides/AI_DIPLOMA_DEEP_DIVE_PLAN.md) checklist complete; references updated.
+- **Syntax fixes:** Course 03 `06_transformation_matrices_orthogonal_basis`, `05_function_approximation_ml`, `06_maximum_likelihood_estimation` (indentation, duplicates, Hessian, gammaln). NOTEBOOK_TRIAGE §3 updated.
+- **MASTER_NOTEBOOK_INDEX:** Created at root; SETUP_GUIDE, STUDENT_HANDBOOK reference it.
+- **Course 01 unit1 renames:** `implementing_search_algorithms...` → `10_implementing_search_algorithms.ipynb`, `working_with_numpy...` → `11_working_with_numpy.ipynb`. UNIT_BY_UNIT_AUDIT, MASTER_NOTEBOOK_INDEX updated.
+- **Course 08/10 target state:** UNIT_BY_UNIT_AUDIT Summary.

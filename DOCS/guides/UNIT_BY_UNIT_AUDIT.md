@@ -9,7 +9,7 @@
 
 | Unit | Detailed name | Repo path | Examples | Exercises | Coverage |
 |------|----------------|-----------|----------|-----------|----------|
-| 1 | Introduction to AI and Applications | `unit1-ai-foundations/` | 01–09, implementing_search, working_with_numpy | ✓ | Theory + practical (search, KR, Python, GenAI intro) |
+| 1 | Introduction to AI and Applications | `unit1-ai-foundations/` | 01–11 (e.g. 01_ai_introduction … 10_implementing_search_algorithms, 11_working_with_numpy) | ✓ | Theory + practical (search, KR, Python, GenAI intro) |
 | 2 | AI Concepts, Terminology, and Application Domains | `unit2-ai-concepts/` | 01–10 (Python, expert systems, RDF/SPARQL, Bayes, ML) | ✓ | Aligned; supplemental: `unit2-search-algorithms` |
 | 3 | AI Concepts Part 2 | `unit3-ml-basics/` | 04–05 (regression/classification, XOR, Keras) | ✓ | Aligned; supplemental: `unit3-knowledge-representation` |
 | 4 | Neural Networks Fundamentals | `unit4-neural-networks-basics/` | 01–03 (perceptron, GenAI intro, CNN/RNN) | ✓ | Aligned; supplemental: `unit4-neural-networks` |
@@ -154,5 +154,7 @@
 - **60 units** mapped to DETAILED_UNIT_DESCRIPTIONS and repo paths.
 - **Official paths:** Course 01 canonical units; 02 NOTEBOOKS; 03 modules; 04–12 unit folders.
 - **Known mapping differences:** Course 08 (U4/U5 vs spec), Course 10 (GANs/VAEs/Applications/Ethics vs Text/Image/Ethics/Future). See [LEARNING_FLOW_ALIGNMENT_REPORT §5](../../LEARNING_FLOW_ALIGNMENT_REPORT.md).
+
+**Target state (no content reorg):** Course 08 — use unit folders as-is; spec U4 (Advanced DL) content lives in repo U5 or spread across U4/U5; mapping by position. Course 10 — use unit2-gans, unit3-vaes, unit4-applications, unit5-ethics as U2–U5; spec Text/Image/Ethics/Future mapped by position.
 
 **Last updated:** Deep-dive execution; Phase 2 audit.

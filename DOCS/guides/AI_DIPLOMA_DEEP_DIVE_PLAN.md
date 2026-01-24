@@ -80,6 +80,12 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 [LEARNING_FLOW_ALIGNMENT_REPORT.md §6](../../LEARNING_FLOW_ALIGNMENT_REPORT.md) plus:  
 `artifacts/NOTEBOOK_TRIAGE.md`, `Course 05/META/` (dev/QA moves), `SETUP_GUIDE.md` (quick-validate, NOTEBOOK_TRIAGE link), `DOCS/guides/BEST_PRACTICES.md` (notebook naming), `DOCS/guides/ORGANIZATION_ASSESSMENT.md` (Course 05 META), `DOCS/guides/OFFICIAL_PATH_FLOWCHART.md`, `DOCS/guides/UNIT_BY_UNIT_AUDIT.md`, `DOCS/guides/CLOS_MATERIALS_MATRIX.md`, `LEARNING_FLOW_ALIGNMENT_REPORT` (flowchart row).
 
+**Latest (finish-it-all run):**  
+- **Syntax fixes:** Course 03 `06_transformation_matrices_orthogonal_basis`, `05_function_approximation_ml`, `06_maximum_likelihood_estimation` (indentation, duplicate code, `intercept_print`, Hessian, `gammaln`). NOTEBOOK_TRIAGE §3 updated.  
+- **Course 08/10 target state:** UNIT_BY_UNIT_AUDIT Summary.  
+- **MASTER_NOTEBOOK_INDEX:** Created at root; SETUP_GUIDE, STUDENT_HANDBOOK reference it.  
+- **Notebook renames:** Course 01 unit1 `implementing_search_algorithms...` → `10_implementing_search_algorithms.ipynb`, `working_with_numpy...` → `11_working_with_numpy.ipynb`. UNIT_BY_UNIT_AUDIT, MASTER_NOTEBOOK_INDEX updated.
+
 ---
 
 ## 5. References
@@ -95,6 +101,7 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 | [OFFICIAL_PATH_FLOWCHART.md](OFFICIAL_PATH_FLOWCHART.md) | Official path → detailed units flowchart |
 | [UNIT_BY_UNIT_AUDIT.md](UNIT_BY_UNIT_AUDIT.md) | 60-unit audit; unit ↔ materials |
 | [CLOS_MATERIALS_MATRIX.md](CLOS_MATERIALS_MATRIX.md) | 75 CLOs ↔ units and materials |
+| [MASTER_NOTEBOOK_INDEX.md](../../MASTER_NOTEBOOK_INDEX.md) | Notebook navigation by course/unit |
 
 ---
 
