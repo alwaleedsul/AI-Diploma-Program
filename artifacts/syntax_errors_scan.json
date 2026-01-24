@@ -1,22 +1,9 @@
 {
   "timestamp": "1769289056.6134248",
   "total_notebooks": 795,
-  "notebooks_with_errors": 68,
-  "total_errors": 87,
+  "notebooks_with_errors": 67,
+  "total_errors": 86,
   "errors": [
-    {
-      "path": "Course 03/modules/module_01/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 6,
-          "line": 2,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"Testing Exercise 01: Vector and Matrix Operations\")\n",
-          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: Vector and Matrix Operations\")\nprint(\"=\" * 60)"
-        }
-      ]
-    },
     {
       "path": "Course 03/modules/module_01/exercises/exercise_02.ipynb",
       "errors": [
