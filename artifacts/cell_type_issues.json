@@ -2,8 +2,8 @@
   "timestamp": "1769289056.6134677",
   "total_notebooks": 795,
   "notebooks_with_issues": 482,
-  "code_in_markdown_count": 1200,
-  "markdown_in_code_count": 123,
+  "code_in_markdown_count": 1206,
+  "markdown_in_code_count": 117,
   "issues": [
     {
       "path": "Course 01/unit1-ai-foundations/examples/01_ai_introduction.ipynb",
@@ -807,8 +807,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 1.0,
-          "reason": "133% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "\"\"\"\nUnit 3 - Example 1: Knowledge Graph Representation\n# \u0627\u0644\u0648\u062d\u062f\u0629 3 - \u0645\u062b\u0627\u0644 1: \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a \u0644\u0644\u0645\u0639\u0631\u0641\u0629\n"
+          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
+          "source_preview": "\"\"\"\nUnit 3 - Example 1: Knowledge Graph Representation\n# \u0627\u0644\u0648\u062d\u062f\u0629 3 - \u0645\u062b\u0627\u0644 1: \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a \u0644\u0644\u0645\u0639\u0631\u0641\u0629\n\"\"\"\n"
         }
       ]
     },
@@ -5275,11 +5275,12 @@
         },
         {
           "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 0.6,
-          "reason": "81% comments/docstrings, but has executable code, contains markdown formatting",
-          "source_preview": "# Step 1: Import necessary libraries\n# These libraries help us work with data and create visualizations\nimport pandas as pd \n# For data manipulation and analysis (DataFrames, reading CSV)\n# import numpy as np \n# For numerical operations (arrays, math functions)\nimport matplotlib.pyplot as plt \n# For"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.7,
+          "reason": "Contains 2 Python keywords outside code blocks",
+          "dependencies": [],
+          "source_preview": "Step 1: Import necessary libraries\nThese libraries help us work with data and create visualizations\nimport pandas as pd \nFor data manipulation and analysis (DataFrames, reading CSV)\nimport numpy as np \nFor numerical operations (arrays, math functions)\nimport matplotlib.pyplot as plt \nFor creating pl"
         },
         {
           "cell_index": 3,
@@ -5522,11 +5523,12 @@
         },
         {
           "cell_index": 12,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 0.6,
-          "reason": "73% comments/docstrings, but has executable code, contains markdown formatting",
-          "source_preview": "# Method 2: Fill missing values (imputation)\n# We'll use a copy so we don't modify df (which already has duplicates and outlier added for demonstration)\nprint(\"\\n--- Method 2: Fill missing values ---\")\nprint(\"--- \u0627\u0644\u0637\u0631\u064a\u0642\u0629 2: \u0645\u0644\u0621 \u0627\u0644\u0642\u064a\u0645 \u0627\u0644\u0645\u0641\u0642\u0648\u062f\u0629 ---\")\n\n# df.copy()\n# - Creates a deep copy of DataFrame ("
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.7,
+          "reason": "Contains 3 Python keywords outside code blocks",
+          "dependencies": [],
+          "source_preview": "Method 2: Fill missing values (imputation)\nWe'll use a copy so we don't modify df (which already has duplicates and outlier added for demonstration)\nprint(\"\\n--- Method 2: Fill missing values ---\")\nprint(\"--- \u0627\u0644\u0637\u0631\u064a\u0642\u0629 2: \u0645\u0644\u0621 \u0627\u0644\u0642\u064a\u0645 \u0627\u0644\u0645\u0641\u0642\u0648\u062f\u0629 ---\")\n\ndf.copy()\n- Creates a deep copy of DataFrame (independ"
         },
         {
           "cell_index": 13,
@@ -5548,19 +5550,21 @@
         },
         {
           "cell_index": 18,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 0.6,
-          "reason": "72% comments/docstrings, but has executable code, contains markdown formatting",
-          "source_preview": "# Check for outliers in Fare column\nprint(\"\\nOutliers in Fare column:\")\nprint(\"\u0627\u0644\u0642\u064a\u0645 \u0627\u0644\u0634\u0627\u0630\u0629 \u0641\u064a \u0639\u0645\u0648\u062f \u0627\u0644\u0623\u062c\u0631\u0629:\")\n\n# detect_outliers_iqr(df_no_duplicates['Fare'])\n# - Calls function defined earlier\n# - df_no_duplicates['Fare']: Passes Fare column as Series\n# - Returns boolean Series (True = outlier, Fal"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.7,
+          "reason": "Contains 3 Python keywords outside code blocks",
+          "dependencies": [],
+          "source_preview": "Check for outliers in Fare column\nprint(\"\\nOutliers in Fare column:\")\nprint(\"\u0627\u0644\u0642\u064a\u0645 \u0627\u0644\u0634\u0627\u0630\u0629 \u0641\u064a \u0639\u0645\u0648\u062f \u0627\u0644\u0623\u062c\u0631\u0629:\")\n\ndetect_outliers_iqr(df_no_duplicates['Fare'])\n- Calls function defined earlier\n- df_no_duplicates['Fare']: Passes Fare column as Series\n- Returns boolean Series (True = outlier, False = norma"
         },
         {
           "cell_index": 19,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 0.7999999999999999,
-          "reason": "89% comments/docstrings, minimal executable code, contains markdown formatting",
-          "source_preview": "# Remove outliers\n\n# df_no_duplicates[~fare_outliers].copy()\n# - ~fare_outliers: NOT operator (~) inverts boolean Series\n#   - True becomes False, False becomes True\n#   - Selects rows that are NOT outliers (keeps normal values)\n# - [~fare_outliers]: Boolean indexing - filters DataFrame\n# - .copy():"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "Remove outliers\n\ndf_no_duplicates[~fare_outliers].copy()\n- ~fare_outliers: NOT operator (~) inverts boolean Series\n- True becomes False, False becomes True\n- Selects rows that are NOT outliers (keeps normal values)\n- [~fare_outliers]: Boolean indexing - filters DataFrame\n- .copy(): Creates independe"
         }
       ]
     },
@@ -6078,11 +6082,12 @@
         },
         {
           "cell_index": 38,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 0.6,
-          "reason": "91% comments/docstrings, but has executable code, contains markdown formatting",
-          "source_preview": "# Solution 2 Example: Checking \n# for Outliers in Target Variable\n# This demonstrates how to check \n# for and handle outliers that might cause bias\n# print('=\" * 60)\")\n\n\n# print(\"Solution 2: Checking for Data Quality Issues (Outliers)\")\n\n\n\n\n# print(\"=\" * 60)\n\nimport matplotlib.pyplot as plt\n\n# Check"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.7,
+          "reason": "Contains 5 Python keywords outside code blocks",
+          "dependencies": [],
+          "source_preview": "Solution 2 Example: Checking \nfor Outliers in Target Variable\nThis demonstrates how to check \nfor and handle outliers that might cause bias\nprint('=\" * 60)\")\n\n\nprint(\"Solution 2: Checking for Data Quality Issues (Outliers)\")\n\n\n\n\nprint(\"=\" * 60)\n\nimport matplotlib.pyplot as plt\n\nCheck \nfor outliers i"
         },
         {
           "cell_index": 39,
@@ -6823,8 +6828,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 1.0,
-          "reason": "133% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "\"\"\"\nUnit 2 - Exercise 2: Cross-Validation Practice\n# \u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u062d\u0642\u0642 \u0627\u0644\u0645\u062a\u0642\u0627\u0637\u0639\n"
+          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
+          "source_preview": "\"\"\"\nUnit 2 - Exercise 2: Cross-Validation Practice\n# \u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u062d\u0642\u0642 \u0627\u0644\u0645\u062a\u0642\u0627\u0637\u0639\n\"\"\"\n"
         }
       ]
     },
@@ -7743,7 +7748,7 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 1.0,
-          "reason": "133% comments/docstrings, no executable code, contains markdown formatting",
+          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
           "source_preview": "\"\"\"\n# Unit 3 - Exercise 1: Classification Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u0635\u0646\u064a\u0641I_nstructions:\n1. Load the provided dataset2. Train a Decision Tree classifier_3. Train a Random Forest classifier_4. Evaluate both models using appropriate metrics5. Compare feature importance6. Visua"
         }
       ]
@@ -8211,8 +8216,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 1.0,
-          "reason": "133% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "\"\"\"\nUnit 4 - Exercise 2: Principal Component Analysis (PCA) Practice\n# \u0627\u0644\u062a\u062c\u0645\u064a\u0639 \u0648\u062a\u0642\u0644\u064a\u0644 \u0627\u0644\u0623\u0628\u0639\u0627\u062f - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 (PCA)\n"
+          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
+          "source_preview": "\"\"\"\nUnit 4 - Exercise 2: Principal Component Analysis (PCA) Practice\n# \u0627\u0644\u062a\u062c\u0645\u064a\u0639 \u0648\u062a\u0642\u0644\u064a\u0644 \u0627\u0644\u0623\u0628\u0639\u0627\u062f - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 (PCA)\n\"\"\"\n"
         }
       ]
     },
@@ -10130,8 +10135,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "200% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nAnalyze the COMPAS case study using ethical frameworks.\n\n"
+          "reason": "133% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nAnalyze the COMPAS case study using ethical frameworks.\n\n\"\"\"\n"
         }
       ]
     },
@@ -10143,8 +10148,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 1: Foundations of AI Ethics\nExercise 1: Ethical Framework Application\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 1: Foundations of AI Ethics\nExercise 1: Ethical Framework Application\n\"\"\"\n"
         }
       ]
     },
@@ -10361,8 +10366,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 2: Bias, Justice, and Discrimination in AI\nExercise 2: Bias Mitigation TechniquesThis exercise requires you to implement and compare different bias mitigation techniques.\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 2: Bias, Justice, and Discrimination in AI\nExercise 2: Bias Mitigation TechniquesThis exercise requires you to implement and compare different bias mitigation techniques.\n\"\"\"\n"
         }
       ]
     },
@@ -10447,8 +10452,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 2: Privacy-Enhancing Technologies (PETs)\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 2: Privacy-Enhancing Technologies (PETs)\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10478,8 +10483,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 3: Differential Privacy\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 3: Differential Privacy\n\"\"\"\n"
         }
       ]
     },
@@ -10500,8 +10505,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 4: GDPR Compliance\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 4: GDPR Compliance\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10531,8 +10536,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 5: Secure AI Development Practices\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 5: Secure AI Development Practices\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10595,8 +10600,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExercise 1: Privacy Techniques\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExercise 1: Privacy Techniques\n\"\"\"\n"
         }
       ]
     },
@@ -10649,8 +10654,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 1: SHAP Explanations\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 1: SHAP Explanations\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10680,8 +10685,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 2: LIME Explanations\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 2: LIME Explanations\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10711,8 +10716,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 3: Counterfactual Analysis\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 3: Counterfactual Analysis\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10742,8 +10747,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 4: Accountability Frameworks\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 4: Accountability Frameworks\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10773,8 +10778,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 5: Human-in-the-Loop (HITL) Approaches\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 5: Human-in-the-Loop (HITL) Approaches\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10804,8 +10809,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 6: Transparency Tools\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 6: Transparency Tools\n\"\"\"\n"
         }
       ]
     },
@@ -10831,8 +10836,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExercise 1: SHAP and LIME Explanations\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExercise 1: SHAP and LIME Explanations\n\"\"\"\n"
         }
       ]
     },
@@ -10885,8 +10890,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 1: Global AI Regulations\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 1: Global AI Regulations\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10916,8 +10921,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 2: Industry-Specific AI Regulations\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 2: Industry-Specific AI Regulations\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10947,8 +10952,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 3: AI Governance Frameworks\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 3: AI Governance Frameworks\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -10978,8 +10983,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 4: Legal Challenges in AI Governance\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 4: Legal Challenges in AI Governance\n\"\"\"\n"
         },
         {
           "cell_index": 3,
@@ -11042,8 +11047,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "133% comments/docstrings, no executable code",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExercise 1: Regulations\n"
+          "reason": "100% comments/docstrings, no executable code",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExercise 1: Regulations\n\"\"\"\n"
         }
       ]
     },
@@ -12402,8 +12407,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "100% comments/docstrings, no executable code",
-          "source_preview": "class ActorCritic(nn.Module):\n    \"\"\"\n    Actor-Critic network.\n"
+          "reason": "75% comments/docstrings, no executable code",
+          "source_preview": "class ActorCritic(nn.Module):\n    \"\"\"\n    Actor-Critic network.\n\"\"\"\n"
         }
       ]
     },
@@ -12489,8 +12494,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "100% comments/docstrings, no executable code",
-          "source_preview": "class ThompsonSampling:\n    \"\"\"\nThompson Sampling for multi-armed bandit.\n"
+          "reason": "75% comments/docstrings, no executable code",
+          "source_preview": "class ThompsonSampling:\n    \"\"\"\nThompson Sampling for multi-armed bandit.\n\"\"\"\n"
         }
       ]
     },
@@ -12637,8 +12642,8 @@
           "cell_type": "code",
           "issue_type": "markdown_in_code",
           "confidence": 0.9,
-          "reason": "100% comments/docstrings, no executable code",
-          "source_preview": "class ResourceAllocationEnv:\n    \"\"\"\n    Simplified data center resource allocation environment.\n"
+          "reason": "75% comments/docstrings, no executable code",
+          "source_preview": "class ResourceAllocationEnv:\n    \"\"\"\n    Simplified data center resource allocation environment.\n\"\"\"\n"
         },
         {
           "cell_index": 5,
@@ -13487,11 +13492,12 @@
         },
         {
           "cell_index": 9,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 0.7999999999999999,
-          "reason": "80% comments/docstrings, minimal executable code, contains markdown formatting",
-          "source_preview": "# TODO: Test API endpoints\nimport requests\n\n# Test health check\n# Test prediction\n# Test error cases"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "TODO: Test API endpoints\nimport requests\n\nTest health check\nTest prediction\nTest error cases"
         }
       ]
     },

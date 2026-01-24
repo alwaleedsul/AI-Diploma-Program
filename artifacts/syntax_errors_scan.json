@@ -1,22 +1,9 @@
 {
   "timestamp": "1769289056.6134248",
   "total_notebooks": 795,
-  "notebooks_with_errors": 99,
-  "total_errors": 129,
+  "notebooks_with_errors": 74,
+  "total_errors": 102,
   "errors": [
-    {
-      "path": "Course 01/unit3-knowledge-representation/examples/01_knowledge_graph.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 104,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 3 - Example 1: Knowledge Graph Representation\n# \u0627\u0644\u0648\u062d\u062f\u0629 3 - \u0645\u062b\u0627\u0644 1: \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a \u0644\u0644\u0645\u0639\u0631\u0641\u0629\n",
-          "source_preview": "\"\"\"\nUnit 3 - Example 1: Knowledge Graph Representation\n# \u0627\u0644\u0648\u062d\u062f\u0629 3 - \u0645\u062b\u0627\u0644 1: \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a \u0644\u0644\u0645\u0639\u0631\u0641\u0629\n"
-        }
-      ]
-    },
     {
       "path": "Course 03/modules/module_01/exercises/exercise_01.ipynb",
       "errors": [
@@ -452,19 +439,6 @@
       ]
     },
     {
-      "path": "Course 04/unit2-regression/exercises/exercise_02_cross_validation.ipynb",
-      "errors": [
-        {
-          "cell_index": 0,
-          "line": 3,
-          "offset": 112,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 2 - Exercise 2: Cross-Validation Practice\n# \u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u062d\u0642\u0642 \u0627\u0644\u0645\u062a\u0642\u0627\u0637\u0639\n",
-          "source_preview": "\"\"\"\nUnit 2 - Exercise 2: Cross-Validation Practice\n# \u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u062d\u0642\u0642 \u0627\u0644\u0645\u062a\u0642\u0627\u0637\u0639\n"
-        }
-      ]
-    },
-    {
       "path": "Course 04/unit2-regression/solutions/solution_01.ipynb",
       "errors": [
         {
@@ -534,14 +508,6 @@
     {
       "path": "Course 04/unit3-classification/exercises/exercise_01.ipynb",
       "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 331,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\n# Unit 3 - Exercise 1: Classification Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u0635\u0646\u064a\u0641I_nstructions:\n1. Load the provided dataset2. Train a Decision Tree classifier_3. Train a Random Forest classifier_4. Evaluate both models using appropriate metrics5. Compare feature importance6. Visualize decision boundaries (if 2\n",
-          "source_preview": "\"\"\"\n# Unit 3 - Exercise 1: Classification Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u0635\u0646\u064a\u0641I_nstructions:\n1. Load the provided dataset2. Train a Decision Tree classifier_3. Train a Random Fore"
-        },
         {
           "cell_index": 4,
           "line": 2,
@@ -626,19 +592,6 @@
       ]
     },
     {
-      "path": "Course 04/unit4-clustering/exercises/exercise_02_pca.ipynb",
-      "errors": [
-        {
-          "cell_index": 0,
-          "line": 3,
-          "offset": 142,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 4 - Exercise 2: Principal Component Analysis (PCA) Practice\n# \u0627\u0644\u062a\u062c\u0645\u064a\u0639 \u0648\u062a\u0642\u0644\u064a\u0644 \u0627\u0644\u0623\u0628\u0639\u0627\u062f - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 (PCA)\n",
-          "source_preview": "\"\"\"\nUnit 4 - Exercise 2: Principal Component Analysis (PCA) Practice\n# \u0627\u0644\u062a\u062c\u0645\u064a\u0639 \u0648\u062a\u0642\u0644\u064a\u0644 \u0627\u0644\u0623\u0628\u0639\u0627\u062f - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 (PCA)\n"
-        }
-      ]
-    },
-    {
       "path": "Course 04/unit4-clustering/solutions/solution_01.ipynb",
       "errors": [
         {
@@ -716,266 +669,6 @@
           "message": "invalid syntax",
           "text": "X, y = make_classification( n_samples = 1000, n_features = 10, n_informative = 5, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(10)])\n",
           "source_preview": "np.random.seed(42)\nX, y = make_classification( n_samples = 1000, n_features = 10, n_informative = 5, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(10)])\ndf = pd.Data"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit1-ethics-foundations/examples/03_case_study_analysis.ipynb",
-      "errors": [
-        {
-          "cell_index": 11,
-          "line": 3,
-          "offset": 61,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nAnalyze the COMPAS case study using ethical frameworks.\n\n",
-          "source_preview": "\"\"\"\nAnalyze the COMPAS case study using ethical frameworks.\n\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit1-ethics-foundations/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 1,
-          "line": 3,
-          "offset": 79,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 1: Foundations of AI Ethics\nExercise 1: Ethical Framework Application\n",
-          "source_preview": "\"\"\"\nUnit 1: Foundations of AI Ethics\nExercise 1: Ethical Framework Application\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit2-bias-justice/exercises/exercise_02.ipynb",
-      "errors": [
-        {
-          "cell_index": 1,
-          "line": 3,
-          "offset": 180,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 2: Bias, Justice, and Discrimination in AI\nExercise 2: Bias Mitigation TechniquesThis exercise requires you to implement and compare different bias mitigation techniques.\n",
-          "source_preview": "\"\"\"\nUnit 2: Bias, Justice, and Discrimination in AI\nExercise 2: Bias Mitigation TechniquesThis exercise requires you to implement and compare different bias mitigation techniques.\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit3-privacy-security/examples/02_privacy_technologies.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 100,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 2: Privacy-Enhancing Technologies (PETs)\n",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 2: Privacy-Enhancing Technologies (PETs)\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit3-privacy-security/examples/03_differential_privacy.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 83,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 3: Differential Privacy\n",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 3: Differential Privacy\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit3-privacy-security/examples/04_gdpr_compliance.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 78,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 4: GDPR Compliance\n",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 4: GDPR Compliance\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit3-privacy-security/examples/05_secure_development.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 94,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 5: Secure AI Development Practices\n",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 5: Secure AI Development Practices\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit3-privacy-security/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 1,
-          "line": 3,
-          "offset": 82,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExercise 1: Privacy Techniques\n",
-          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExercise 1: Privacy Techniques\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit4-transparency-accountability/examples/01_shap_explanations.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 92,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 1: SHAP Explanations\n",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 1: SHAP Explanations\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit4-transparency-accountability/examples/02_lime_explanations.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 92,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 2: LIME Explanations\n",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 2: LIME Explanations\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit4-transparency-accountability/examples/03_counterfactual_analysis.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 98,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 3: Counterfactual Analysis\n",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 3: Counterfactual Analysis\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit4-transparency-accountability/examples/04_accountability_frameworks.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 100,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 4: Accountability Frameworks\n",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 4: Accountability Frameworks\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit4-transparency-accountability/examples/05_hitl_approaches.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 110,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 5: Human-in-the-Loop (HITL) Approaches\n",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 5: Human-in-the-Loop (HITL) Approaches\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit4-transparency-accountability/examples/06_transparency_tools.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 93,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 6: Transparency Tools\n",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 6: Transparency Tools\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit4-transparency-accountability/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 1,
-          "line": 3,
-          "offset": 102,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExercise 1: SHAP and LIME Explanations\n",
-          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExercise 1: SHAP and LIME Explanations\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit5-governance-regulations/examples/01_global_regulations.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 95,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 1: Global AI Regulations\n",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 1: Global AI Regulations\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit5-governance-regulations/examples/02_industry_regulations.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 106,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 2: Industry-Specific AI Regulations\n",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 2: Industry-Specific AI Regulations\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit5-governance-regulations/examples/03_governance_frameworks.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 98,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 3: AI Governance Frameworks\n",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 3: AI Governance Frameworks\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit5-governance-regulations/examples/04_legal_challenges.ipynb",
-      "errors": [
-        {
-          "cell_index": 2,
-          "line": 3,
-          "offset": 107,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 4: Legal Challenges in AI Governance\n",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 4: Legal Challenges in AI Governance\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 06/unit5-governance-regulations/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 1,
-          "line": 3,
-          "offset": 86,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExercise 1: Regulations\n",
-          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExercise 1: Regulations\n"
         }
       ]
     },
@@ -1255,33 +948,12 @@
       "path": "Course 09/unit3-deep-rl/examples/02_actor_critic.ipynb",
       "errors": [
         {
-          "cell_index": 4,
-          "line": 3,
-          "offset": 34,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "    \"\"\"\n    Actor-Critic network.\n",
-          "source_preview": "class ActorCritic(nn.Module):\n    \"\"\"\n    Actor-Critic network.\n"
-        },
-        {
           "cell_index": 6,
           "line": 2,
           "offset": 1,
           "message": "invalid syntax",
           "text": "name ='CartPole-v1', episodes=500):\n",
           "source_preview": "def train_actor_critic(env\nname ='CartPole-v1', episodes=500):\n    \"\"\"\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 09/unit4-exploration-exploitation/examples/02_balancing_exploration.ipynb",
-      "errors": [
-        {
-          "cell_index": 4,
-          "line": 3,
-          "offset": 50,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "    \"\"\"\nThompson Sampling for multi-armed bandit.\n",
-          "source_preview": "class ThompsonSampling:\n    \"\"\"\nThompson Sampling for multi-armed bandit.\n"
         }
       ]
     },
@@ -1353,19 +1025,6 @@
           "message": "unexpected EOF while parsing",
           "text": "    def __init__(self, learning\n",
           "source_preview": "class QLearningAgent:\n    \"\"\"Q-learning agent for game playing\"\"\"\n    def __init__(self, learning\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 09/unit5-applications/examples/03_resource_optimization.ipynb",
-      "errors": [
-        {
-          "cell_index": 4,
-          "line": 3,
-          "offset": 68,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "    \"\"\"\n    Simplified data center resource allocation environment.\n",
-          "source_preview": "class ResourceAllocationEnv:\n    \"\"\"\n    Simplified data center resource allocation environment.\n"
         }
       ]
     },
