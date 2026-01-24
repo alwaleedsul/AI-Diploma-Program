@@ -1,5 +1,12 @@
-# Unit 3: AI Concepts, Terminology, and Application Domains Part 2
-# الوحدة 3: مفاهيم الذكاء الاصطناعي والمصطلحات ومجالات التطبيق - الجزء الثاني
+# Supplemental: Knowledge Representation & Related Materials
+# إضافي: تمثيل المعرفة والمواد ذات الصلة
+
+**⚠️ Supplemental folder.** The **canonical Unit 3** folder is `unit3-ml-basics/` (AI Concepts Part 2: regression/classification, perceptron, XOR). This folder contains **additional** knowledge-representation content (overlaps with Unit 2). Follow **`../START_HERE.md`** and use **`unit3-ml-basics/`** for the official Unit 3 sequence.
+
+---
+
+# Unit 3: AI Concepts Part 2 (legacy)
+# الوحدة 3: مفاهيم الذكاء الاصطناعي - الجزء الثاني (قديم)
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 

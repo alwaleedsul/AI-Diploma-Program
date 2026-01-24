@@ -419,7 +419,7 @@ Each course follows a consistent structure:
 
 ### For Students:
 
-1. **Start with Course 02** - Read `Course 02/START_HERE.md`
+1. **Start with Course 01** - Read `Course 01/START_HERE.md` (Introduction to AI). If you already know Python well, you may optionally start with Course 02; otherwise follow the Learning Path (01 → 02 → …).
 2. **Work through units sequentially** - Each unit builds on previous ones
 3. **Complete exercises** - Practice in `exercises/` directory
 4. **Check solutions** - Compare with `solutions/` directory

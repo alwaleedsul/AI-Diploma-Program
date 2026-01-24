@@ -1,5 +1,12 @@
-# Unit 2: AI Concepts, Terminology, and Application Domains
-# الوحدة 2: مفاهيم الذكاء الاصطناعي والمصطلحات ومجالات التطبيق
+# Supplemental: Search Algorithms & Related Materials
+# إضافي: خوارزميات البحث والمواد ذات الصلة
+
+**⚠️ Supplemental folder.** The **canonical Unit 2** folder is `unit2-ai-concepts/` (AI Concepts, expert systems, Bayes, RDF, ML). This folder contains **additional** search-algorithms and related content (some overlap with Unit 1). Follow **`../START_HERE.md`** and use **`unit2-ai-concepts/`** for the official Unit 2 sequence.
+
+---
+
+# Unit 2: AI Concepts, Terminology, and Application Domains (legacy)
+# الوحدة 2: مفاهيم الذكاء الاصطناعي والمصطلحات ومجالات التطبيق (قديم)
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 

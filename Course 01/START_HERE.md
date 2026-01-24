@@ -48,15 +48,15 @@ python
 4. Take quiz: `unit1-ai-foundations/quizzes/quiz_01.md`
 
 ### Week 3-4: Unit 2 - AI Concepts, Terminology, and Application Domains
-1. Read `unit2-search-algorithms/README.md`
-2. Study examples
-3. Complete exercises
+1. Read `unit2-ai-concepts/README.md`
+2. Study examples in `unit2-ai-concepts/examples/`
+3. Complete exercises (if any)
 4. Take quiz
 
 ### Week 5-6: Unit 3 - AI Concepts Part 2
-1. Read `unit3-knowledge-representation/README.md`
-2. Study examples
-3. Complete exercises
+1. Read `unit3-ml-basics/README.md`
+2. Study examples in `unit3-ml-basics/examples/`
+3. Complete exercises (if any)
 4. Take quiz
 
 ### Week 7-8: Unit 4 - Neural Networks Fundamentals

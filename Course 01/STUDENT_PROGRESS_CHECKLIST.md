@@ -15,16 +15,16 @@
 - [ ] Take Quiz 01
 - [ ] Take Unit 1 Test
 
-### Unit 2: Search Algorithms | خوارزميات البحث
-- [ ] Read Unit 2 README
+### Unit 2: AI Concepts, Terminology, and Application Domains | مفاهيم الذكاء الاصطناعي والمصطلحات ومجالات التطبيق
+- [ ] Read Unit 2 README (`unit2-ai-concepts/`)
 - [ ] Complete all examples
 - [ ] Complete all exercises
 - [ ] Review solutions
 - [ ] Take Quiz 02
 - [ ] Take Unit 2 Test
 
-### Unit 3: Knowledge Representation | تمثيل المعرفة
-- [ ] Read Unit 3 README
+### Unit 3: AI Concepts Part 2 | مفاهيم الذكاء الاصطناعي - الجزء الثاني
+- [ ] Read Unit 3 README (`unit3-ml-basics/`)
 - [ ] Complete all examples
 - [ ] Complete all exercises
 - [ ] Review solutions

@@ -101,7 +101,17 @@ This course delves into the ethical implications and responsibilities associated
 
 **The detailed objectives of the training program are: For the trainee to be able to:**
 
-*Note: Detailed CLOs for Course 06 (AI Ethics) are not explicitly listed in the PDF extraction. The course focuses on ethical frameworks, bias and justice, privacy and security, transparency and accountability, and governance and regulations in AI systems.*
+**CLO1:** Explain ethical frameworks (e.g., utilitarianism, deontology, virtue ethics) and their relevance to AI development; analyze case studies of AI ethics violations.
+
+**CLO2:** Identify and analyze bias, fairness, and discrimination in AI systems; apply bias detection and mitigation techniques and fairness metrics.
+
+**CLO3:** Assess privacy, security, and data protection risks in AI applications; apply relevant regulations (e.g., GDPR, CCPA) and privacy-preserving techniques.
+
+**CLO4:** Evaluate transparency, interpretability, and accountability in AI systems; apply XAI techniques (e.g., LIME, SHAP) and accountability frameworks.
+
+**CLO5:** Analyze AI governance, regulations, and future challenges; formulate ethics policies and comply with legal frameworks.
+
+*(Aligned with [DETAILED_UNIT_DESCRIPTIONS.md](../DETAILED_UNIT_DESCRIPTIONS.md) and [COMPLETE_COURSE_STRUCTURE_AND_CLOS.md](../COMPLETE_COURSE_STRUCTURE_AND_CLOS.md).)*
 
 ---
 

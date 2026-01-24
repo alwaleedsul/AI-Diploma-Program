@@ -40,8 +40,8 @@ This course provides a comprehensive introduction to Artificial Intelligence, co
 | Detailed Unit | Folder | Topic |
 |---------------|--------|-------|
 | Unit 1 | `unit1-ai-foundations/` | Introduction to AI and Applications |
-| Unit 2 | `unit2-search-algorithms/` | AI Concepts, Terminology, and Application Domains |
-| Unit 3 | `unit3-knowledge-representation/` | AI Concepts Part 2 |
+| Unit 2 | `unit2-ai-concepts/` | AI Concepts, Terminology, and Application Domains |
+| Unit 3 | `unit3-ml-basics/` | AI Concepts Part 2 |
 | Unit 4 | `unit4-neural-networks-basics/` | Neural Networks Fundamentals |
 | Unit 5 | `unit5-generative-ai-intro/` | Introduction to Generative AI and Course Summary |
 
@@ -126,21 +126,16 @@ Course 01/
 │   ├── quizzes/
 │   └── tests/
 │
-├── unit2-search-algorithms/         📚 Unit 2: Search Algorithms
+├── unit2-ai-concepts/               📚 Unit 2: AI Concepts, Terminology, and Application Domains
 │   ├── README.md
-│   ├── examples/
-│   ├── exercises/
-│   ├── solutions/
-│   ├── quizzes/
-│   └── tests/
+│   └── examples/
 │
-├── unit3-knowledge-representation/   📚 Unit 3: Knowledge Representation
+├── unit3-ml-basics/                 📚 Unit 3: AI Concepts Part 2
 │   ├── README.md
-│   ├── examples/
-│   ├── exercises/
-│   ├── solutions/
-│   ├── quizzes/
-│   └── tests/
+│   └── examples/
+│
+├── unit2-search-algorithms/         (supplemental) extra search/ml materials
+├── unit3-knowledge-representation/  (supplemental) extra KR materials; quizzes here
 │
 ├── unit4-neural-networks-basics/     📚 Unit 4: Neural Networks Basics
 │   ├── README.md
@@ -149,6 +144,12 @@ Course 01/
 │   ├── solutions/
 │   ├── quizzes/
 │   └── tests/
+│
+├── unit5-generative-ai-intro/        📚 Unit 5: Introduction to Generative AI and Course Summary
+│   ├── README.md
+│   ├── examples/
+│   ├── exercises/
+│   └── quizzes/
 │
 ├── PROJECTS/                        📁 Projects
 │   ├── README.md
@@ -172,27 +173,21 @@ Course 01/
 - AI applications in real world
 - AI vs Machine Learning vs Deep Learning
 
-### Unit 2: Search Algorithms | خوارزميات البحث
-- Introduction to search problems
-- Breadth-First Search (BFS)
-- Depth-First Search (DFS)
-- A* Algorithm
-- Heuristic functions
-- Pathfinding applications
+### Unit 2: AI Concepts, Terminology, and Application Domains | مفاهيم الذكاء الاصطناعي والمصطلحات ومجالات التطبيق
+- Python review, expert systems, knowledge representation (RDF, SPARQL)
+- Bayesian reasoning, ML introduction, encoding, data generation
 
-### Unit 3: Knowledge Representation | تمثيل المعرفة
-- Knowledge representation methods
-- Graphs and trees
-- Rule-based systems
-- Knowledge bases
-- Expert systems basics
+### Unit 3: AI Concepts Part 2 | مفاهيم الذكاء الاصطناعي - الجزء الثاني
+- Regression vs classification, hypothesis space, loss functions, optimization
+- Deep learning intro, perceptrons, XOR, Keras
 
-### Unit 4: Neural Networks Basics | أساسيات الشبكات العصبية
-- Introduction to neural networks
-- Perceptrons
-- Multi-layer perceptrons
-- Activation functions
-- Simple classification with neural networks
+### Unit 4: Neural Networks Fundamentals | أساسيات الشبكات العصبية
+- Introduction to neural networks, perceptrons, activation functions
+- Multi-class classification, MLPs, CNNs, RNNs, overfitting/regularization
+
+### Unit 5: Introduction to Generative AI and Course Summary | مقدمة الذكاء الاصطناعي التوليدي وملخص الدورة
+- Binary classification, diabetes FFNN, EDA/preprocessing
+- Generative models (GANs, Transformers, LLMs), ethics
 
 ---
 
@@ -211,10 +206,11 @@ This summary allows you to:
 
 ## 🎯 Learning Path | مسار التعلم
 
-1. **Start with Unit 1** - Build foundational understanding
-2. **Continue to Unit 2** - Learn search algorithms
-3. **Proceed to Unit 3** - Understand knowledge representation
-4. **Complete with Unit 4** - Introduction to neural networks
+1. **Start with Unit 1** - Introduction to AI and Applications
+2. **Continue to Unit 2** - AI Concepts, Terminology, and Application Domains
+3. **Proceed to Unit 3** - AI Concepts Part 2
+4. **Unit 4** - Neural Networks Fundamentals
+5. **Complete with Unit 5** - Introduction to Generative AI and Course Summary
 
 ---
 

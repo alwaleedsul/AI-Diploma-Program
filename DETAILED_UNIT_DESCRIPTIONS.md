@@ -1061,11 +1061,11 @@ This is an immersive course aimed at equipping learners with the skills necessar
 This course explores the ethical implications, societal impacts, and responsible development of AI and data-driven technologies. Students will interact with ethical frameworks, regulatory guidelines, and case studies to analyze biases, privacy concerns, transparency, accountability, and fairness in AI systems critically. Through discussions and practical activities, learners will develop ethical decision-making skills and understand how to align AI applications with human values, legal requirements, and industry best practices.
 
 ### Course Learning Outcomes (CLOs)
-1. **CLO1**: Demonstrate ability to analyze and visualize data using Python with confidence in various contexts
-2. **CLO2**: Identify and implement strategies to scale data processing tasks effectively
-3. **CLO3**: Clean and prepare raw datasets to make them suitable for analysis and modeling
-4. **CLO4**: Build, evaluate, and deploy machine learning models using Python in scalable environments
-5. **CLO5**: Complete a data science project that includes large-scale data and models
+1. **CLO1**: Explain ethical frameworks (e.g., utilitarianism, deontology, virtue ethics) and their relevance to AI development; analyze case studies of AI ethics violations.
+2. **CLO2**: Identify and analyze bias, fairness, and discrimination in AI systems; apply bias detection and mitigation techniques and fairness metrics.
+3. **CLO3**: Assess privacy, security, and data protection risks in AI applications; apply relevant regulations (e.g., GDPR, CCPA) and privacy-preserving techniques.
+4. **CLO4**: Evaluate transparency, interpretability, and accountability in AI systems; apply XAI techniques (e.g., LIME, SHAP) and accountability frameworks.
+5. **CLO5**: Analyze AI governance, regulations, and future challenges; formulate ethics policies and comply with legal frameworks.
 
 ### Unit Structure
 

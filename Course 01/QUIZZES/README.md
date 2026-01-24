@@ -9,13 +9,13 @@
 **Unit:** Unit 1 - AI Foundations  
 **Location:** `unit1-ai-foundations/quizzes/quiz_01.md`
 
-### Quiz 02: Search Algorithms
-**Unit:** Unit 2 - Search Algorithms  
-**Location:** `unit2-search-algorithms/quizzes/quiz_02.md`
+### Quiz 02: AI Concepts, Terminology, and Application Domains
+**Unit:** Unit 2 - AI Concepts  
+**Location:** `unit2-search-algorithms/quizzes/quiz_02.md` (supplemental folder; main content in `unit2-ai-concepts/`)
 
-### Quiz 03: Knowledge Representation
-**Unit:** Unit 3 - Knowledge Representation  
-**Location:** `unit3-knowledge-representation/quizzes/quiz_03.md`
+### Quiz 03: AI Concepts Part 2
+**Unit:** Unit 3 - AI Concepts Part 2  
+**Location:** `unit3-knowledge-representation/quizzes/quiz_03.md` (supplemental folder; main content in `unit3-ml-basics/`)
 
 ### Quiz 04: Neural Networks Basics
 **Unit:** Unit 4 - Neural Networks Basics  
