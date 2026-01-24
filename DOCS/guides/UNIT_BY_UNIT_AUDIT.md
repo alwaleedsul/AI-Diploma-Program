@@ -95,9 +95,9 @@
 |------|----------------|-----------|----------|-----------|----------|
 | 1 | Introduction to Deep Learning and Neural Networks | `unit1-deep-learning-basics/` | ✓ | ✓ | |
 | 2 | CNNs for Computer Vision | `unit2-cnns/` | ✓ | ✓ | |
-| 3 | RNNs and Transformers | `unit3-rnns/` | ✓ | ✓ | |
-| 4 | Advanced Deep Learning (GANs, VAEs, RL) | repo U4 = Transformers, U5 = Deployment | ✓ | ✓ | **Mapping:** Spec U4 = Advanced DL; repo U4 = Transformers, U5 = Deployment. GANs/VAEs/RL in U5 or spread. |
-| 5 | Model Optimization and Deployment | `unit5-deployment/` | ✓ | ✓ | |
+| 3 | RNNs and Transformers | `unit3-rnns-transformers/` | ✓ | ✓ | **Aligned.** Transformers merged from old unit4. |
+| 4 | Advanced Deep Learning (GANs, VAEs, RL) | `unit4-advanced-dl/` | ✓ | ✓ | **Aligned.** GANs/VAEs/RL/ethics moved from unit1; transfer learning added. |
+| 5 | Model Optimization and Deployment | `unit5-deployment/` | ✓ | ✓ | **Aligned.** |
 
 ---
 
@@ -118,10 +118,10 @@
 | Unit | Detailed name | Repo path | Examples | Exercises | Coverage |
 |------|----------------|-----------|----------|-----------|----------|
 | 1 | Foundations of Generative AI | `unit1-generative-fundamentals/` | ✓ | ✓ | |
-| 2 | Text and Language Generation (Spec) | repo: GANs | `unit2-gans/` | ✓ | ✓ | **Mapping:** Spec = Text/Image/Ethics/Future; repo = GANs/VAEs/Applications/Ethics. By position. |
-| 3 | Image and Visual Generation (Spec) | repo: VAEs | `unit3-vaes/` | ✓ | ✓ | |
-| 4 | Ethical and Regulatory Considerations | `unit4-applications/`, `unit5-ethics/` | ✓ | ✓ | |
-| 5 | Future Trends and Research | `unit5-ethics/` (part) | ✓ | ✓ | |
+| 2 | Text and Language Generation | `unit2-text-generation/` | ✓ | ✓ | **Aligned.** Text gen notebooks moved from old unit2-gans. |
+| 3 | Image and Visual Generation | `unit3-image-generation/` | ✓ | ✓ | **Aligned.** VAEs + image gen (StyleGAN, diffusion, deepfake) from old unit3-vaes and unit4-applications. |
+| 4 | Ethical and Regulatory Considerations | `unit4-ethics-regulations/` | ✓ | ✓ | **Aligned.** Ethics moved from old unit5-ethics; regulatory content added. |
+| 5 | Future Trends and Research | `unit5-future-trends/` | ✓ | ✓ | **Aligned.** Future trends/applications from old unit4-applications. |
 
 ---
 
@@ -153,8 +153,6 @@
 
 - **60 units** mapped to DETAILED_UNIT_DESCRIPTIONS and repo paths.
 - **Official paths:** Course 01 canonical units; 02 NOTEBOOKS; 03 modules; 04–12 unit folders.
-- **Known mapping differences:** Course 08 (U4/U5 vs spec), Course 10 (GANs/VAEs/Applications/Ethics vs Text/Image/Ethics/Future). See [LEARNING_FLOW_ALIGNMENT_REPORT §5](../../LEARNING_FLOW_ALIGNMENT_REPORT.md).
-
-**Target state (no content reorg):** Course 08 — use unit folders as-is; spec U4 (Advanced DL) content lives in repo U5 or spread across U4/U5; mapping by position. Course 10 — use unit2-gans, unit3-vaes, unit4-applications, unit5-ethics as U2–U5; spec Text/Image/Ethics/Future mapped by position.
+- **Course 08/10:** **Reorganized to match DETAILED_UNIT_DESCRIPTIONS exactly.** Course 08: unit3-rnns-transformers (RNNs + Transformers), unit4-advanced-dl (GANs, VAEs, RL, transfer, ethics). Course 10: unit2-text-generation, unit3-image-generation, unit4-ethics-regulations, unit5-future-trends. See [COURSE_08_10_REORGANIZATION_PLAN](COURSE_08_10_REORGANIZATION_PLAN.md).
 
 **Last updated:** Deep-dive execution; Phase 2 audit.

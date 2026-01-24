@@ -17,10 +17,10 @@
 | Detailed Unit | Folder | Topic |
 |---------------|--------|-------|
 | Unit 1 | `unit1-generative-fundamentals/` | Foundations of Generative AI |
-| Unit 2 | `unit2-gans/` | Text and Language Generation |
-| Unit 3 | `unit3-vaes/` | Image and Visual Generation |
-| Unit 4 | `unit4-applications/` | Ethical and Regulatory Considerations |
-| Unit 5 | `unit5-ethics/` | Future Trends and Research in Generative AI |
+| Unit 2 | `unit2-text-generation/` | Text and Language Generation |
+| Unit 3 | `unit3-image-generation/` | Image and Visual Generation |
+| Unit 4 | `unit4-ethics-regulations/` | Ethical and Regulatory Considerations |
+| Unit 5 | `unit5-future-trends/` | Future Trends and Research in Generative AI |
 
 ## Course Overview | نظرة عامة على الدورة
 
@@ -108,10 +108,10 @@ Course 10/
 ├── STUDENT_PROGRESS_CHECKLIST.md
 │
 ├── unit1-generative-fundamentals/   📚 Unit 1: Introduction to Generative AI
-├── unit2-gans/                      📚 Unit 2: Generative Models (GANs)
-├── unit3-vaes/                      📚 Unit 3: Generative Models (VAEs)
-├── unit4-applications/              📚 Unit 4: Applications
-├── unit5-ethics/                    📚 Unit 5: Ethics & Transparency
+├── unit2-text-generation/          📚 Unit 2: Text and Language Generation
+├── unit3-image-generation/          📚 Unit 3: Image and Visual Generation
+├── unit4-ethics-regulations/        📚 Unit 4: Ethical and Regulatory Considerations
+├── unit5-future-trends/             📚 Unit 5: Future Trends and Research
 │
 ├── PROJECTS/
 ├── QUIZZES/

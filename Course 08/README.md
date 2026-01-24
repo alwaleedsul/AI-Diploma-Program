@@ -18,8 +18,8 @@
 |---------------|--------|-------|
 | Unit 1 | `unit1-deep-learning-basics/` | Introduction to Deep Learning and Neural Networks |
 | Unit 2 | `unit2-cnns/` | Convolutional Neural Networks (CNNs) for Computer Vision |
-| Unit 3 | `unit3-rnns/` | Recurrent Neural Networks (RNNs) and Transformers for Sequential Data |
-| Unit 4 | `unit4-transformers/` | Advanced Deep Learning Techniques |
+| Unit 3 | `unit3-rnns-transformers/` | Recurrent Neural Networks (RNNs) and Transformers for Sequential Data |
+| Unit 4 | `unit4-advanced-dl/` | Advanced Deep Learning Techniques (GANs, VAEs, RL, transfer learning, ethics) |
 | Unit 5 | `unit5-deployment/` | Model Optimization and Deployment |
 
 ## Course Overview | نظرة عامة على الدورة
@@ -86,8 +86,8 @@ Course 08/
 │
 ├── unit1-deep-learning-basics/      📚 Unit 1: Deep Learning Basics
 ├── unit2-cnns/                      📚 Unit 2: CNNs for Images
-├── unit3-rnns/                      📚 Unit 3: RNNs for Sequences
-├── unit4-transformers/              📚 Unit 4: Transformers
+├── unit3-rnns-transformers/         📚 Unit 3: RNNs and Transformers
+├── unit4-advanced-dl/               📚 Unit 4: Advanced DL (GANs, VAEs, RL, transfer, ethics)
 ├── unit5-deployment/                📚 Unit 5: Deploying Deep Learning Models
 │
 ├── PROJECTS/

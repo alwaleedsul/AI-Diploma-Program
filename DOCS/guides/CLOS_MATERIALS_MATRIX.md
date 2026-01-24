@@ -105,9 +105,9 @@
 | CLO | Summary | Units | Key materials |
 |-----|---------|-------|----------------|
 | CLO1 | DL basics; backprop; gradient descent | U1 | unit1-deep-learning-basics |
-| CLO2 | CNN, RNN, Transformers | U2, U3 | unit2-cnns; unit3-rnns |
-| CLO3 | Deploy; image; NLP; RL | U3–U5 | unit3-rnns; unit5-deployment |
-| CLO4 | Hyperparameter tuning; regularization; transfer learning | U4, U5 | unit4-transformers; unit5-deployment |
+| CLO2 | CNN, RNN, Transformers | U2, U3 | unit2-cnns; unit3-rnns-transformers |
+| CLO3 | Deploy; image; NLP; RL | U3–U5 | unit3-rnns-transformers; unit4-advanced-dl; unit5-deployment |
+| CLO4 | Hyperparameter tuning; regularization; transfer learning | U4, U5 | unit4-advanced-dl (transfer); unit5-deployment |
 | CLO5 | Ethics; bias; fairness; interpretability | U4, U5 | unit4, unit5 |
 
 ---
@@ -130,12 +130,12 @@
 | CLO | Summary | Units | Key materials |
 |-----|---------|-------|----------------|
 | CLO1 | Probabilistic modeling; latent space; sampling | U1 | unit1-generative-fundamentals |
-| CLO2 | VAEs, GANs, Transformers | U2, U3 | unit2-gans; unit3-vaes |
-| CLO3 | Implement; optimize; TensorFlow, PyTorch | U2, U3 | unit2, unit3 |
-| CLO4 | FID, BLEU, perplexity; mode collapse | U2–U4 | unit2, unit3, unit4-applications |
-| CLO5 | Applications; content creation; augmentation | U4 | unit4-applications |
-| CLO6 | Ethics; bias; misinformation; IP | U5 | unit5-ethics |
-| CLO7 | Emerging trends; diffusion; multimodal | U5 | unit5-ethics |
+| CLO2 | VAEs, GANs, Transformers | U1, U2, U3 | unit1-generative-fundamentals (GANs/VAEs); unit2-text-generation (Transformers/GPT); unit3-image-generation (GANs/VAEs for images) |
+| CLO3 | Implement; optimize; TensorFlow, PyTorch | U1, U2, U3 | unit1, unit2-text-generation, unit3-image-generation |
+| CLO4 | FID, BLEU, perplexity; mode collapse | U1, U2, U3 | unit1, unit2-text-generation, unit3-image-generation |
+| CLO5 | Applications; content creation; augmentation | U5 | unit5-future-trends |
+| CLO6 | Ethics; bias; misinformation; IP | U4 | unit4-ethics-regulations |
+| CLO7 | Emerging trends; diffusion; multimodal | U5 | unit5-future-trends |
 
 ---
 

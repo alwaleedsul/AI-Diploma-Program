@@ -68,7 +68,7 @@
 | 07 | `Course 07/unitN-*/examples/` | `unit1-nlp-fundamentals/`, … |
 | 08 | `Course 08/unitN-*/examples/` | `unit1-deep-learning-basics/`, … `unit5-deployment/` |
 | 09 | `Course 09/unitN-*/examples/` | `unit1-rl-fundamentals/`, … |
-| 10 | `Course 10/unitN-*/examples/` | `unit1-generative-fundamentals/`, … `unit5-ethics/` |
+| 10 | `Course 10/unitN-*/examples/` | `unit1-generative-fundamentals/`, `unit2-text-generation/`, `unit3-image-generation/`, `unit4-ethics-regulations/`, `unit5-future-trends/` |
 | 11 | `Course 11/unitN-*/examples/` | `unit1-deployment-basics/`, … |
 | 12 | `Course 12/unitN-*/examples/` | `unit1-project-planning/`, … |
 
