@@ -10,10 +10,10 @@
         {
           "cell_index": 6,
           "line": 2,
-          "offset": 64,
-          "message": "invalid syntax",
-          "text": "    print(\"Testing Exercise 01: Vector and Matrix Operations\") print(\"=\" * 60)\n",
-          "source_preview": "if __name__ == \"__main__\":\n    print(\"Testing Exercise 01: Vector and Matrix Operations\") print(\"=\" * 60)"
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"Testing Exercise 01: Vector and Matrix Operations\")\n",
+          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: Vector and Matrix Operations\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -23,10 +23,10 @@
         {
           "cell_index": 6,
           "line": 2,
-          "offset": 53,
-          "message": "invalid syntax",
-          "text": "    print(\"Testing Exercise 02: Matrix Properties\") print(\"=\" * 60)\n",
-          "source_preview": "if __name__ == \"__main__\":\n    print(\"Testing Exercise 02: Matrix Properties\") print(\"=\" * 60)"
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"Testing Exercise 02: Matrix Properties\")\n",
+          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 02: Matrix Properties\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -62,10 +62,10 @@
         {
           "cell_index": 6,
           "line": 2,
-          "offset": 61,
-          "message": "invalid syntax",
-          "text": "    print(\"Testing Exercise 01: Derivatives and Gradients\") print(\"=\" * 60)\n",
-          "source_preview": "if __name__ == \"__main__\":\n    print(\"Testing Exercise 01: Derivatives and Gradients\") print(\"=\" * 60)"
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"Testing Exercise 01: Derivatives and Gradients\")\n",
+          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: Derivatives and Gradients\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -75,10 +75,10 @@
         {
           "cell_index": 6,
           "line": 2,
-          "offset": 51,
-          "message": "invalid syntax",
-          "text": "    print(\"Testing Exercise 02: Gradient Descent\")print(\"=\" * 60)\n",
-          "source_preview": "if __name__ == \"__main__\":\n    print(\"Testing Exercise 02: Gradient Descent\")print(\"=\" * 60)"
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"Testing Exercise 02: Gradient Descent\")\n",
+          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 02: Gradient Descent\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -101,10 +101,10 @@
         {
           "cell_index": 6,
           "line": 2,
-          "offset": 59,
-          "message": "invalid syntax",
-          "text": "    print(\"Testing Exercise 01: Optimization Algorithms\") print(\"=\" * 60)\n",
-          "source_preview": "if __name__ == \"__main__\":\n    print(\"Testing Exercise 01: Optimization Algorithms\") print(\"=\" * 60)"
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"Testing Exercise 01: Optimization Algorithms\")\n",
+          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: Optimization Algorithms\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -114,10 +114,10 @@
         {
           "cell_index": 6,
           "line": 2,
-          "offset": 55,
-          "message": "invalid syntax",
-          "text": "    print(\"Testing Exercise 02: Statistical Measures\")print(\"=\" * 60)\n",
-          "source_preview": "if __name__ == \"__main__\":\n    print(\"Testing Exercise 02: Statistical Measures\")print(\"=\" * 60)"
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"Testing Exercise 02: Statistical Measures\")\n",
+          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 02: Statistical Measures\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -153,10 +153,10 @@
         {
           "cell_index": 6,
           "line": 2,
-          "offset": 39,
-          "message": "invalid syntax",
-          "text": "    print(\"Testing Exercise 01: PCA\") print(\"=\" * 60)\n",
-          "source_preview": "if __name__ == \"__main__\":\n    print(\"Testing Exercise 01: PCA\") print(\"=\" * 60)"
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"Testing Exercise 01: PCA\")\n",
+          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: PCA\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -179,10 +179,10 @@
         {
           "cell_index": 6,
           "line": 2,
-          "offset": 57,
-          "message": "invalid syntax",
-          "text": "    print(\"Testing Exercise 01: Statistical Inference\") print(\"=\" * 60)\n",
-          "source_preview": "if __name__ == \"__main__\":\n    print(\"Testing Exercise 01: Statistical Inference\") print(\"=\" * 60)"
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"Testing Exercise 01: Statistical Inference\")\n",
+          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: Statistical Inference\")\nprint(\"=\" * 60)"
         }
       ]
     },
