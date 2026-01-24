@@ -9,7 +9,7 @@ Before starting this unit, confirm:
 - [ ] Comfortable with Pandas and basic data summaries
 - [ ] Installed required libraries (`pip check` passes)
 - [ ] Understand data types and distributions
-- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+- [ ] Reviewed related topics in `../../COURSE_MAP.md` if needed
 
 ### Learning Objectives | أهداف التعلم
 
@@ -24,10 +24,10 @@ By the end of this unit, students will be able to:
 ## Unit Duration | مدة الوحدة
 
 **Theoretical Hours:** 6 hours  
-**Practical Hours:** 6 hours  
-**Total Hours:** 12 hours
+**Practical Hours:** 13 hours  
+**Total Hours:** 19 hours
 
-**Format:** 6 theoretical + 6 practical hours
+**Format:** 6 theoretical + 13 practical hours
 
 ---
 
@@ -45,8 +45,8 @@ By the end of this unit, students will be able to:
 
 - `examples/`: Complete code examples with explanations
 - `exercises/`: Practice problems for students
-- `solutions/`: Complete solutions to exercises
-- `tests/`: Unit tests
+
+Quiz solutions are in `DOCS/SOLUTIONS/quizzes/` (see `QUIZZES/` for quiz files).
 
 ---
 
@@ -54,7 +54,7 @@ By the end of this unit, students will be able to:
 
 1. **Start with examples** - Understand concepts through code
 2. **Complete exercises** - Practice what you learned
-3. **Review solutions** - Check your work
+3. **Review quiz solutions** - Check your work in `DOCS/SOLUTIONS/quizzes/`
 4. **Take quizzes** - Test your understanding
 
 ---

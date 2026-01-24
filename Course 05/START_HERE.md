@@ -104,7 +104,7 @@ This file explains:
 
 ### Step 5: Start with Unit 1 | الخطوة 5: ابدأ بالوحدة الأولى
 
-**Open:** `unit1-introduction/examples/01_data_science_intro.py` (or `.ipynb`)
+**Open:** `unit1-introduction/examples/01_data_science_intro.ipynb`
 
 **Why this unit FIRST?**
 - All other units use pandas and NumPy extensively
@@ -207,7 +207,7 @@ Use this checklist to track your progress:
 1. ✅ Check Python version (3.8+)
 2. ✅ Install libraries: `pip install -r ../requirements.txt`
 3. ✅ Read `README.md` (5 minutes)
-4. ✅ Open `unit1-introduction/examples/01_data_science_intro.py` and start learning!
+4. ✅ Open `unit1-introduction/examples/01_data_science_intro.ipynb` and start learning!
 
 **That's it!** Everything else is in the unit folders.
 
@@ -227,7 +227,7 @@ Use this checklist to track your progress:
 
 If you've completed all steps above, you're ready!
 
-**Next action:** Open `unit1-introduction/examples/01_data_science_intro.py` and begin your data science journey!
+**Next action:** Open `unit1-introduction/examples/01_data_science_intro.ipynb` and begin your data science journey!
 
 **Good luck!** 🚀  
 **حظاً موفقاً!** 🚀

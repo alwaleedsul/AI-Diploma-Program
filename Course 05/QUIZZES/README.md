@@ -23,7 +23,7 @@ This folder contains all course quizzes, organized by unit.
   - File: `Quiz_04_ML_Introduction.md`
   - Topics: Supervised/unsupervised learning, model evaluation, bias-variance tradeoff
 
-- **Quiz 05: Scaling and Production**
+- **Quiz 05: Extending the Scope of Data Science (Scaling and Production)**
   - File: `Quiz_05_Scaling_Production.md`
   - Topics: Dask, RAPIDS, production pipelines, model deployment
 

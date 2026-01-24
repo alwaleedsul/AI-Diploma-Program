@@ -1,5 +1,5 @@
-# Quiz 5: Scaling and Production
-## اختبار 5: التوسع والإنتاج
+# Quiz 5: Extending the Scope of Data Science (Scaling and Production)
+## اختبار 5: توسيع نطاق علم البيانات (التوسع والإنتاج)
 
 **Time Limit:** 30 minutes | **Marks:** 30 points
 

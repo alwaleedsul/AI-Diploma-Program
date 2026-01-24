@@ -1,5 +1,5 @@
 """
-Unit 5 - Exercise 1: Scaling Data Science Practice
+Unit 5 - Exercise 1: Extending the Scope of Data Science
 تمرين 1: ممارسة توسيع نطاق علم البيانات
 
 Instructions:

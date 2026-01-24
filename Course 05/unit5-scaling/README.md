@@ -1,5 +1,5 @@
-# Unit: Scaling and Production
-## Scaling and Production
+# Unit: Extending the Scope of Data Science
+## Extending the Scope of Data Science (Scaling and Production)
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 
@@ -9,7 +9,7 @@ Before starting this unit, confirm:
 - [ ] Comfortable with Pandas, visualization, and basic ML
 - [ ] Understand data pipelines and performance basics
 - [ ] Installed required libraries (`pip check` passes)
-- [ ] Reviewed related topics in `COURSE_MAP.md` if needed
+- [ ] Reviewed related topics in `../../COURSE_MAP.md` if needed
 
 ### Learning Objectives | أهداف التعلم
 
@@ -24,10 +24,10 @@ By the end of this unit, students will be able to:
 ## Unit Duration | مدة الوحدة
 
 **Theoretical Hours:** 7 hours  
-**Practical Hours:** 7 hours  
-**Total Hours:** 14 hours
+**Practical Hours:** 13 hours  
+**Total Hours:** 20 hours
 
-**Format:** 7 theoretical + 7 practical hours
+**Format:** 7 theoretical + 13 practical hours
 
 ---
 
@@ -46,8 +46,8 @@ By the end of this unit, students will be able to:
 
 - `examples/`: Complete code examples with explanations
 - `exercises/`: Practice problems for students
-- `solutions/`: Complete solutions to exercises
-- `tests/`: Unit tests
+
+Quiz solutions are in `DOCS/SOLUTIONS/quizzes/` (see `QUIZZES/` for quiz files).
 
 ---
 
@@ -55,7 +55,7 @@ By the end of this unit, students will be able to:
 
 1. **Start with examples** - Understand concepts through code
 2. **Complete exercises** - Practice what you learned
-3. **Review solutions** - Check your work
+3. **Review quiz solutions** - Check your work in `DOCS/SOLUTIONS/quizzes/`
 4. **Take quizzes** - Test your understanding
 
 ---

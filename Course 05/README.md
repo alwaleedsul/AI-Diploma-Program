@@ -25,11 +25,11 @@ This course provides comprehensive training in scalable data science techniques 
 **Course Code:** AIAT 115  
 **Language:** Bilingual (Arabic/English)
 **Credit Hours:** 4  
-**Lecture Hours:** 2  
-**Practical Hours:** 4  
-**Total Hours:** 64 (32 theoretical + 32 practical)
+**Lecture Hours:** 2/week  
+**Practical Hours:** 4/week  
+**Total Hours:** 96 (32 theoretical + 64 practical)
 
-**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit.
+**📚 Official Unit Content:** See `../DETAILED_UNIT_DESCRIPTIONS.md` for detailed theoretical and practical content per unit. **This course is fully aligned with that specification:** theory topics, practical activities, and unit structure match the document.
 
 **Unit ↔ Folder Mapping (aligned with Detailed Unit Descriptions):**
 
@@ -42,11 +42,11 @@ This course provides comprehensive training in scalable data science techniques 
 | Unit 5 | `unit5-scaling/` | Extending the Scope of Data Science |
 
 **Unit Breakdown:**
-- Unit 1: 6 theoretical + 6 practical = 12 hours
-- Unit 2: 6 theoretical + 6 practical = 12 hours
-- Unit 3: 6 theoretical + 6 practical = 12 hours
-- Unit 4: 7 theoretical + 7 practical = 14 hours
-- Unit 5: 7 theoretical + 7 practical = 14 hours
+- Unit 1: 6 theoretical + 12 practical = 18 hours
+- Unit 2: 6 theoretical + 13 practical = 19 hours
+- Unit 3: 6 theoretical + 13 practical = 19 hours
+- Unit 4: 7 theoretical + 13 practical = 20 hours
+- Unit 5: 7 theoretical + 13 practical = 20 hours
 
 ---
 
@@ -72,13 +72,12 @@ This course provides comprehensive training in scalable data science techniques 
 ├── 📄 STUDENT_PROGRESS_CHECKLIST.md    ✅ Track progress
 ├── 📄 ../requirements.txt              📦 Dependencies (in root directory)
 │
-├── 📂 unit1-introduction/              📚 Unit 1 (7 examples)
-├── 📂 unit2-cleaning/                  📚 Unit 2 (6 examples)
-├── 📂 unit3-visualization/             📚 Unit 3 (7 examples)
-├── 📂 unit4-ml-intro/                 📚 Unit 4 (12 examples)
-├── 📂 unit5-scaling/                   📚 Unit 5 (7 examples)
-├── 📖 DOCS/                            📄 Documentation
-└── 📊 META/                            📈 Course Metadata
+├── 📂 unit1-introduction/              📚 Unit 1 (9 examples)
+├── 📂 unit2-cleaning/                  📚 Unit 2 (8 examples)
+├── 📂 unit3-visualization/             📚 Unit 3 (8 notebooks + HTML exports)
+├── 📂 unit4-ml-intro/                  📚 Unit 4 (12 examples)
+├── 📂 unit5-scaling/                   📚 Unit 5 (10 examples)
+└── 📖 DOCS/                            📄 Documentation
 ```
 
 ---
@@ -87,16 +86,20 @@ This course provides comprehensive training in scalable data science techniques 
 
 1. **Read:** `START_HERE.md`
 2. **Install:** Libraries (see `DOCS/SETUP_INSTRUCTIONS.md`)
-3. **Start:** `unit1-introduction/examples/01_data_science_intro.py` (or `.ipynb`)
+3. **Start:** `unit1-introduction/examples/01_data_science_intro.ipynb`
 4. **Track:** Use `STUDENT_PROGRESS_CHECKLIST.md`
 
 ---
 
 ## Course Learning Outcomes (CLOs) | مخرجات التعلم
 
-**The detailed objectives of the training program are: For the trainee to be able to:**
+**Per `DETAILED_UNIT_DESCRIPTIONS.md`, by the end of this course the trainee will be able to:**
 
-*Note: Detailed CLOs for Course 05 (Scalable Data Science) are not explicitly listed in the PDF extraction. The course focuses on scalable data processing, cleaning, visualization, and modeling techniques using Python and NVIDIA RAPIDS.*
+1. **CLO1:** Demonstrate ability to analyze and visualize data using Python with confidence in various contexts  
+2. **CLO2:** Identify and implement strategies to scale data processing tasks effectively  
+3. **CLO3:** Clean and prepare raw datasets to make them suitable for analysis and modeling  
+4. **CLO4:** Build, evaluate, and deploy machine learning models using Python in scalable environments  
+5. **CLO5:** Complete a data science project that includes large-scale data and models
 
 ---
 
@@ -112,7 +115,7 @@ This course provides comprehensive training in scalable data science techniques 
 - cuDF introduction (GPU-accelerated DataFrame)
 - Basic data exploration and statistics
 
-**Start Here**: `unit1-introduction/examples/01_data_science_intro.py` (or `.ipynb`)
+**Start Here**: `unit1-introduction/examples/01_data_science_intro.ipynb`
 
 ---
 
@@ -152,7 +155,7 @@ This course provides comprehensive training in scalable data science techniques 
 
 ---
 
-### Unit 5: Scaling and Production | التوسع والإنتاج
+### Unit 5: Extending the Scope of Data Science | توسيع نطاق علم البيانات
 **Folder**: `unit5-scaling/`
 
 **Topics Covered:**
@@ -178,7 +181,7 @@ Unit 3: Data Visualization
     ↓
 Unit 4: Machine Learning Introduction
     ↓
-Unit 5: Scaling and Production
+Unit 5: Extending the Scope of Data Science
     ↓
 Advanced Topics (Deep Learning, NLP, etc.)
 ```
@@ -188,10 +191,9 @@ Advanced Topics (Deep Learning, NLP, etc.)
 ## 📖 Documentation | التوثيق
 
 All documentation is in the `DOCS/` folder:
-- **SETUP_INSTRUCTIONS.md** - Installation and setup guide
-- **INSTRUCTOR_GUIDE.md** - Teaching guide
-- **QUICK_START.md** - Quick start guide
-- **STUDENT_LEARNING_GUIDE.md** - Student learning guide
+- **SETUP_INSTRUCTIONS.md** - Installation and setup guide (local + troubleshooting)
+- **COLAB_SETUP.md** - Google Colab and GPU setup
+- **SOLUTIONS/** - Quiz solutions
 
 ---
 
@@ -211,7 +213,7 @@ This summary allows you to:
 ## 📝 Assessment | التقييم
 
 - **Quizzes:** `QUIZZES/` folder (all quizzes centralized)
-- **Tests:** Each unit contains tests
+- **Quizzes:** Each unit has a quiz in `QUIZZES/`
 - **Exercises:** Practice problems in each unit's `exercises/` folder
 
 ---
