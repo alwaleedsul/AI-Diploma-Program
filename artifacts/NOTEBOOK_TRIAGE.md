@@ -36,7 +36,10 @@
 | Course 03 `unit2-calculus` 05_function_approximation_ml | Syntax | **Fixed.** Duplicate `sin_taylor`, `intercept_print`, for-loop/hessian/`quadratic_approximation` indentation. |
 | Course 03 `unit5-probability` 06_maximum_likelihood_estimation | Syntax | **Fixed.** Duplicate `neg_log_likelihood` removed; Poisson `neg_log_likelihood_poisson` indentation + `gammaln`. |
 | Course 01 `unit5-generative-ai-intro` 04_diabetes_classification_ffnn | Syntax | **Fixed.** Broken `diabetes_prob` expression (missing division, line breaks). |
+| Course 02 NOTEBOOKS (4 files) | Syntax | **Fixed.** 5 errors: broken tuple assignment, def__repr__ (3x), broken division (2x), broken return, broken comment. |
+| Course 03 (3 notebooks) | Syntax | **Fixed.** Indentation, duplicates, `intercept_print`, Hessian, `gammaln`. |
 | Course 04 `unit1-data-processing` 01_data_loading_exploration, 04_linear_regression | Runtime | No syntax errors (ast.parse OK); failures likely data-loading/runtime. |
+| Course 05 (4 notebooks) | Syntax | **False positive.** Shell commands (`!pip install`) - valid Jupyter magic, not Python syntax errors. |
 
 *Full list in `failure_analysis.json` → `sample_failures.syntax_errors`.*
 
