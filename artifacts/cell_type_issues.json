@@ -6072,7 +6072,7 @@
           "source_preview": "## Part 4: Fixing Prediction Bias | \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u0631\u0627\u0628\u0639: \u0625\u0635\u0644\u0627\u062d \u0627\u0644\u062a\u062d\u064a\u0632 \u0641\u064a \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a\n\n**Sometimes models have systematic bias - let's learn how to identify and address it!**\n\n### What to Do When Predictions Are Too Low (or Too High) | \u0645\u0627\u0630\u0627 \u062a\u0641\u0639\u0644 \u0639\u0646\u062f\u0645\u0627 \u062a\u0643\u0648\u0646 \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a \u0645\u0646\u062e\u0641\u0636\u0629 \u062c\u062f\u064b\u0627 (\u0623\u0648 \u0639\u0627\u0644\u064a\u0629 \u062c\u062f\u064b\u0627)\n\n**BEFORE**: You'"
         },
         {
-          "cell_index": 165,
+          "cell_index": 169,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -6081,7 +6081,7 @@
           "source_preview": "Solution 1 Example: Adding More Features\nThis demonstrates how to add more features to improve predictions\nprint('=\" * 60)\")\n\n\nprint(\"Solution 1: Adding More Features to Fix Bias\")\n\n\n\n\nprint(\"=\" * 60)\n\nBefore: Only using Time (simple regression - we saw low R\u00b2)\n\n\n\n\nprint(\"\\n\ud83d\udcca Before (Simple Regressi"
         },
         {
-          "cell_index": 166,
+          "cell_index": 170,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -6090,7 +6090,7 @@
           "source_preview": "Solution 2 Example: Checking \nfor Outliers in Target Variable\nThis demonstrates how to check \nfor and handle outliers that might cause bias\nprint('=\" * 60)\")\n\n\nprint(\"Solution 2: Checking for Data Quality Issues (Outliers)\")\n\n\n\n\nprint(\"=\" * 60)\n\nimport matplotlib.pyplot as plt\n\nCheck \nfor outliers i"
         },
         {
-          "cell_index": 167,
+          "cell_index": 171,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -6099,7 +6099,7 @@
           "source_preview": "Solution 3 Example: Feature Engineering\nThis demonstrates how to create interaction features and transform features\nprint('=\" * 60)\")\n\n\nprint(\"Solution 3: Feature Engineering (Creating New Features)\")\n\n\n\n\nprint(\"=\" * 60)\n\nCreate interaction features (multiply features together)\n\n\n\n\nprint(\"\\n\ud83d\udcca Creati"
         },
         {
-          "cell_index": 168,
+          "cell_index": 172,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -6108,7 +6108,7 @@
           "source_preview": "if 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nif 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nSolution 4 Example: Trying D\nifferent Models (Polynomial Regression)\nThis demonstrates polynomial regression \nfor non-linear relationships\nNote: This will be covered in detail in the next notebook!\n\npri"
         },
         {
-          "cell_index": 169,
+          "cell_index": 173,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -6117,7 +6117,7 @@
           "source_preview": "if 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nif 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nSolution 5 Example: Adjusting the Intercept (Last Resort)\nThis demonstrates how to adjust predictions to correct systematic bias\nWARNING: This is a band-aid solution - better to fix root cause!\n\nprint(\""
         },
         {
-          "cell_index": 170,
+          "cell_index": 174,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -6126,7 +6126,7 @@
           "source_preview": "if 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nif 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nPractical Example: Diagnosing and Addressing Systematic Bias\nThis demonstrates how to check \nfor bias and try solutions\nprint(\"\\n\" + \"=\" * 60)\n\n\n\n\nprint(\"5. Fixing Systematic Bias in Predictions\")\n\n\n\n\n "
         },
         {
-          "cell_index": 171,
+          "cell_index": 175,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -6135,7 +6135,7 @@
           "source_preview": "## Part 5: Decision Framework - When to Use Linear Regression | \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u062e\u0627\u0645\u0633: \u0625\u0637\u0627\u0631 \u0627\u0644\u0642\u0631\u0627\u0631 - \u0645\u062a\u0649 \u062a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u062e\u0637\u064a\n\n**Congratulations! You've learned how to build linear regression models. Now let's learn when to use them!**\n\n**BEFORE**: You've learned how to build linear regression models, but w"
         },
         {
-          "cell_index": 172,
+          "cell_index": 176,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7125,7 +7125,7 @@
           "source_preview": "## Step 6: Exploring Classification Thresholds | \u0627\u0644\u062e\u0637\u0648\u0629 6: \u0627\u0633\u062a\u0643\u0634\u0627\u0641 \u0639\u062a\u0628\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641\n\n**BEFORE**: We've been using the default threshold of 0.5 (if probability > 0.5, predict class 1).\n\n**AFTER**: We'll explore how different thresholds affect precision and recall - this is crucial for real-world applica"
         },
         {
-          "cell_index": 317,
+          "cell_index": 326,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7134,7 +7134,7 @@
           "source_preview": "Explore different classification thresholds\nThe \ndefault threshold is 0.5, but we can adjust it based on our needs\n= more aggressive (higher recall, lower precision)\n= more conservative (higher precision, lower recall)\n\n\n\n\n\nprint('\\n\" + \"=\" * 60)\")\n\n\nprint(\"Exploring Classification Thresholds\")\n\n\n\n\n"
         },
         {
-          "cell_index": 318,
+          "cell_index": 327,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7143,7 +7143,7 @@
           "source_preview": "if 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nif 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nprint(\"\\n\" + \"=\" * 60)\n\n\n\n\nprint(\"3. Confusion Matrix\")\n\n\n\n\n        print(\"\u0645\u0635\u0641\u0648\u0641\u0629 \u0627\u0644\u0627\u0631\u062a\u0628\u0627\u0643\")\n\n\n\n\nprint(\"=\" * 60)\n\nCreate confusion matri\nx\n= confusion_matrix(y_test, y_test_pred)\n\n\n\n\n\nprint(\"\\n\ud83d\udcca Confusi"
         },
         {
-          "cell_index": 319,
+          "cell_index": 328,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7152,7 +7152,7 @@
           "source_preview": "## Step 7: Handling Class Imbalance | \u0627\u0644\u062e\u0637\u0648\u0629 7: \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0639\u062f\u0645 \u062a\u0648\u0627\u0632\u0646 \u0627\u0644\u0641\u0626\u0627\u062a\n\n**BEFORE**: We detected class imbalance (36.8% Class 0, 63.2% Class 1), but didn't address it.\n\n**AFTER**: We'll use `class_weight='balanced'` to automatically handle class imbalance!\n\n**Why this matters**: \n- **Class imbal"
         },
         {
-          "cell_index": 320,
+          "cell_index": 329,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7161,7 +7161,7 @@
           "source_preview": "## Step 8: Confusion Matrix | \u0627\u0644\u062e\u0637\u0648\u0629 8: \u0645\u0635\u0641\u0648\u0641\u0629 \u0627\u0644\u0627\u0631\u062a\u0628\u0627\u0643\n\n**BEFORE**: We have metrics (accuracy, precision, recall), but we don't know WHERE errors occur.\n\n**AFTER**: We'll visualize the confusion matrix to see exactly which predictions were wrong!\n\n**Why this step?**\n- **Confusion Matrix**: Shows WH"
         },
         {
-          "cell_index": 321,
+          "cell_index": 330,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7170,7 +7170,7 @@
           "source_preview": "if 'TRANSFORMERS_AVAILABLE' in globals() and TRANSFORMERS_AVAILABLE:\n    if 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nif 'TRANSFORMERS_AVAILABLE' in globals() and TRANSFORMERS_AVAILABLE:\nif 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nHandle \nclass imbalance using \nclass_weight parameter\n\nautom"
         },
         {
-          "cell_index": 322,
+          "cell_index": 331,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7179,7 +7179,7 @@
           "source_preview": "if 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nif 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nClassification Report\nprint(\"\\nClassification Report (Test Set):\")\n\n        \nprint(classification_report(y_test, y_test_pred,\ntarget_names=['Class 0', 'Class 1']))\nAdd interpretation\nprint(\"\\n\" + \"=\" * "
         },
         {
-          "cell_index": 323,
+          "cell_index": 332,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.5,
@@ -7188,7 +7188,7 @@
           "source_preview": "## Step 9: ROC Curve and AUC | \u0627\u0644\u062e\u0637\u0648\u0629 9: \u0645\u0646\u062d\u0646\u0649 ROC \u0648 AUC\n\n**BEFORE**: We have accuracy, precision, recall, but we need a metric that works across all thresholds.\n\n**AFTER**: We'll create an ROC curve and calculate AUC to evaluate model performance across all possible thresholds!\n\n**Why this step?**\n"
         },
         {
-          "cell_index": 324,
+          "cell_index": 333,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7197,7 +7197,7 @@
           "source_preview": "print(\"\\n\" + \"=\" * 60)\n\n\n\n\nprint(\"4. ROC Curve and AUC\")\n\n\n\n\nprint(\"\u0645\u0646\u062d\u0646\u0649 ROC \u0648 AUC\")\n\n\n\n\nprint(\"=\" * 60)"
         },
         {
-          "cell_index": 325,
+          "cell_index": 334,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7206,7 +7206,7 @@
           "source_preview": "6))\nsns.heatmap(cm, annot=True, fmt='d', cmap='Blues',\nxticklabels=['Class 0', 'Class 1'],\nyticklabels=['Class 0', 'Class 1'],\ncbar_kws={'label': 'Count'}) \nAdd colorbar label \nfor clarity\nplt.xlabel('Predicted', fontsize=12)\nplt.ylabel('Actual', fontsize=12)\nplt.title('Confusion Matrix', fontsize=1"
         },
         {
-          "cell_index": 326,
+          "cell_index": 335,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7215,7 +7215,7 @@
           "source_preview": "= roc_curve(y_test, y_test_proba)\nauc_score = roc_auc_score(y_test, y_test_proba)\n\n\n\n\nprint(f\"\\nAUC Score: {auc_score:.4f}\")\n\nAdd interpretation\nprint(\"\\n\" + \"=\" * 60)\n\n\n\n\nprint(\"\ud83d\udca1 Understanding AUC Score | \u0641\u0647\u0645 \u062f\u0631\u062c\u0629 AUC\")\n\n\n\n\nprint(\"=\" * 60)\n\n\n\n\nprint(f\"\\n\ud83d\udcca AUC (Area Under Curve) = {auc_score:.4f}\")"
         },
         {
-          "cell_index": 327,
+          "cell_index": 336,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.5,
@@ -7224,7 +7224,7 @@
           "source_preview": "## Step 10: Decision Boundary Visualization | \u0627\u0644\u062e\u0637\u0648\u0629 10: \u062a\u0635\u0648\u0631 \u062d\u062f\u0648\u062f \u0627\u0644\u0642\u0631\u0627\u0631\n\n**BEFORE**: We've trained a model, but we can't \"see\" how it makes decisions.\n\n**AFTER**: We'll visualize the decision boundary to understand how the model separates classes!\n\n**Why this step?**\n- **Visual Understanding**: Se"
         },
         {
-          "cell_index": 328,
+          "cell_index": 337,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7233,7 +7233,7 @@
           "source_preview": "6))\nplt.plot(fpr, tpr, linewidth=2.5, label=f'ROC Curve (AUC = {auc_score:.4f})', color='blue')\nplt.plot([0, 1], [0, 1], 'k--', linewidth=1.5, label='Random Classifier', alpha=0.7)\nplt.xlabel('False Positive Rate', fontsize=12)\nplt.ylabel('True Positive Rate', fontsize=12)\nplt.title('ROC Curve', fon"
         },
         {
-          "cell_index": 329,
+          "cell_index": 338,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7242,7 +7242,7 @@
           "source_preview": "5. Decision Boundary Visualization\nprint(\"\\n\" + \"=\" * 60)\n\n\n\n\nprint(\"5. Decision Boundary Visualization\")\n\n\n\n\nprint(\"\u062a\u0635\u0648\u0631 \u062d\u062f\u0648\u062f \u0627\u0644\u0642\u0631\u0627\u0631\")\n\n\n\n\nprint(\"=\" * 60)"
         },
         {
-          "cell_index": 330,
+          "cell_index": 339,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7251,7 +7251,7 @@
           "source_preview": "For decision boundary visualization, we need to train a separate model\non just 2 features (X_2d) so we can visualize in 2D\nThe main model uses all 30 features, but we can't visualize 30D!\n\nPrepare 2D feature\ns \n= train_test_split(\nX_2d, y, test_size=0.2, random_state=123, stratify=y\n)\n\n= StandardSca"
         },
         {
-          "cell_index": 331,
+          "cell_index": 340,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7260,7 +7260,7 @@
           "source_preview": "Predict \nfor mesh points using the 2D model\nnp.c_ combines xx and yy into pairs: [x1, y1], [x2, y2], ...\n.ravel() flattens the 2D arrays into 1D (needed \nfor prediction)\nWe predict the \nclass (0 or 1) \nfor each point in the meshZ = model_2d.predict(\nnp.c_[xx.ravel(), yy.ravel()])\n.reshape() converts"
         },
         {
-          "cell_index": 332,
+          "cell_index": 341,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7269,7 +7269,7 @@
           "source_preview": "if 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\nif 'TF_AVAILABLE' in globals() and TF_AVAILABLE:\n8))\nplt.contourf creates a filled contour plot showing the decision boundary\nxx, yy: grid coordinates, Z: predicted \nclasses \nfor each grid point\n: makes the background semi-transparent so we can see th"
         },
         {
-          "cell_index": 333,
+          "cell_index": 342,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.5,
@@ -7278,7 +7278,7 @@
           "source_preview": "# \ud83d\udcda Understanding Logistic Regression Limitations (Optional) | \u0641\u0647\u0645 \u0642\u064a\u0648\u062f \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0644\u0648\u062c\u0633\u062a\u064a (\u0627\u062e\u062a\u064a\u0627\u0631\u064a)\n\n## \u26a0\ufe0f Important Note: This Section is for Learning Only | \u0645\u0644\u0627\u062d\u0638\u0629 \u0645\u0647\u0645\u0629: \u0647\u0630\u0627 \u0627\u0644\u0642\u0633\u0645 \u0644\u0644\u062a\u0639\u0644\u0645 \u0641\u0642\u0637\n\n**Before we start**: Logistic Regression worked **EXCELLENTLY** on our credit card fraud dataset (Precisio"
         },
         {
-          "cell_index": 334,
+          "cell_index": 343,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7287,7 +7287,7 @@
           "source_preview": "print(\"\\n\" + \"=\" * 60)\n\n\n\n\nprint(\"\ud83d\udcda Understanding Limitations: Non-Linear Decision Boundaries\")\n\n\n\n\nprint(\"\u0641\u0647\u0645 \u0627\u0644\u0642\u064a\u0648\u062f: \u062d\u062f\u0648\u062f \u0627\u0644\u0642\u0631\u0627\u0631 \u063a\u064a\u0631 \u0627\u0644\u062e\u0637\u064a\u0629\")\n\n\n\n\nprint(\"=\" * 60)\n\n\n\n\n\nprint(\"\\n\u26a0\ufe0f IMPORTANT NOTE:\")\n\n\n\n\nprint(\" This section demonstrates Logistic Regression LIMITATIONS using SYNTHETIC data\")\n\n\n\n\nprin"
         },
         {
-          "cell_index": 335,
+          "cell_index": 344,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7296,7 +7296,7 @@
           "source_preview": "Try Logistic Regression on non-linear data (SYNTHETIC - \nfor demonstration)\n\n\n\n\nprint(\"\\n\" + \"=\" * 60)\n\n\n\n\nprint(\"Training Logistic Regression on Non-Linear Data (SYNTHETIC)\")\n\n\n\n\nprint(\"\u062a\u062f\u0631\u064a\u0628 \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0644\u0648\u062c\u0633\u062a\u064a \u0639\u0644\u0649 \u0628\u064a\u0627\u0646\u0627\u062a \u063a\u064a\u0631 \u062e\u0637\u064a\u0629 (\u0627\u0635\u0637\u0646\u0627\u0639\u064a\u0629)\")\n\n\n\n\nprint(\"=\" * 60)\n\n\n\n\nprint(\"\\n\u26a0\ufe0f Remember: This is SY"
         },
         {
-          "cell_index": 336,
+          "cell_index": 345,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.5,
@@ -7305,7 +7305,7 @@
           "source_preview": "## Limitation Example 2: Visualize the Limitation | \u0645\u062b\u0627\u0644 \u0627\u0644\u0642\u064a\u062f 2: \u062a\u0635\u0648\u0631 \u0627\u0644\u0642\u064a\u062f\n\n**BEFORE**: We need to see WHY Logistic Regression struggles on non-linear data.\n\n**Remember**: This is SYNTHETIC data (make_circles) for demonstration. Our REAL credit card fraud dataset works EXCELLENTLY with Logistic Re"
         },
         {
-          "cell_index": 337,
+          "cell_index": 346,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7314,7 +7314,7 @@
           "source_preview": "Visualize the decision boundary and data\nprint('\\n\" + \"=\" * 60)\")\n\n\nprint(\"Visualizing the Limitation: Linear Boundary on Non-Linear Data\")\n\n\n\n\nprint(\"\u062a\u0635\u0648\u0631 \u0627\u0644\u0642\u064a\u062f: \u0627\u0644\u062d\u062f \u0627\u0644\u062e\u0637\u064a \u0639\u0644\u0649 \u0628\u064a\u0627\u0646\u0627\u062a \u063a\u064a\u0631 \u062e\u0637\u064a\u0629\")\n\n\n\n\nprint(\"=\" * 60)\n\n\n\n\nprint(\"\\n\ud83d\udca1 Key Takeaway:\")\n\n\n\n\nprint(\" - Logistic Regression works EXCELLENTLY o"
         },
         {
-          "cell_index": 338,
+          "cell_index": 347,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
@@ -7323,7 +7323,7 @@
           "source_preview": "## \u2753 Common Student Questions About Limitations | \u0627\u0644\u0623\u0633\u0626\u0644\u0629 \u0627\u0644\u0634\u0627\u0626\u0639\u0629 \u062d\u0648\u0644 \u0627\u0644\u0642\u064a\u0648\u062f\n\n**Important Reminder**: Our credit card fraud dataset works EXCELLENTLY with Logistic Regression! This section is just showing when it doesn't work (synthetic non-linear data).\n\n**Note**: For comprehensive guidance on when"
         },
         {
-          "cell_index": 339,
+          "cell_index": 348,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
           "confidence": 0.7,
