@@ -36,7 +36,12 @@
     "unit5-scaling/21_model_monitoring.ipynb",
     "unit5-scaling/22_data_pipeline_automation.ipynb",
     "unit4-ml-intro/08_supervised_learning_logistic_regression.ipynb",
-    "unit4-ml-intro/10_hyperparameter_tuning_grid_random_search.ipynb"
+    "unit4-ml-intro/10_hyperparameter_tuning_grid_random_search.ipynb",
+    "unit5-scaling/19_large_datasets.ipynb",
+    "unit5-scaling/18_performance_optimization.ipynb",
+    "unit5-scaling/20_deployment.ipynb",
+    "unit2-cleaning/05_missing_values_duplicates.ipynb",
+    "unit4-ml-intro/12_model_evaluation.ipynb"
   ],
   "errors": [
     [
@@ -50,31 +55,11 @@
     [
       "unit1-introduction/03_cudf_introduction.ipynb",
       "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit1-introduction/examples/03_cudf_introduction.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/bin/jupyter-nbconvert\", line 11, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File "
-    ],
-    [
-      "unit2-cleaning/05_missing_values_duplicates.ipynb",
-      "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit2-cleaning/examples/05_missing_values_duplicates.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/bin/jupyter-nbconvert\", line 11, in <module>\n    sys.exit(main())\n             ~~~~^^\n  F"
-    ],
-    [
-      "unit4-ml-intro/12_model_evaluation.ipynb",
-      "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit4-ml-intro/examples/12_model_evaluation.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/bin/jupyter-nbconvert\", line 11, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/opt"
-    ],
-    [
-      "unit5-scaling/18_performance_optimization.ipynb",
-      "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit5-scaling/examples/18_performance_optimization.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/bin/jupyter-nbconvert\", line 11, in <module>\n    sys.exit(main())\n             ~~~~^^\n  Fil"
-    ],
-    [
-      "unit5-scaling/19_large_datasets.ipynb",
-      "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit5-scaling/examples/19_large_datasets.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/bin/jupyter-nbconvert\", line 11, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/opt/an"
-    ],
-    [
-      "unit5-scaling/20_deployment.ipynb",
-      "[NbConvertApp] Converting notebook /Users/abdullah/Downloads/AI Diploma/Course 05/unit5-scaling/examples/20_deployment.ipynb to notebook\nTraceback (most recent call last):\n  File \"/opt/anaconda3/bin/jupyter-nbconvert\", line 11, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/opt/anacon"
     ]
   ],
   "timeouts": [],
   "total": 45,
-  "success_count": 37,
-  "error_count": 8,
+  "success_count": 42,
+  "error_count": 3,
   "timeout_count": 0
 }
