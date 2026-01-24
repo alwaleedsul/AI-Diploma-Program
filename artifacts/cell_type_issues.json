@@ -12573,7 +12573,7 @@
           "issue_type": "markdown_in_code",
           "confidence": 1.0,
           "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "class MultiArmedBandit:\n    \"\"\"Simulate ads with different click-through rates\"\"\"\ndef __init__(self, n_arms, true_rewards):\n"
+          "source_preview": "class MultiArmedBandit:\n    \"\"\"Simulate ads with different click-through rates\"\"\"\ndef __init__(self, n_arms, true_rewards):\n    pass\n"
         }
       ]
     },
@@ -12604,7 +12604,7 @@
           "issue_type": "markdown_in_code",
           "confidence": 1.0,
           "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "class TicTacToe:\n    \"\"\"Simple Tic-Tac-Toe game environment\"\"\"\ndef __init__(self):\n"
+          "source_preview": "class TicTacToe:\n    \"\"\"Simple Tic-Tac-Toe game environment\"\"\"\ndef __init__(self):\n    pass\n"
         },
         {
           "cell_index": 6,
