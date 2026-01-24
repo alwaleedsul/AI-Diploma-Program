@@ -1,8 +1,8 @@
 {
   "timestamp": "1769289056.6134248",
   "total_notebooks": 795,
-  "notebooks_with_errors": 68,
-  "total_errors": 86,
+  "notebooks_with_errors": 67,
+  "total_errors": 85,
   "errors": [
     {
       "path": "Course 03/modules/module_01/exercises/exercise_01.ipynb",
@@ -763,11 +763,11 @@
       "errors": [
         {
           "cell_index": 3,
-          "line": 3,
-          "offset": 26,
-          "message": "unexpected EOF while parsing",
-          "text": "def generate_stock_data(n\n",
-          "source_preview": "# TODO: Generate synthetic time series data\n# Hint: Use sine wave + trend + noise\ndef generate_stock_data(n\n"
+          "line": 4,
+          "offset": 2,
+          "message": "invalid syntax",
+          "text": ")\n",
+          "source_preview": "# TODO: Generate synthetic time series data\n# Hint: Use sine wave + trend + noise\ndef generate_stock_data(n\n)"
         }
       ]
     },
@@ -904,11 +904,11 @@
       "errors": [
         {
           "cell_index": 6,
-          "line": 3,
-          "offset": 32,
-          "message": "unexpected EOF while parsing",
-          "text": "    def __init__(self, learning\n",
-          "source_preview": "class QLearningAgent:\n    \"\"\"Q-learning agent for game playing\"\"\"\n    def __init__(self, learning\n"
+          "line": 4,
+          "offset": 2,
+          "message": "invalid syntax",
+          "text": ")\n",
+          "source_preview": "class QLearningAgent:\n    \"\"\"Q-learning agent for game playing\"\"\"\n    def __init__(self, learning\n)"
         }
       ]
     },
@@ -969,11 +969,11 @@
       "errors": [
         {
           "cell_index": 3,
-          "line": 3,
-          "offset": 30,
-          "message": "unexpected EOF while parsing",
-          "text": "    def __init__(self, latent\n",
-          "source_preview": "# TODO: Implement VAE class\nclass VAE(nn.Module):\n    def __init__(self, latent\n"
+          "line": 4,
+          "offset": 2,
+          "message": "invalid syntax",
+          "text": ")\n",
+          "source_preview": "# TODO: Implement VAE class\nclass VAE(nn.Module):\n    def __init__(self, latent\n)"
         },
         {
           "cell_index": 9,
@@ -990,11 +990,11 @@
       "errors": [
         {
           "cell_index": 6,
-          "line": 3,
-          "offset": 45,
-          "message": "unexpected EOF while parsing",
-          "text": "    def __init__(self, vocab_size, embedding\n",
-          "source_preview": "class MusicGenerator(nn.Module):\n    \"\"\"LSTM-based music generator\"\"\"\n    def __init__(self, vocab_size, embedding\n"
+          "line": 4,
+          "offset": 2,
+          "message": "invalid syntax",
+          "text": ")\n",
+          "source_preview": "class MusicGenerator(nn.Module):\n    \"\"\"LSTM-based music generator\"\"\"\n    def __init__(self, vocab_size, embedding\n)"
         }
       ]
     },
@@ -1008,19 +1008,6 @@
           "message": "unmatched ')'",
           "text": ")",
           "source_preview": "# Create FastAPI app_app = FastAPI(title='Sentiment Analysis API', description='Real-time sentiment analysis for customer feedback',\nversion='1.0.0'\n)\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 12/unit5-documentation-presentation/examples/01_project_documentation_presentation.ipynb",
-      "errors": [
-        {
-          "cell_index": 5,
-          "line": 3,
-          "offset": 14,
-          "message": "unexpected EOF while parsing",
-          "text": "structure = {\n",
-          "source_preview": "# Presentation Slide Structure\npresentation\nstructure = {\n"
         }
       ]
     }
