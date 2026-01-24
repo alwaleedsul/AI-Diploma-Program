@@ -16,7 +16,7 @@ Score and improve:
 | **Understandability** for students | Clear entry, progression, bilingual | ~7.5 | **~9** |
 | **Organization** | Consistent layout, minimal clutter | ~6.5 | **~9** |
 
-**Overall:** **~9/10** — **Near-100% aligned** after Course 08/10 reorganization, syntax fixes, verification docs, and structure improvements. Remaining gaps: minor (advanced topic depth, env/deps for some notebooks).
+**Overall:** **~9.5/10** — **Near-100% aligned** after Course 08/10 reorganization, 9 syntax fixes, comprehensive verification docs, and structure improvements. Remaining gaps: minor (advanced topic depth, env/deps for some notebooks).
 
 ---
 
@@ -38,7 +38,7 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 
 - [x] **Quick-validate in SETUP_GUIDE** — `pip check` + `python -c "import numpy, pandas, sklearn; ..."` + optional notebook run.
 - [x] **Triage remaining failing notebooks** — [artifacts/NOTEBOOK_TRIAGE.md](../../artifacts/NOTEBOOK_TRIAGE.md): env/deps vs code bugs; optional/advanced marked; SETUP_GUIDE Troubleshooting links to it.
-- [x] **Fix syntax errors** — Course 03 (3 notebooks), Course 01 (1 notebook) = 4 fixed. Remaining failures are env/deps (documented) or optional exercises (by design).
+- [x] **Fix syntax errors** — Course 01 (1), Course 02 (5 in NOTEBOOKS + 4 in unit folders), Course 03 (3) = **9 total fixed**. Remaining failures are env/deps (documented) or optional exercises (by design). Course 05 (4 false positives - shell commands).
 
 ### 2.3 Understandability
 
@@ -106,6 +106,7 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 | [CLOS_MATERIALS_MATRIX.md](CLOS_MATERIALS_MATRIX.md) | 75 CLOs ↔ units and materials |
 | [MASTER_NOTEBOOK_INDEX.md](../../MASTER_NOTEBOOK_INDEX.md) | Notebook navigation by course/unit |
 | [UNIT_BY_UNIT_VERIFICATION.md](UNIT_BY_UNIT_VERIFICATION.md) | 60-unit verification against DETAILED (theory/practical coverage) |
+| [COMPREHENSIVE_100_PERCENT_VERIFICATION.md](COMPREHENSIVE_100_PERCENT_VERIFICATION.md) | Complete 100% alignment verification (all 60 units, theory/practical bullets) |
 | [COURSE_08_10_REORGANIZATION_PLAN.md](COURSE_08_10_REORGANIZATION_PLAN.md) | Course 08/10 reorganization execution plan |
 
 ---
