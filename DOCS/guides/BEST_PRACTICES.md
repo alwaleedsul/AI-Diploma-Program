@@ -181,6 +181,16 @@ def normalize_features(X, method='standard'):
 - Key point 2
 ```
 
+### Notebook Naming Convention | اتفاقية تسمية الدفاتر
+
+**Target:** One unique `NN_topic.ipynb` per example per unit (e.g. `01_ai_introduction.ipynb`, `02_data_loading.ipynb`).
+
+- **Course 05** (template): `01_` … `NN_` per unit; no duplicate numbers within a unit.
+- **Other courses:** Prefer same pattern where feasible. Use `NN_` prefix + short topic; avoid long opaque names.
+- **Exercises:** `exercise_01.ipynb`, `exercise_02.ipynb` per unit.
+
+When adding notebooks, follow the unit’s existing numbering to avoid duplicates. See [ORGANIZATION_ASSESSMENT](ORGANIZATION_ASSESSMENT.md) for current naming status per course.
+
 ### Cell Best Practices
 
 **Code Cells:**

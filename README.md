@@ -503,6 +503,7 @@ AI Diploma/
 - [DOCS/](DOCS/) — bridges, safety, references
 - [DOCS/guides/](DOCS/guides/) — assessment, best practices, organization, project templates
 - [AI Diploma Deep-Dive Plan](DOCS/guides/AI_DIPLOMA_DEEP_DIVE_PLAN.md) — alignment/reliability/organization checklist and execution status
+- [Unit-by-unit audit](DOCS/guides/UNIT_BY_UNIT_AUDIT.md) (60 units) · [CLO ↔ materials matrix](DOCS/guides/CLOS_MATERIALS_MATRIX.md) (75 CLOs) · [Official path flowchart](DOCS/guides/OFFICIAL_PATH_FLOWCHART.md)
 
 ---
 

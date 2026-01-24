@@ -59,17 +59,21 @@ Learning flow alignment with **DETAILED_UNIT_DESCRIPTIONS.md** has been complete
 | Course 06 CLOs | **Fixed.** DETAILED + COMPLETE_COURSE_STRUCTURE: AI Ethics CLOs (not Data Science). |
 | Course 08 unit structure | Spec Unit 4 = Advanced DL (GANs, VAEs, RL); repo Unit 4 = Transformers, Unit 5 = Deployment. GANs/VAEs/RL in unit5 or spread. Mapping by position; no content reorganization. |
 | Course 10 unit structure | Repo uses GANs/VAEs/applications/ethics units; Detailed uses Text/Language, Image/Visual, Ethics, Future Trends. Mapping by position kept; no content reorganization. |
-| Optional diagram | Plan’s “Optional: flowchart of official path → detailed units” not created. |
+| Optional diagram | **Done.** [OFFICIAL_PATH_FLOWCHART.md](DOCS/guides/OFFICIAL_PATH_FLOWCHART.md) — official path → detailed units. |
 
 ---
 
 ## 6. Files Touched
 
-- **Root:** `README.md` (Alignment Verified, "Start with Course 01" unified), `COURSE_MAP.md`, `LEARNING_FLOW_ALIGNMENT_REPORT.md` (this file), `DETAILED_UNIT_DESCRIPTIONS.md` (Course 06 CLOs), `COMPLETE_COURSE_STRUCTURE_AND_CLOS.md` (Course 06 CLOs).
+- **Root:** `README.md` (Alignment Verified, "Start with Course 01" unified, DOCS/guides + Plan link), `COURSE_MAP.md`, `LEARNING_FLOW_ALIGNMENT_REPORT.md` (this file), `DETAILED_UNIT_DESCRIPTIONS.md` (Course 06 CLOs), `COMPLETE_COURSE_STRUCTURE_AND_CLOS.md` (Course 06 CLOs), `SETUP_GUIDE.md` (quick-validate, NOTEBOOK_TRIAGE link).
+- **artifacts:** `NOTEBOOK_TRIAGE.md` (env vs code triage; optional/advanced).
+- **DOCS/guides:** `OFFICIAL_PATH_FLOWCHART.md`, `UNIT_BY_UNIT_AUDIT.md`, `CLOS_MATERIALS_MATRIX.md`, `AI_DIPLOMA_DEEP_DIVE_PLAN.md`; `BEST_PRACTICES.md` (notebook naming); `ORGANIZATION_ASSESSMENT.md` (Course 05 META); moved guides (ASSESSMENT_ORGANIZATION, etc.).
 - **Course 01:** `README.md`, `START_HERE.md` (Unit 2→unit2-ai-concepts, Unit 3→unit3-ml-basics), `QUIZZES/README.md`, `STUDENT_PROGRESS_CHECKLIST.md`; new `unit2-ai-concepts/`, `unit3-ml-basics/` READMEs; supplemental notices in `unit1-introduction/`, `unit2-search-algorithms/`, `unit3-knowledge-representation/`, `unit4-neural-networks/`, `unit5-generative-ai/`.
+- **Course 04:** `unit1-data-processing/README.md` (“Maps to” + scope).
+- **Course 05:** `META/` (dev/QA: execution_results, FINAL_*, EXECUTION_*, GPU_*); `META/README.md`.
 - **Course 06:** `README.md` (CLOs aligned with DETAILED).
 - **Course 01–12:** `README.md`, `START_HERE.md` (official path, DETAILED link, Unit ↔ Folder mapping where applicable).
-- **Unit READMEs:** Prerequisites updated to official unit names; Course 04 `unit1-data-processing` “Maps to” note added.
+- **Unit READMEs:** Prerequisites updated to official unit names.
 
 ---
 
@@ -81,3 +85,18 @@ Learning flow alignment with **DETAILED_UNIT_DESCRIPTIONS.md** has been complete
 ✅ **Scope** is validated; no deliberate deviation from official unit descriptions.
 
 For full unit-level content, always use **[DETAILED_UNIT_DESCRIPTIONS.md](DETAILED_UNIT_DESCRIPTIONS.md)** and each course’s **Unit ↔ Folder / Notebook / Module** mapping.
+
+---
+
+## 8. Deep Review (Verification)
+
+**Performed:** Full plan execution + deep audit.
+
+- **Course 01:** START_HERE, README, QUIZZES, STUDENT_PROGRESS_CHECKLIST → `unit2-ai-concepts`, `unit3-ml-basics`; supplemental READMEs and notices verified.
+- **Course 04:** `unit1-data-processing` ↔ Regression Algorithms; START_HERE, README, PROJECTS reference it; Maps to + scope note present.
+- **Course 06:** CLOs = AI Ethics (not Data Science); README aligned.
+- **Notebook triage:** [artifacts/NOTEBOOK_TRIAGE.md](artifacts/NOTEBOOK_TRIAGE.md); SETUP_GUIDE Troubleshooting links to it.
+- **Course 05 META:** Dev/QA artifacts moved; ORGANIZATION_ASSESSMENT updated.
+- **Flowchart:** [DOCS/guides/OFFICIAL_PATH_FLOWCHART.md](DOCS/guides/OFFICIAL_PATH_FLOWCHART.md); Remaining Gaps §5 updated.
+- **Phase 2:** [UNIT_BY_UNIT_AUDIT](DOCS/guides/UNIT_BY_UNIT_AUDIT.md) (60 units), [CLOS_MATERIALS_MATRIX](DOCS/guides/CLOS_MATERIALS_MATRIX.md) (75 CLOs).
+- **Plan:** [AI_DIPLOMA_DEEP_DIVE_PLAN](DOCS/guides/AI_DIPLOMA_DEEP_DIVE_PLAN.md) checklist complete; references updated.

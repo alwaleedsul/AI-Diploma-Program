@@ -265,6 +265,9 @@ docker run -p 8888:8888 -v $(pwd):/app ai-diploma
 **Issue**: Memory errors with large datasets
 - **Solution**: Use smaller datasets, enable GPU, or increase system RAM
 
+**Issue**: Some notebooks fail (missing packages, syntax)
+- **Solution**: Run `pip check` and quick-validate (Step 3). See [artifacts/NOTEBOOK_TRIAGE.md](artifacts/NOTEBOOK_TRIAGE.md) for env vs code triage and optional/advanced markers.
+
 ---
 
 ## 📖 Next Steps

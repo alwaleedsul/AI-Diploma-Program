@@ -37,7 +37,7 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 ### 2.2 Reliability
 
 - [x] **Quick-validate in SETUP_GUIDE** — `pip check` + `python -c "import numpy, pandas, sklearn; ..."` + optional notebook run.
-- [ ] **Triage remaining failing notebooks** — Env/deps vs code bugs; fix or mark “optional/advanced.” (Deferred.)
+- [x] **Triage remaining failing notebooks** — [artifacts/NOTEBOOK_TRIAGE.md](../../artifacts/NOTEBOOK_TRIAGE.md): env/deps vs code bugs; optional/advanced marked; SETUP_GUIDE Troubleshooting links to it.
 
 ### 2.3 Understandability
 
@@ -48,25 +48,21 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 
 - [x] **Move root .md clutter → DOCS/guides/** — ASSESSMENT_ORGANIZATION, BEST_PRACTICES, IMPACT_ON_LEARNING, ORGANIZATION_ASSESSMENT, PROJECT_TEMPLATES_GUIDE.
 - [x] **README link to DOCS/guides** — “Documentation & guides” under Quick Links.
-- [ ] **Move Course 05 dev/QA artifacts** to META/ or dev/. (Deferred.)
-- [ ] **Extend unique notebook naming** (e.g. Course 05–style) to 01, 02, 04, 06. (Deferred.)
+- [x] **Move Course 05 dev/QA artifacts** to **`Course 05/META/`** — execution_results, FINAL_*, EXECUTION_*, GPU_*; META/README.md added. ORGANIZATION_ASSESSMENT updated.
+- [x] **Notebook naming** — Documented in [BEST_PRACTICES](BEST_PRACTICES.md) (§ Notebook Naming Convention); Course 05 template; extend to 01/02/04/06 as feasible.
 
 ### 2.5 Verification & Scan
 
 - [x] **Scan notebooks for broken paths** — No critical breaks from renames/moves; Course 02 links to `unit1-data-processing`, `unit2-search-algorithms` still valid.
-- [ ] **Optional: flowchart** of official path → detailed units. (Not created.)
+- [x] **Flowchart** — [OFFICIAL_PATH_FLOWCHART.md](OFFICIAL_PATH_FLOWCHART.md): official path → detailed units; LEARNING_FLOW §5 updated.
 
 ---
 
-## 3. Phase 2 (Optional / Deferred)
+## 3. Phase 2 — Done
 
-A **“deep deep dive”** would add:
-
-- **Unit-by-unit audit** — All 60 units: each theory/practical bullet checked against notebooks/exercises.
-- **CLO ↔ materials matrix** — Each CLO mapped to units and materials.
-- **Explicit target state** for Course 08/10 — Where GANs/VAEs/RL, Text/Image/Ethics live; repo vs spec trade-offs.
-
-These are **not required** for current alignment and learning-flow fixes. They improve guarantee of “100% aligned without changing again” if pursued later.
+- [x] **Unit-by-unit audit** — [UNIT_BY_UNIT_AUDIT.md](UNIT_BY_UNIT_AUDIT.md): all 60 units mapped to DETAILED + repo path, examples, exercises, coverage.
+- [x] **CLO ↔ materials matrix** — [CLOS_MATERIALS_MATRIX.md](CLOS_MATERIALS_MATRIX.md): all 75 CLOs → units and key materials.
+- **Course 08/10 target state** — Documented in LEARNING_FLOW §5 and UNIT_BY_UNIT_AUDIT (mapping by position; no content reorganization).
 
 ---
 
@@ -77,10 +73,12 @@ These are **not required** for current alignment and learning-flow fixes. They i
 1. `fix(alignment): Course 06 CLOs, Course 01 unit mapping, start-course consistency`
 2. `chore: un-ignore COMPLETE_COURSE_STRUCTURE and LEARNING_FLOW_ALIGNMENT`
 3. `feat(align): Course 04 mapping, quick-validate, DOCS/guides, Course 08 note`
+4. `docs: add AI Diploma Deep-Dive Plan, link from README`
+5. *(This run)* Triage, Course 05 META, naming doc, flowchart, Phase 2 audit + CLO matrix, deep review, plan/report updates.
 
 **Files touched:**  
-See [LEARNING_FLOW_ALIGNMENT_REPORT.md §6](../../LEARNING_FLOW_ALIGNMENT_REPORT.md) plus:  
-Course 04 `unit1-data-processing/README.md`, `SETUP_GUIDE.md`, `DOCS/guides/` (moved guides), `README.md` (DOCS links), `LEARNING_FLOW_ALIGNMENT_REPORT` (Course 08 row).
+[LEARNING_FLOW_ALIGNMENT_REPORT.md §6](../../LEARNING_FLOW_ALIGNMENT_REPORT.md) plus:  
+`artifacts/NOTEBOOK_TRIAGE.md`, `Course 05/META/` (dev/QA moves), `SETUP_GUIDE.md` (quick-validate, NOTEBOOK_TRIAGE link), `DOCS/guides/BEST_PRACTICES.md` (notebook naming), `DOCS/guides/ORGANIZATION_ASSESSMENT.md` (Course 05 META), `DOCS/guides/OFFICIAL_PATH_FLOWCHART.md`, `DOCS/guides/UNIT_BY_UNIT_AUDIT.md`, `DOCS/guides/CLOS_MATERIALS_MATRIX.md`, `LEARNING_FLOW_ALIGNMENT_REPORT` (flowchart row).
 
 ---
 
@@ -91,9 +89,13 @@ Course 04 `unit1-data-processing/README.md`, `SETUP_GUIDE.md`, `DOCS/guides/` (m
 | [DETAILED_UNIT_DESCRIPTIONS.md](../../DETAILED_UNIT_DESCRIPTIONS.md) | Official curriculum; unit-level theory/practical |
 | [LEARNING_FLOW_ALIGNMENT_REPORT.md](../../LEARNING_FLOW_ALIGNMENT_REPORT.md) | Alignment audit, official paths, remaining gaps |
 | [COMPLETE_COURSE_STRUCTURE_AND_CLOS.md](../../COMPLETE_COURSE_STRUCTURE_AND_CLOS.md) | All 75 CLOs, unit structure |
-| [ORGANIZATION_ASSESSMENT.md](ORGANIZATION_ASSESSMENT.md) | Root/course layout, clutter, Course 01 |
-| [SETUP_GUIDE.md](../../SETUP_GUIDE.md) | Env setup, quick-validate |
+| [ORGANIZATION_ASSESSMENT.md](ORGANIZATION_ASSESSMENT.md) | Root/course layout, clutter, Course 01, Course 05 META |
+| [SETUP_GUIDE.md](../../SETUP_GUIDE.md) | Env setup, quick-validate, NOTEBOOK_TRIAGE link |
+| [artifacts/NOTEBOOK_TRIAGE.md](../../artifacts/NOTEBOOK_TRIAGE.md) | Notebook failure triage; env vs code; optional/advanced |
+| [OFFICIAL_PATH_FLOWCHART.md](OFFICIAL_PATH_FLOWCHART.md) | Official path → detailed units flowchart |
+| [UNIT_BY_UNIT_AUDIT.md](UNIT_BY_UNIT_AUDIT.md) | 60-unit audit; unit ↔ materials |
+| [CLOS_MATERIALS_MATRIX.md](CLOS_MATERIALS_MATRIX.md) | 75 CLOs ↔ units and materials |
 
 ---
 
-**Last updated:** After “Continue” run (Course 04, SETUP_GUIDE, DOCS/guides, Course 08 note, commits above).
+**Last updated:** After full plan execution (triage, META, naming, flowchart, Phase 2 audit, deep review).

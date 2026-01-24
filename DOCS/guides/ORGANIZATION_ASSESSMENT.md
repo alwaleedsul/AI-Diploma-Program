@@ -88,14 +88,8 @@
 ---
 
 ### Course 05 — **dev/QA-style files at course root**
-- `execution_results.json`, `FINAL_ANSWER.md`, `GPU_SPARK_ANSWER.md`, `GPU_SPARK_NOTEBOOKS_INFO.md`.  
-- `OPTIONAL_DEPENDENCIES.md` is student-relevant; the others look like internal notes.
-
-**Effect:** Mix of student-facing and dev artifacts in the same place.
-
-**Recommendation:**  
-- Keep `OPTIONAL_DEPENDENCIES.md` (or move under `DOCS/`).  
-- Move `execution_results.json`, `FINAL_ANSWER.md`, `GPU_SPARK_ANSWER.md`, `GPU_SPARK_NOTEBOOKS_INFO.md` to a `META/` or `dev/` folder (and ignore in `.gitignore` if appropriate), or delete if not needed.
+- **Done:** `execution_results.json`, `FINAL_ANSWER.md`, `GPU_SPARK_ANSWER.md`, `GPU_SPARK_NOTEBOOKS_INFO.md`, and related `FINAL_*` / `EXECUTION_*` / `GPU_*` dev files moved to **`Course 05/META/`**. See `META/README.md`.
+- `OPTIONAL_DEPENDENCIES.md` remains at course root (student-relevant).
 
 ---
 
