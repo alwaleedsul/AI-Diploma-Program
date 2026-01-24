@@ -223,6 +223,8 @@ TEACHER_ONLY_README.md
 *CONFLICT_CHECK*.md
 *COURSE_MAP.md
 
+!COMPLETE_COURSE_STRUCTURE_AND_CLOS.md
+!LEARNING_FLOW_ALIGNMENT_REPORT.md
 # Exclude development Python scripts (root level and course folders)
 create_*.py
 *_fix*.py
