@@ -1,22 +1,9 @@
 {
   "timestamp": "1769289056.6134248",
   "total_notebooks": 795,
-  "notebooks_with_errors": 67,
-  "total_errors": 86,
+  "notebooks_with_errors": 60,
+  "total_errors": 81,
   "errors": [
-    {
-      "path": "Course 03/modules/module_01/exercises/exercise_02.ipynb",
-      "errors": [
-        {
-          "cell_index": 6,
-          "line": 2,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"Testing Exercise 02: Matrix Properties\")\n",
-          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 02: Matrix Properties\")\nprint(\"=\" * 60)"
-        }
-      ]
-    },
     {
       "path": "Course 03/modules/module_01/solutions/solution_01.ipynb",
       "errors": [
@@ -44,32 +31,6 @@
       ]
     },
     {
-      "path": "Course 03/modules/module_02/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 6,
-          "line": 2,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"Testing Exercise 01: Derivatives and Gradients\")\n",
-          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: Derivatives and Gradients\")\nprint(\"=\" * 60)"
-        }
-      ]
-    },
-    {
-      "path": "Course 03/modules/module_02/exercises/exercise_02.ipynb",
-      "errors": [
-        {
-          "cell_index": 6,
-          "line": 2,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"Testing Exercise 02: Gradient Descent\")\n",
-          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 02: Gradient Descent\")\nprint(\"=\" * 60)"
-        }
-      ]
-    },
-    {
       "path": "Course 03/modules/module_02/solutions/solution_02.ipynb",
       "errors": [
         {
@@ -79,32 +40,6 @@
           "message": "invalid syntax",
           "text": "def gradient_descent(func, gradient_func, initial_x, learning_rate=0.1, iterations=100):        x = initial_x    history = [x]        # # SOLUTION: Implement gradient descent loop    # For each iteration:    #   1. Compute gradient at current point    #   2. Update: x = x - learning_rate * gradient    #   3. Store x in history       return x, history\n",
           "source_preview": "# Complete solution:\n# import numpy as np\ndef gradient_descent(func, gradient_func, initial_x, learning_rate=0.1, iterations=100):        x = initial_x    history = [x]        # # SOLUTION: Implement "
-        }
-      ]
-    },
-    {
-      "path": "Course 03/modules/module_03/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 6,
-          "line": 2,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"Testing Exercise 01: Optimization Algorithms\")\n",
-          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: Optimization Algorithms\")\nprint(\"=\" * 60)"
-        }
-      ]
-    },
-    {
-      "path": "Course 03/modules/module_03/exercises/exercise_02.ipynb",
-      "errors": [
-        {
-          "cell_index": 6,
-          "line": 2,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"Testing Exercise 02: Statistical Measures\")\n",
-          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 02: Statistical Measures\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -135,19 +70,6 @@
       ]
     },
     {
-      "path": "Course 03/modules/module_04/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 6,
-          "line": 2,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"Testing Exercise 01: PCA\")\n",
-          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: PCA\")\nprint(\"=\" * 60)"
-        }
-      ]
-    },
-    {
       "path": "Course 03/modules/module_04/solutions/solution_01.ipynb",
       "errors": [
         {
@@ -157,19 +79,6 @@
           "message": "unexpected indent",
           "text": "    pass\n",
           "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef compute_covariance_matrix(data):        # # SOLUTION: Compute covariance matrix    # Hint: Center data first (subtract mean), then compute covari"
-        }
-      ]
-    },
-    {
-      "path": "Course 03/modules/module_05/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 6,
-          "line": 2,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"Testing Exercise 01: Statistical Inference\")\n",
-          "source_preview": "if __name__ == \"__main__\":\nprint(\"Testing Exercise 01: Statistical Inference\")\nprint(\"=\" * 60)"
         }
       ]
     },
@@ -464,6 +373,22 @@
           "message": "invalid syntax",
           "text": "1. Split Data\n",
           "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 39,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 40,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
         }
       ]
     },
@@ -710,7 +635,7 @@
           "offset": 1,
           "message": "unexpected indent",
           "text": " \"Just bought the new iPhone 15! Absolutely LOVING it!!! #Apple https://t.co/xyz\",\n",
-          "source_preview": "# Sample tweets_tweets = [\n \"Just bought the new iPhone 15! Absolutely LOVING it!!! #Apple https://t.co/xyz\",\n \"@CustomerService Your service is terrible!!! NOT HAPPY\",\n"
+          "source_preview": "# Sample tweets_tweets = [\n \"Just bought the new iPhone 15! Absolutely LOVING it!!! #Apple https://t.co/xyz\",\n \"@CustomerService Your service is terrible!!! NOT HAPPY\",\n\n]"
         }
       ]
     },
@@ -762,7 +687,7 @@
           "offset": 1,
           "message": "invalid syntax",
           "text": "length =100, temperature=0.7, top\n",
-          "source_preview": "def generate_text(prompt, model, tokenizer, max\nlength =100, temperature=0.7, top\nk =50, top\n"
+          "source_preview": "def generate_text(prompt, model, tokenizer, max\nlength =100, temperature=0.7, top\nk =50, top\n\n)"
         }
       ]
     },
