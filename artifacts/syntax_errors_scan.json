@@ -1,8 +1,8 @@
 {
   "timestamp": "1769289056.6134248",
   "total_notebooks": 795,
-  "notebooks_with_errors": 60,
-  "total_errors": 113,
+  "notebooks_with_errors": 59,
+  "total_errors": 132,
   "errors": [
     {
       "path": "Course 03/modules/module_01/solutions/solution_01.ipynb",
@@ -13,7 +13,7 @@
           "offset": 4,
           "message": "unexpected indent",
           "text": "    pass\n",
-          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef create_data_matrix(samples, features):        # # SOLUTION: Create a matrix with the specified shape    # Use np.random.randn() to generate rando"
+          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef create_data_matrix(samples, features):\n    # # SOLUTION: Create a matrix with the specified shape\n    # Use np.random.randn() to generate random "
         }
       ]
     },
@@ -26,20 +26,7 @@
           "offset": 4,
           "message": "unexpected indent",
           "text": "    pass\n",
-          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef compute_determinant(matrix):        # # SOLUTION: Compute determinant using np.linalg.det()    pass\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 03/modules/module_02/solutions/solution_02.ipynb",
-      "errors": [
-        {
-          "cell_index": 5,
-          "line": 3,
-          "offset": 114,
-          "message": "invalid syntax",
-          "text": "def gradient_descent(func, gradient_func, initial_x, learning_rate=0.1, iterations=100):        x = initial_x    history = [x]        # # SOLUTION: Implement gradient descent loop    # For each iteration:    #   1. Compute gradient at current point    #   2. Update: x = x - learning_rate * gradient    #   3. Store x in history       return x, history\n",
-          "source_preview": "# Complete solution:\n# import numpy as np\ndef gradient_descent(func, gradient_func, initial_x, learning_rate=0.1, iterations=100):        x = initial_x    history = [x]        # # SOLUTION: Implement "
+          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef compute_determinant(matrix):\n    # # SOLUTION: Compute determinant using np.linalg.det()\n    pass\n"
         }
       ]
     },
@@ -65,7 +52,7 @@
           "offset": 4,
           "message": "unexpected indent",
           "text": "    pass\n",
-          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef calculate_mse(predictions, targets):        # # SOLUTION: Calculate MSE    # Formula: mean((predictions - targets)^2)    pass\n"
+          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef calculate_mse(predictions, targets):\n    # # SOLUTION: Calculate MSE\n    # Formula: mean((predictions - targets)^2)\n    pass\n"
         }
       ]
     },
@@ -78,7 +65,7 @@
           "offset": 4,
           "message": "unexpected indent",
           "text": "    pass\n",
-          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef compute_covariance_matrix(data):        # # SOLUTION: Compute covariance matrix    # Hint: Center data first (subtract mean), then compute covari"
+          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef compute_covariance_matrix(data):\n    # # SOLUTION: Compute covariance matrix\n    # Hint: Center data first (subtract mean), then compute covarian"
         }
       ]
     },
@@ -640,6 +627,166 @@
         },
         {
           "cell_index": 181,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 189,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 190,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 198,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 199,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 207,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 208,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 216,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 217,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 225,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 226,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 234,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 235,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 243,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 244,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 252,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 253,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 261,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 262,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 270,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 271,
           "line": 1,
           "offset": 4,
           "message": "invalid syntax",
