@@ -2,8 +2,8 @@
   "timestamp": "1769289056.6134677",
   "total_notebooks": 795,
   "notebooks_with_issues": 482,
-  "code_in_markdown_count": 1185,
-  "markdown_in_code_count": 160,
+  "code_in_markdown_count": 1200,
+  "markdown_in_code_count": 125,
   "issues": [
     {
       "path": "Course 01/unit1-ai-foundations/examples/01_ai_introduction.ipynb",
@@ -1417,14 +1417,6 @@
           "source_preview": "## Part 16: PIL/Pillow - Image Processing | \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u0633\u0627\u062f\u0633 \u0639\u0634\u0631: PIL/Pillow - \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0635\u0648\u0631\n\n### \ud83d\udcda What is PIL/Pillow?\nPIL = **P**ython **I**maging **L**ibrary\nPillow = Modern fork of PIL (improved and maintained)\n\n**THE PROBLEM**: Need to open, manipulate, and save images in different formats.\n**THE SO"
         },
         {
-          "cell_index": 40,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# PIL/Pillow: Image Processing (Simple Alternative)\n# BEFORE: Hard to open, manipulate, save images\n# AFTER: Pillow makes image processing SIMPLE!\n"
-        },
-        {
           "cell_index": 41,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
@@ -1922,14 +1914,6 @@
           "reason": "Contains 2 Python keywords outside code blocks",
           "dependencies": [],
           "source_preview": "## Part 16: PIL/Pillow - Image Processing | \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u0633\u0627\u062f\u0633 \u0639\u0634\u0631: PIL/Pillow - \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0635\u0648\u0631\n\n### \ud83d\udcda What is PIL/Pillow?\nPIL = **P**ython **I**maging **L**ibrary\nPillow = Modern fork of PIL (improved and maintained)\n\n**THE PROBLEM**: Need to open, manipulate, and save images in different formats.\n**THE SO"
-        },
-        {
-          "cell_index": 41,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# PIL/Pillow: Image Processing (Simple Alternative)\n# BEFORE: Hard to open, manipulate, save images\n# AFTER: Pillow makes image processing SIMPLE!\n"
         },
         {
           "cell_index": 42,
@@ -3245,11 +3229,12 @@
         },
         {
           "cell_index": 4,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Example: Basic Calculus Operations in Python for ML\n# This shows HOW each calculus concept works and WHY it's used\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "Example: Basic Calculus Operations in Python for ML\nThis shows HOW each calculus concept works and WHY it's used\n\n"
         },
         {
           "cell_index": 6,
@@ -3565,11 +3550,12 @@
         },
         {
           "cell_index": 4,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Example: Optimization and Statistics in Python for ML\n# This shows HOW optimizers work and WHY we use different ones\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "Example: Optimization and Statistics in Python for ML\nThis shows HOW optimizers work and WHY we use different ones\n\n"
         },
         {
           "cell_index": 6,
@@ -3764,14 +3750,6 @@
           "reason": "Contains Python keywords, may be documentation",
           "dependencies": [],
           "source_preview": "---\n\n## Why This Concept Matters | \u0644\u0645\u0627\u0630\u0627 \u064a\u0647\u0645 \u0647\u0630\u0627 \u0627\u0644\u0645\u0641\u0647\u0648\u0645\u061f\n\n### Why Curse of Dimensionality Matters\n\n**WHY** is this important?\n\n1. **Sparsity Problem**:\n   - **WHY**: Data becomes sparse in high dimensions\n   - **HOW**: Volume increases exponentially with dimensions\n   - **AFTER**: Need exponentiall"
-        },
-        {
-          "cell_index": 10,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Example 1: Curse of Dimensionality\n# WHY: High dimensions cause problems\n# HOW: Volume increases exponentially\n"
         }
       ]
     },
@@ -4059,14 +4037,6 @@
           "reason": "Contains 2 Python keywords outside code blocks",
           "dependencies": [],
           "source_preview": "---\n\n# Part 2: HOW\n\n## Implementation and Practical Application\n\n### How Probabilities and Statistical Inference Work in Machine Learning\n\nLet's understand **HOW** probability and statistical inference operations work and **WHY** each is essential:\n\n#### 1. **WHY Probability Distributions?**\n- **WHY"
-        },
-        {
-          "cell_index": 7,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Example: Visualizing Probability Distributions and Statistical Inference\n# This demonstrates HOW to visualize and interpret statistical concepts\n\n"
         },
         {
           "cell_index": 8,
@@ -4735,14 +4705,6 @@
           "reason": "Contains Python keywords, may be documentation",
           "dependencies": [],
           "source_preview": "## Step 3: Adam Optimizer | \u0627\u0644\u062e\u0637\u0648\u0629 3: \u0645\u062d\u0633\u0651\u0646 Adam\n\n**BEFORE**: Simple GD is slow and unstable.\n\n**AFTER**: Adam uses momentum and adaptive learning rates for better performance!"
-        },
-        {
-          "cell_index": 12,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Example 2: Adam Optimizer\n# WHY: Adapts to each parameter, handles noise better\n# HOW: Tracks momentum + variance, adapts learning rate\n"
         }
       ]
     },
@@ -4806,14 +4768,6 @@
           "reason": "Contains Python keywords, may be documentation",
           "dependencies": [],
           "source_preview": "# Statistical Measures for ML | \u0627\u0644\u0645\u0642\u0627\u064a\u064a\u0633 \u0627\u0644\u0625\u062d\u0635\u0627\u0626\u064a\u0629 \u0644\u062a\u0639\u0644\u0645 \u0627\u0644\u0622\u0644\u0629\n\n## \ud83d\udcda Prerequisites (What You Need First) | \u0627\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\n\n**BEFORE starting this notebook**, you should have completed:\n- \u2705 **Example 2: Loss Functions** - Understand how to measure error\n- \u2705 **Basic statistics**: Mean, variance, s"
-        },
-        {
-          "cell_index": 10,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Example 1: Statistical Measures\n# WHY: Need objective way to evaluate models\n# HOW: Compute error metrics\n"
         }
       ]
     },
@@ -4919,14 +4873,6 @@
           "reason": "Contains Python keywords, may be documentation",
           "dependencies": [],
           "source_preview": "---\n\n## Why This Concept Matters | \u0644\u0645\u0627\u0630\u0627 \u064a\u0647\u0645 \u0647\u0630\u0627 \u0627\u0644\u0645\u0641\u0647\u0648\u0645\u061f\n\n### Why Curse of Dimensionality Matters\n\n**WHY** is this important?\n\n1. **Sparsity Problem**:\n   - **WHY**: Data becomes sparse in high dimensions\n   - **HOW**: Volume increases exponentially with dimensions\n   - **AFTER**: Need exponentiall"
-        },
-        {
-          "cell_index": 10,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Example 1: Curse of Dimensionality\n# WHY: High dimensions cause problems\n# HOW: Volume increases exponentially\n"
         }
       ]
     },
@@ -6250,14 +6196,6 @@
           "source_preview": "\n\n---\n\n## Step 2: Split Data | \u0627\u0644\u062e\u0637\u0648\u0629 2: \u062a\u0642\u0633\u064a\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\n\n**BEFORE**: We have data, but we need to split it into training and testing sets.\n\n**AFTER**: We'll split the data so we can train models and evaluate them properly!\n\n**Why split?** We need separate data for training (learning) and testing (ev"
         },
         {
-          "cell_index": 8,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Visualize the data FIRST to see the relationship\n# This scatter plot shows us that the relationship is CURVED, not linear!\n# We can see this visually BEFORE trying any models\n"
-        },
-        {
           "cell_index": 24,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
@@ -6381,11 +6319,12 @@
         },
         {
           "cell_index": 3,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Set random seed for reproducibility_np.random.seed(73)\n\n# Generate sample financial transaction data (GDI Theme: Financial Investigations)\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "Set random seed for reproducibility_np.random.seed(73)\n\nGenerate sample financial transaction data (GDI Theme: Financial Investigations)\n"
         },
         {
           "cell_index": 5,
@@ -6633,11 +6572,12 @@
         },
         {
           "cell_index": 4,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Set random seed for reproducibility_np.random.seed(73)\n\n# Generate sample financial transaction data (GDI Theme: Financial Investigations)\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "Set random seed for reproducibility_np.random.seed(73)\n\nGenerate sample financial transaction data (GDI Theme: Financial Investigations)\n"
         },
         {
           "cell_index": 6,
@@ -7999,19 +7939,21 @@
       "issues": [
         {
           "cell_index": 4,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Load real-world US Crime Statistics dataset\n# This is REAL state crime data for Internal Intelligence analysis\n# K-Means will identify states with similar crime patterns!\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "Load real-world US Crime Statistics dataset\nThis is REAL state crime data for Internal Intelligence analysis\nK-Means will identify states with similar crime patterns!\n"
         },
         {
           "cell_index": 6,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 2: Scale Features for Clustering | \u0627\u0644\u062e\u0637\u0648\u0629 2: \u0642\u064a\u0627\u0633 \u0627\u0644\u0645\u064a\u0632\u0627\u062a \u0644\u0644\u062a\u062c\u0645\u064a\u0639\n# # Why scaling is CRITICAL for clustering:\n# - K-Means uses Euclidean distance to measure similarity\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "Step 2: Scale Features for Clustering | \u0627\u0644\u062e\u0637\u0648\u0629 2: \u0642\u064a\u0627\u0633 \u0627\u0644\u0645\u064a\u0632\u0627\u062a \u0644\u0644\u062a\u062c\u0645\u064a\u0639\n# Why scaling is CRITICAL for clustering:\n- K-Means uses Euclidean distance to measure similarity\n"
         },
         {
           "cell_index": 11,
@@ -8757,11 +8699,12 @@
         },
         {
           "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "\ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n\u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
         },
         {
           "cell_index": 12,
@@ -9181,11 +9124,12 @@
         },
         {
           "cell_index": 1,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "\ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n\u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
         },
         {
           "cell_index": 7,
@@ -9754,11 +9698,12 @@
         },
         {
           "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "\ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n\u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
         }
       ]
     },
@@ -9913,11 +9858,12 @@
         },
         {
           "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "\ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n\u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
         },
         {
           "cell_index": 21,
@@ -10138,19 +10084,12 @@
         },
         {
           "cell_index": 3,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 2: Create the Ethical Decision-Making Framework class\n# This class implements a 6-step process for making ethical decisions in AI\n\n"
-        },
-        {
-          "cell_index": 6,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 4.5: Solve the autonomous vehicle problem using decision-making framework\n# This demonstrates how the framework resolves framework conflicts\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.7,
+          "reason": "Contains 2 Python keywords outside code blocks",
+          "dependencies": [],
+          "source_preview": "Step 2: Create the Ethical Decision-Making Framework class\nThis class implements a 6-step process for making ethical decisions in AI\n\n"
         },
         {
           "cell_index": 7,
@@ -10270,14 +10209,6 @@
           "source_preview": "# 01. Bias Detection in Machine Learning Models | \u0627\u0643\u062a\u0634\u0627\u0641 \u0627\u0644\u062a\u062d\u064a\u0632 \u0641\u064a \u0646\u0645\u0627\u0630\u062c \u0627\u0644\u062a\u0639\u0644\u0645 \u0627\u0644\u0622\u0644\u064a\n\n## \ud83d\udea8 THE PROBLEM: AI Systems Are Making Unfair Decisions | \u0627\u0644\u0645\u0634\u0643\u0644\u0629: \u0623\u0646\u0638\u0645\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u062a\u062a\u062e\u0630 \u0642\u0631\u0627\u0631\u0627\u062a \u063a\u064a\u0631 \u0639\u0627\u062f\u0644\u0629\n\n**Remember the COMPAS case study from Unit 1?**\n\nWe discovered that COMPAS showed:\n- Higher false p"
         },
         {
-          "cell_index": 3,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 2: Generate synthetic data with intentional bias\n# This creates a dataset where we know bias exists, so we can practice detecting it\n\n"
-        },
-        {
           "cell_index": 4,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
@@ -10293,14 +10224,6 @@
           "confidence": 0.9,
           "reason": "100% comments/docstrings, no executable code",
           "source_preview": "def train_and_analyze_bias(df):\n    \"\"\"Train a model and analyze for bias using fairness metrics.\"\"\"\n    from sklearn.model_selection import train_test_split\n"
-        },
-        {
-          "cell_index": 7,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 5: Create visualizations of bias detection results\n# This helps us see bias patterns clearly\n\n"
         },
         {
           "cell_index": 8,
@@ -10422,38 +10345,6 @@
           "source_preview": "# 05. Fair AI Development | \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0627\u0644\u0639\u0627\u062f\u0644\n\n## \ud83d\udea8 THE PROBLEM: We Need Systematic Fair AI Development | \u0627\u0644\u0645\u0634\u0643\u0644\u0629: \u0646\u062d\u062a\u0627\u062c \u062a\u0637\u0648\u064a\u0631\u0627\u064b \u0645\u0646\u0647\u062c\u064a\u0627\u064b \u0644\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0627\u0644\u0639\u0627\u062f\u0644\n\n**Remember the limitation from the previous notebook?**\n\nWe learned how to ensure fair representation using PCA, autoencoders,"
         },
         {
-          "cell_index": 3,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 2: Demonstrate inclusive data collection strategies\n# This shows how different data collection approaches affect representation\n\n"
-        },
-        {
-          "cell_index": 5,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 3: Bias-Aware Algorithms and Human-in-the-Loop\n# This demonstrates how to build fair AI systems with bias-aware algorithms and human oversight\n\n"
-        },
-        {
-          "cell_index": 6,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 4: Visualization Functions\n# These functions create visualizations to compare different approaches\n\n"
-        },
-        {
-          "cell_index": 7,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Step 5: Run the Complete Fair AI Development Pipeline\n# This executes the entire workflow from data generation to visualization\n\n"
-        },
-        {
           "cell_index": 8,
           "cell_type": "markdown",
           "issue_type": "code_in_markdown",
@@ -10552,14 +10443,6 @@
           "reason": "Contains 2 Python keywords outside code blocks",
           "dependencies": [],
           "source_preview": "---\n\n## \ud83d\udeab When Data Protection Hits a Limitation | \u0639\u0646\u062f\u0645\u0627 \u062a\u0635\u0644 \u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0625\u0644\u0649 \u062d\u062f\n\n### The Limitation We Discovered\n\nWe've learned basic data protection strategies like encryption, anonymization, and pseudonymization. **But there's still a challenge:**\n\n**What if we need to compute on encrypted dat"
-        },
-        {
-          "cell_index": 6,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# Part 3: Anonymization and Pseudonymization Techniques\n# This shows how to anonymize and pseudonymize data\n\n"
         }
       ]
     },
@@ -11697,14 +11580,6 @@
           "reason": "Contains Python keywords, may be documentation",
           "dependencies": [],
           "source_preview": "# 01 Simple Neural Network\n\n## \ud83d\udcda Learning Objectives | \u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u062a\u0639\u0644\u0645\n\nThis notebook demonstrates key concepts through hands-on examples.\n\nBy completing this notebook, you will:\n- Understand the core concepts\n- See practical implementations\n- Be ready for exercises\n\n## \ud83d\udd17 Prerequisites | \u0627\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0623\u0633"
-        },
-        {
-          "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "\n\n# Visualization: Neural Network Architecture\n"
         }
       ]
     },
@@ -11713,11 +11588,12 @@
       "issues": [
         {
           "cell_index": 1,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "\ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n\u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
         },
         {
           "cell_index": 6,
@@ -11786,14 +11662,6 @@
           "reason": "Contains Python keywords, may be documentation",
           "dependencies": [],
           "source_preview": "# 01 Cnn Architecture\n\n## \ud83d\udcda Learning Objectives | \u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u062a\u0639\u0644\u0645\n\nThis notebook demonstrates key concepts through hands-on examples.\n\nBy completing this notebook, you will:\n- Understand the core concepts\n- See practical implementations\n- Be ready for exercises\n\n## \ud83d\udd17 Prerequisites | \u0627\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\n"
-        },
-        {
-          "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "\n\n# Visualization: Neural Network Architecture\n"
         }
       ]
     },
@@ -11890,11 +11758,12 @@
         },
         {
           "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "\ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n\u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
         },
         {
           "cell_index": 12,
@@ -12400,11 +12269,12 @@
         },
         {
           "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "200% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "\n\n# Visualization:eward for transition.\"\"\"\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "\n\nVisualization:eward for transition.\"\"\"\n"
         }
       ]
     },
@@ -12886,14 +12756,6 @@
           "reason": "Contains Python keywords, may be documentation",
           "dependencies": [],
           "source_preview": "# 01 Gan Architecture\n\n## \ud83d\udcda Learning Objectives | \u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u062a\u0639\u0644\u0645\n\nThis notebook demonstrates key concepts through hands-on examples.\n\nBy completing this notebook, you will:\n- Understand the core concepts\n- See practical implementations\n- Be ready for exercises\n\n## \ud83d\udd17 Prerequisites | \u0627\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\n"
-        },
-        {
-          "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "\n\n# Visualization: Generative vs Discriminative Models\n"
         }
       ]
     },
@@ -12908,14 +12770,6 @@
           "reason": "Contains Python keywords, may be documentation",
           "dependencies": [],
           "source_preview": "# 01 Generative Vs Discriminative\n\n## \ud83d\udcda Learning Objectives | \u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u062a\u0639\u0644\u0645\n\nThis notebook demonstrates key concepts through hands-on examples.\n\nBy completing this notebook, you will:\n- Understand the core concepts\n- See practical implementations\n- Be ready for exercises\n\n## \ud83d\udd17 Prerequisites | \u0627\u0644\u0645\u062a\u0637\u0644\u0628"
-        },
-        {
-          "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "\n\n# Visualization: Generative vs Discriminative Models\n"
         }
       ]
     },
@@ -13137,11 +12991,12 @@
         },
         {
           "cell_index": 2,
-          "cell_type": "code",
-          "issue_type": "markdown_in_code",
-          "confidence": 1.0,
-          "reason": "100% comments/docstrings, no executable code, contains markdown formatting",
-          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
+          "cell_type": "markdown",
+          "issue_type": "code_in_markdown",
+          "confidence": 0.5,
+          "reason": "Contains Python keywords, may be documentation",
+          "dependencies": [],
+          "source_preview": "\ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n\u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n"
         }
       ]
     },
