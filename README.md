@@ -499,6 +499,10 @@ AI Diploma/
 - [Course 11 - START_HERE](Course%2011/START_HERE.md) (AIAT 125)
 - [Course 12 - START_HERE](Course%2012/START_HERE.md) (AIAT 126)
 
+**Documentation & guides:**
+- [DOCS/](DOCS/) — bridges, safety, references
+- [DOCS/guides/](DOCS/guides/) — assessment, best practices, organization, project templates
+
 ---
 
 ## 📝 Notes | ملاحظات

@@ -57,6 +57,7 @@ Learning flow alignment with **DETAILED_UNIT_DESCRIPTIONS.md** has been complete
 | Folder names vs Detailed unit names | No renaming. Mappings document the link (e.g. `unit1-data-processing/` ↔ Regression Algorithms). |
 | Course 01 Unit 2/3 mapping | **Fixed.** Unit 2 → `unit2-ai-concepts/`, Unit 3 → `unit3-ml-basics/` (aligned with DETAILED). Supplemental: `unit2-search-algorithms`, `unit3-knowledge-representation`. |
 | Course 06 CLOs | **Fixed.** DETAILED + COMPLETE_COURSE_STRUCTURE: AI Ethics CLOs (not Data Science). |
+| Course 08 unit structure | Spec Unit 4 = Advanced DL (GANs, VAEs, RL); repo Unit 4 = Transformers, Unit 5 = Deployment. GANs/VAEs/RL in unit5 or spread. Mapping by position; no content reorganization. |
 | Course 10 unit structure | Repo uses GANs/VAEs/applications/ethics units; Detailed uses Text/Language, Image/Visual, Ethics, Future Trends. Mapping by position kept; no content reorganization. |
 | Optional diagram | Plan’s “Optional: flowchart of official path → detailed units” not created. |
 

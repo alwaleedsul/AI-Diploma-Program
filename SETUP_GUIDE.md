@@ -76,6 +76,12 @@ pip install -r requirements.txt
 pip check
 ```
 
+**Quick validate:** Run a minimal check to confirm core libs work:
+```bash
+python -c "import numpy, pandas, sklearn; print('✅ Core libs OK')"
+```
+Optional: run one notebook (e.g. `Course 01/unit1-ai-foundations/examples/01_ai_introduction.ipynb`) to confirm Jupyter + deps.
+
 ### Step 4: Install Jupyter Notebook
 
 ```bash

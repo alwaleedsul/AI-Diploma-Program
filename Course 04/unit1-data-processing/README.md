@@ -1,7 +1,8 @@
 # Unit 1: Basic Data Processing Methods and Regression
 ## أساليب معالجة البيانات الأساسية والانحدار
 
-**Maps to (DETAILED_UNIT_DESCRIPTIONS):** Unit 1 — Regression Algorithms.
+**Maps to (DETAILED_UNIT_DESCRIPTIONS):** Unit 1 — Regression Algorithms.  
+This folder covers data loading, preprocessing, and regression (simple/multiple/polynomial, Ridge, Lasso) as specified in the official curriculum.
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 
