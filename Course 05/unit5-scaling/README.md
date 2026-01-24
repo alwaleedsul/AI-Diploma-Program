@@ -46,6 +46,7 @@ By the end of this unit, students will be able to:
 
 - `examples/`: Complete code examples with explanations
 - `exercises/`: Practice problems for students
+- `solutions/`: Instructor-only reference solutions (e.g. `solution_01.ipynb`)
 
 Quiz solutions are in `DOCS/SOLUTIONS/quizzes/` (see `QUIZZES/` for quiz files).
 

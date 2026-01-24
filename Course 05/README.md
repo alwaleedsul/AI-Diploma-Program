@@ -195,6 +195,12 @@ All documentation is in the `DOCS/` folder:
 - **COLAB_SETUP.md** - Google Colab and GPU setup
 - **SOLUTIONS/** - Quiz solutions
 
+**Deep dive reports** (input/output audit, spec alignment):
+- **Unit 1:** `unit1-introduction/UNIT1_DEEP_DIVE.md`
+- **Units 2–5:** `DEEP_DIVE_UNITS_2_5.md`
+
+**Scoring:** `SCORING_RUBRIC_AND_SCORECARD.md` – rubric (0–25 per criterion × 4) and unit/course scores.
+
 ---
 
 ## 📄 Course Summary | ملخص الدورة

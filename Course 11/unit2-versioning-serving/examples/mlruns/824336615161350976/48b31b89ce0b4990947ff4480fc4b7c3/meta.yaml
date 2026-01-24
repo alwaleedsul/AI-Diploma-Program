@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/abdullah/Downloads/AI Diploma/Course 11/unit2-versioning-serving/examples/mlruns/824336615161350976/48b31b89ce0b4990947ff4480fc4b7c3/artifacts
+end_time: 1769129716189
+entry_point_name: ''
+experiment_id: '824336615161350976'
+lifecycle_stage: active
+run_id: 48b31b89ce0b4990947ff4480fc4b7c3
+run_name: bemused-grouse-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769129716182
+status: 3
+tags: []
+user_id: abdullah
