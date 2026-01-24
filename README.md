@@ -502,6 +502,7 @@ AI Diploma/
 **Documentation & guides:**
 - [DOCS/](DOCS/) — bridges, safety, references
 - [DOCS/guides/](DOCS/guides/) — assessment, best practices, organization, project templates
+- [AI Diploma Deep-Dive Plan](DOCS/guides/AI_DIPLOMA_DEEP_DIVE_PLAN.md) — alignment/reliability/organization checklist and execution status
 
 ---
 
