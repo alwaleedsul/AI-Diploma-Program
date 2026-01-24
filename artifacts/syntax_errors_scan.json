@@ -2,7 +2,7 @@
   "timestamp": "1769289056.6134248",
   "total_notebooks": 795,
   "notebooks_with_errors": 68,
-  "total_errors": 89,
+  "total_errors": 86,
   "errors": [
     {
       "path": "Course 03/modules/module_01/exercises/exercise_01.ipynb",
@@ -755,14 +755,6 @@
           "message": "invalid syntax",
           "text": "length =100, temperature=0.7, top\n",
           "source_preview": "def generate_text(prompt, model, tokenizer, max\nlength =100, temperature=0.7, top\nk =50, top\n"
-        },
-        {
-          "cell_index": 9,
-          "line": 3,
-          "offset": 12,
-          "message": "unexpected EOF while parsing",
-          "text": "prompts = [\n",
-          "source_preview": "# Real-world scenario: Content creation for marketing\nmarketing\nprompts = [\n"
         }
       ]
     },
@@ -791,28 +783,12 @@
           "source_preview": "def generate_stock_data(n\nsamples =1000):\n    \n"
         },
         {
-          "cell_index": 4,
-          "line": 4,
-          "offset": 58,
-          "message": "expected an indented block",
-          "text": "def __init__(self, input_size, hidden_size, output_size):\n",
-          "source_preview": "class SimpleRNN(nn.Module):\n    pass\n    \ndef __init__(self, input_size, hidden_size, output_size):\n"
-        },
-        {
           "cell_index": 5,
           "line": 2,
           "offset": 1,
           "message": "invalid syntax",
           "text": "length =20):\n",
           "source_preview": "def prepare_sequences(data, seq\nlength =20):\n    \n"
-        },
-        {
-          "cell_index": 6,
-          "line": 4,
-          "offset": 58,
-          "message": "expected an indented block",
-          "text": "def __init__(self, input_size, hidden_size, output_size):\n",
-          "source_preview": "class LSTMModel(nn.Module):\n    pass\n    \ndef __init__(self, input_size, hidden_size, output_size):\n"
         }
       ]
     },
