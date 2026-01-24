@@ -35,6 +35,7 @@
 | Course 03 `unit1-linear-algebra` 06_transformation_matrices_orthogonal_basis | Syntax | **Fixed.** Indentation + duplicate `gram_schmidt` removed. |
 | Course 03 `unit2-calculus` 05_function_approximation_ml | Syntax | **Fixed.** Duplicate `sin_taylor`, `intercept_print`, for-loop/hessian/`quadratic_approximation` indentation. |
 | Course 03 `unit5-probability` 06_maximum_likelihood_estimation | Syntax | **Fixed.** Duplicate `neg_log_likelihood` removed; Poisson `neg_log_likelihood_poisson` indentation + `gammaln`. |
+| Course 01 `unit5-generative-ai-intro` 04_diabetes_classification_ffnn | Syntax | **Fixed.** Broken `diabetes_prob` expression (missing division, line breaks). |
 | Course 04 `unit1-data-processing` 01_data_loading_exploration, 04_linear_regression | Runtime | No syntax errors (ast.parse OK); failures likely data-loading/runtime. |
 
 *Full list in `failure_analysis.json` → `sample_failures.syntax_errors`.*

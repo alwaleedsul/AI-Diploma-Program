@@ -9,14 +9,14 @@
 
 Score and improve:
 
-| Dimension | Target | Initial score (0–10) |
-|-----------|--------|----------------------|
-| **Alignment** with DETAILED_UNIT_DESCRIPTIONS | 100% | ~7.5 |
-| **Reliability** (“works well”) | All referenced notebooks run | ~7 |
-| **Understandability** for students | Clear entry, progression, bilingual | ~7.5 |
-| **Organization** | Consistent layout, minimal clutter | ~6.5 |
+| Dimension | Target | Initial score (0–10) | Final score (0–10) |
+|-----------|--------|----------------------|---------------------|
+| **Alignment** with DETAILED_UNIT_DESCRIPTIONS | 100% | ~7.5 | **~9.5** |
+| **Reliability** (“works well”) | All referenced notebooks run | ~7 | **~8** |
+| **Understandability** for students | Clear entry, progression, bilingual | ~7.5 | **~9** |
+| **Organization** | Consistent layout, minimal clutter | ~6.5 | **~9** |
 
-**Overall:** ~7/10 — good foundation; not yet 100% aligned or fully reliable/organized in every aspect.
+**Overall:** **~9/10** — **Near-100% aligned** after Course 08/10 reorganization, syntax fixes, verification docs, and structure improvements. Remaining gaps: minor (advanced topic depth, env/deps for some notebooks).
 
 ---
 
@@ -32,12 +32,13 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 - [x] **Course 01 duplicate-folder notices** — Canonical set only; supplemental READMEs for `unit1-introduction`, `unit4-neural-networks`, `unit5-generative-ai`, etc.
 - [x] **Course 04 Unit 1 ↔ Regression Algorithms** — “Maps to” + scope note in `unit1-data-processing/README.md`.
 - [x] **Un-ignore COMPLETE & LEARNING_FLOW** — `.gitignore` exceptions; both tracked and committed.
-- [x] **Course 08/10 mapping docs** — LEARNING_FLOW: Course 08 unit structure row; Course 10 “mapping by position” already documented.
+- [x] **Course 08/10 reorganization** — **Reorganized to match DETAILED exactly** (not mapping by position). Course 08: unit3-rnns-transformers, unit4-advanced-dl. Course 10: unit2-text-generation, unit3-image-generation, unit4-ethics-regulations, unit5-future-trends. Updated READMEs, START_HERE, STUDENT_PROGRESS_CHECKLIST, reference docs.
 
 ### 2.2 Reliability
 
 - [x] **Quick-validate in SETUP_GUIDE** — `pip check` + `python -c "import numpy, pandas, sklearn; ..."` + optional notebook run.
 - [x] **Triage remaining failing notebooks** — [artifacts/NOTEBOOK_TRIAGE.md](../../artifacts/NOTEBOOK_TRIAGE.md): env/deps vs code bugs; optional/advanced marked; SETUP_GUIDE Troubleshooting links to it.
+- [x] **Fix syntax errors** — Course 03 (3 notebooks), Course 01 (1 notebook) = 4 fixed. Remaining failures are env/deps (documented) or optional exercises (by design).
 
 ### 2.3 Understandability
 
@@ -62,7 +63,8 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 
 - [x] **Unit-by-unit audit** — [UNIT_BY_UNIT_AUDIT.md](UNIT_BY_UNIT_AUDIT.md): all 60 units mapped to DETAILED + repo path, examples, exercises, coverage.
 - [x] **CLO ↔ materials matrix** — [CLOS_MATERIALS_MATRIX.md](CLOS_MATERIALS_MATRIX.md): all 75 CLOs → units and key materials.
-- **Course 08/10 target state** — Documented in LEARNING_FLOW §5 and UNIT_BY_UNIT_AUDIT (mapping by position; no content reorganization).
+- [x] **Unit-by-unit verification** — [UNIT_BY_UNIT_VERIFICATION.md](UNIT_BY_UNIT_VERIFICATION.md): theory/practical coverage check; Course 08/10 verified as aligned after reorganization.
+- [x] **Course 08/10 reorganization** — **Done.** Reorganized to match DETAILED exactly (not mapping by position). See [COURSE_08_10_REORGANIZATION_PLAN.md](COURSE_08_10_REORGANIZATION_PLAN.md).
 
 ---
 
@@ -81,10 +83,11 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 `artifacts/NOTEBOOK_TRIAGE.md`, `Course 05/META/` (dev/QA moves), `SETUP_GUIDE.md` (quick-validate, NOTEBOOK_TRIAGE link), `DOCS/guides/BEST_PRACTICES.md` (notebook naming), `DOCS/guides/ORGANIZATION_ASSESSMENT.md` (Course 05 META), `DOCS/guides/OFFICIAL_PATH_FLOWCHART.md`, `DOCS/guides/UNIT_BY_UNIT_AUDIT.md`, `DOCS/guides/CLOS_MATERIALS_MATRIX.md`, `LEARNING_FLOW_ALIGNMENT_REPORT` (flowchart row).
 
 **Latest (finish-it-all run):**  
-- **Syntax fixes:** Course 03 `06_transformation_matrices_orthogonal_basis`, `05_function_approximation_ml`, `06_maximum_likelihood_estimation` (indentation, duplicate code, `intercept_print`, Hessian, `gammaln`). NOTEBOOK_TRIAGE §3 updated.  
-- **Course 08/10 target state:** UNIT_BY_UNIT_AUDIT Summary.  
+- **Syntax fixes:** Course 03 (3 notebooks: indentation, duplicates, `intercept_print`, Hessian, `gammaln`), Course 01 (1 notebook: `diabetes_prob` expression). NOTEBOOK_TRIAGE §3 updated.  
+- **Course 08/10 reorganization:** **Reorganized to match DETAILED exactly** (not mapping by position). Course 08: unit3-rnns-transformers, unit4-advanced-dl. Course 10: unit2-text-generation, unit3-image-generation, unit4-ethics-regulations, unit5-future-trends. Updated READMEs, START_HERE, STUDENT_PROGRESS_CHECKLIST, reference docs.  
 - **MASTER_NOTEBOOK_INDEX:** Created at root; SETUP_GUIDE, STUDENT_HANDBOOK reference it.  
-- **Notebook renames:** Course 01 unit1 `implementing_search_algorithms...` → `10_implementing_search_algorithms.ipynb`, `working_with_numpy...` → `11_working_with_numpy.ipynb`. UNIT_BY_UNIT_AUDIT, MASTER_NOTEBOOK_INDEX updated.
+- **Notebook renames:** Course 01 unit1 long names → `10_`, `11_`. UNIT_BY_UNIT_AUDIT, MASTER_NOTEBOOK_INDEX updated.  
+- **Unit-by-unit verification:** UNIT_BY_UNIT_VERIFICATION.md created; Course 08/10 verified as aligned after reorganization.
 
 ---
 
@@ -102,6 +105,8 @@ Use this as the **master to-do** for plan execution. Tick items as completed.
 | [UNIT_BY_UNIT_AUDIT.md](UNIT_BY_UNIT_AUDIT.md) | 60-unit audit; unit ↔ materials |
 | [CLOS_MATERIALS_MATRIX.md](CLOS_MATERIALS_MATRIX.md) | 75 CLOs ↔ units and materials |
 | [MASTER_NOTEBOOK_INDEX.md](../../MASTER_NOTEBOOK_INDEX.md) | Notebook navigation by course/unit |
+| [UNIT_BY_UNIT_VERIFICATION.md](UNIT_BY_UNIT_VERIFICATION.md) | 60-unit verification against DETAILED (theory/practical coverage) |
+| [COURSE_08_10_REORGANIZATION_PLAN.md](COURSE_08_10_REORGANIZATION_PLAN.md) | Course 08/10 reorganization execution plan |
 
 ---
 
