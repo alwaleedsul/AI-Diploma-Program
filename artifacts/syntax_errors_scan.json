@@ -1,22 +1,9 @@
 {
   "timestamp": "1769289056.6134248",
   "total_notebooks": 795,
-  "notebooks_with_errors": 101,
-  "total_errors": 133,
+  "notebooks_with_errors": 99,
+  "total_errors": 129,
   "errors": [
-    {
-      "path": "Course 01/unit2-search-algorithms/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 1,
-          "line": 3,
-          "offset": 111,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\n# Unit 2 - Exercise 1: AI Concepts and Applications\u0627\u0644\u0648\u062d\u062f\u0629 2 - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0641\u0627\u0647\u064a\u0645 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a\n\n",
-          "source_preview": "\"\"\"\n# Unit 2 - Exercise 1: AI Concepts and Applications\u0627\u0644\u0648\u062d\u062f\u0629 2 - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0641\u0627\u0647\u064a\u0645 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a\n\n"
-        }
-      ]
-    },
     {
       "path": "Course 01/unit3-knowledge-representation/examples/01_knowledge_graph.ipynb",
       "errors": [
@@ -27,19 +14,6 @@
           "message": "EOF while scanning triple-quoted string literal",
           "text": "\"\"\"\nUnit 3 - Example 1: Knowledge Graph Representation\n# \u0627\u0644\u0648\u062d\u062f\u0629 3 - \u0645\u062b\u0627\u0644 1: \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a \u0644\u0644\u0645\u0639\u0631\u0641\u0629\n",
           "source_preview": "\"\"\"\nUnit 3 - Example 1: Knowledge Graph Representation\n# \u0627\u0644\u0648\u062d\u062f\u0629 3 - \u0645\u062b\u0627\u0644 1: \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a \u0644\u0644\u0645\u0639\u0631\u0641\u0629\n"
-        }
-      ]
-    },
-    {
-      "path": "Course 01/unit4-neural-networks-basics/exercises/exercise_01.ipynb",
-      "errors": [
-        {
-          "cell_index": 1,
-          "line": 3,
-          "offset": 94,
-          "message": "EOF while scanning triple-quoted string literal",
-          "text": "\"\"\"\n# Unit 4 - Exercise 1: Neural Networks Basics\u0627\u0644\u0648\u062d\u062f\u0629 4 - \u062a\u0645\u0631\u064a\u0646 1: \u0623\u0633\u0627\u0633\u064a\u0627\u062a \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0639\u0635\u0628\u064a\u0629\n\n",
-          "source_preview": "\"\"\"\n# Unit 4 - Exercise 1: Neural Networks Basics\u0627\u0644\u0648\u062d\u062f\u0629 4 - \u062a\u0645\u0631\u064a\u0646 1: \u0623\u0633\u0627\u0633\u064a\u0627\u062a \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0639\u0635\u0628\u064a\u0629\n\n"
         }
       ]
     },
@@ -74,11 +48,11 @@
       "errors": [
         {
           "cell_index": 5,
-          "line": 3,
-          "offset": 166,
-          "message": "expected an indented block",
-          "text": "def create_data_matrix(samples, features):        # # SOLUTION: Create a matrix with the specified shape    # Use np.random.randn() to generate random values    pass\n",
-          "source_preview": "# Complete solution:\n# import numpy as np\ndef create_data_matrix(samples, features):        # # SOLUTION: Create a matrix with the specified shape    # Use np.random.randn() to generate random values "
+          "line": 2,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    pass\n",
+          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef create_data_matrix(samples, features):        # # SOLUTION: Create a matrix with the specified shape    # Use np.random.randn() to generate rando"
         }
       ]
     },
@@ -87,11 +61,11 @@
       "errors": [
         {
           "cell_index": 5,
-          "line": 3,
-          "offset": 104,
-          "message": "expected an indented block",
-          "text": "def compute_determinant(matrix):        # # SOLUTION: Compute determinant using np.linalg.det()    pass\n",
-          "source_preview": "# Complete solution:\n# import numpy as np\ndef compute_determinant(matrix):        # # SOLUTION: Compute determinant using np.linalg.det()    pass\n"
+          "line": 2,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    pass\n",
+          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef compute_determinant(matrix):        # # SOLUTION: Compute determinant using np.linalg.det()    pass\n"
         }
       ]
     },
@@ -178,11 +152,11 @@
       "errors": [
         {
           "cell_index": 5,
-          "line": 3,
-          "offset": 130,
-          "message": "expected an indented block",
-          "text": "def calculate_mse(predictions, targets):        # # SOLUTION: Calculate MSE    # Formula: mean((predictions - targets)^2)    pass\n",
-          "source_preview": "# Complete solution:\n# import numpy as np\ndef calculate_mse(predictions, targets):        # # SOLUTION: Calculate MSE    # Formula: mean((predictions - targets)^2)    pass\n"
+          "line": 2,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    pass\n",
+          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef calculate_mse(predictions, targets):        # # SOLUTION: Calculate MSE    # Formula: mean((predictions - targets)^2)    pass\n"
         }
       ]
     },
@@ -204,11 +178,11 @@
       "errors": [
         {
           "cell_index": 5,
-          "line": 3,
-          "offset": 162,
-          "message": "expected an indented block",
-          "text": "def compute_covariance_matrix(data):        # # SOLUTION: Compute covariance matrix    # Hint: Center data first (subtract mean), then compute covariance    pass\n",
-          "source_preview": "# Complete solution:\n# import numpy as np\ndef compute_covariance_matrix(data):        # # SOLUTION: Compute covariance matrix    # Hint: Center data first (subtract mean), then compute covariance    p"
+          "line": 2,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    pass\n",
+          "source_preview": "# Complete solution:\n    pass\n# import numpy as np\ndef compute_covariance_matrix(data):        # # SOLUTION: Compute covariance matrix    # Hint: Center data first (subtract mean), then compute covari"
         }
       ]
     },
@@ -609,22 +583,6 @@
           "message": "invalid syntax",
           "text": "from sklearn.datasets \n",
           "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\nfrom sklearn.datasets \n"
-        },
-        {
-          "cell_index": 5,
-          "line": 3,
-          "offset": 163,
-          "message": "expected an indented block",
-          "text": "    # Note: t-SNE is computationally expensive, use on smaller datasets_tsne = TSNE(n_components=2, random_state=42, perplexity=30) X_tsne = tsne.fit_transform(X)\n",
-          "source_preview": "if HAS_TSNE:\n    # t-SNE for visualization\n    # Note: t-SNE is computationally expensive, use on smaller datasets_tsne = TSNE(n_components=2, random_state=42, perplexity=30) X_tsne = tsne.fit_transfo"
-        },
-        {
-          "cell_index": 7,
-          "line": 3,
-          "offset": 1,
-          "message": "expected an indented block",
-          "text": "print(\"=\" * 60)\n",
-          "source_preview": "if HAS_UMAP:\n    # UMAP: Faster than t-SNE, preserves both local and global structure_reducer = umap.UMAP(n_components=2, random_state=42) X_umap = reducer.fit_transform(X)\nprint(\"=\" * 60)\n"
         }
       ]
     },
