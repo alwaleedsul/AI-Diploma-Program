@@ -2,7 +2,7 @@
   "timestamp": "1769289056.6134248",
   "total_notebooks": 795,
   "notebooks_with_errors": 59,
-  "total_errors": 132,
+  "total_errors": 134,
   "errors": [
     {
       "path": "Course 03/modules/module_01/solutions/solution_01.ipynb",
@@ -787,6 +787,22 @@
         },
         {
           "cell_index": 271,
+          "line": 1,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "1. Split Data\n",
+          "source_preview": "1. Split Data\n   \u251c\u2500\u2500 Train Set (60%)\n   \u251c\u2500\u2500 Validation Set (20%) \u2190 Use for threshold selection\n   \u2514\u2500\u2500 Test Set (20%) \u2190 Use for final evaluation\n\n2. Train Model\n   \u2514\u2500\u2500 model.fit(X_train, y_train)\n\n3. G"
+        },
+        {
+          "cell_index": 279,
+          "line": 1,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Sample 1: 0.3 (30% chance of class 1)\n",
+          "source_preview": "Sample 1: 0.3 (30% chance of class 1)\nSample 2: 0.6 (60% chance of class 1)\nSample 3: 0.8 (80% chance of class 1)"
+        },
+        {
+          "cell_index": 280,
           "line": 1,
           "offset": 4,
           "message": "invalid syntax",
