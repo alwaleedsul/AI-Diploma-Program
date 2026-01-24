@@ -1,0 +1,3444 @@
+{
+  "timestamp": "1769288994.3100228",
+  "total_notebooks": 795,
+  "notebooks_with_errors": 188,
+  "total_errors": 313,
+  "errors": [
+    {
+      "path": "Course 01/unit1-ai-foundations/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 64,
+          "offset": 32,
+          "message": "EOL while scanning string literal",
+          "text": "chosen_field = \"Your field here\n",
+          "source_preview": "\"\"\"\nUnit 1 - Exercise 1: AI Fundamentals and Python Basics\n\u0627\u0644\u0648\u062d\u062f\u0629 1 - \u062a\u0645\u0631\u064a\u0646 1: \u0623\u0633\u0627\u0633\u064a\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0623\u0633\u0627\u0633\u064a\u0627\u062a \u0628\u0627\u064a\u062b\u0648\u0646\n\nComplete the following exercises to practice AI fundamentals and Python for AI."
+        },
+        {
+          "cell_index": 3,
+          "line": 34,
+          "offset": 2,
+          "message": "invalid syntax",
+          "text": "(||v1|| * ||v2||)\n",
+          "source_preview": "# Exercise 5: NumPy for AI Data Processing\n# \u062a\u0645\u0631\u064a\u0646 5: NumPy \u0644\u0645\u0639\u0627\u0644\u062c\u0629 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\n\nprint(\"Exercise 5: NumPy for AI Data Processing\")\nprint(\"\u0627\u0644\u062a\u0645\u0631\u064a\u0646 5: NumPy \u0644\u0645\u0639\u0627\u0644\u062c\u0629 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\")"
+        }
+      ]
+    },
+    {
+      "path": "Course 01/unit1-ai-foundations/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 20,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "\u062a\u0639\u0631\u064a\u0641\u0643 \u0647\u0646\u0627:\n",
+          "source_preview": "# Complete solution:\n# \"\"\"\n# Unit 1 - Exercise 1: AI Fundamentals\n# \u0627\u0644\u0648\u062d\u062f\u0629 1 - \u062a\u0645\u0631\u064a\u0646 1: \u0623\u0633\u0627\u0633\u064a\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\n# \n# Complete the following exercises to practice AI fundamentals.\n# \u0623\u0643\u0645\u0644 \u0627\u0644\u062a\u0645\u0627\u0631\u064a\u0646 \u0627\u0644\u062a\u0627"
+        }
+      ]
+    },
+    {
+      "path": "Course 01/unit2-ai-concepts/examples/06_applying_bayes_theorem.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 8,
+          "offset": 32,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"  P(A|B) = P(B|A) * P(A)\n",
+          "source_preview": "import numpy as np\n\nprint(\"\u2705 Libraries imported!\")\nprint(\"\\nApplying Bayes' Theorem\")\nprint(\"=\" * 60)\n\nprint(\"\\nBayes' Theorem:\")\nprint(\"  P(A|B) = P(B|A) * P(A)\nP(B)\")\nprint(\"  - Prior probability: P"
+        }
+      ]
+    },
+    {
+      "path": "Course 01/unit2-ai-concepts/examples/07_bayes_theorem_applications.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 8,
+          "offset": 32,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"  P(A|B) = P(B|A) * P(A)\n",
+          "source_preview": "import numpy as np\n\nprint(\"\u2705 Libraries imported!\")\nprint(\"\\nApplying Bayes' Theorem to Real-World Problems\")\nprint(\"=\" * 60)\n\nprint(\"\\nBayes' Theorem:\")\nprint(\"  P(A|B) = P(B|A) * P(A)\nP(B)\")\nprint(\" "
+        }
+      ]
+    },
+    {
+      "path": "Course 01/unit2-search-algorithms/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 47,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " pass\n",
+          "source_preview": "\"\"\"\nUnit 2 - Exercise 1: AI Concepts and Applications\u0627\u0644\u0648\u062d\u062f\u0629 2 - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0641\u0627\u0647\u064a\u0645 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a\n\nComplete the following exercises to practice Unit 2 concepts.\n\u0623\u0643\u0645\u0644 \u0627\u0644\u062a\u0645\u0627\u0631\u064a\u0646 \u0627\u0644\u062a\u0627\u0644\u064a\u0629 \u0644\u0645\u0645\u0627\u0631\u0633\u0629"
+        },
+        {
+          "cell_index": 2,
+          "line": 2,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " \"\"\"Expert system for product recommendations\"\"\"\n",
+          "source_preview": "# TODO: Implement the expert system class # TODO: \u0646\u0641\u0630 \u0641\u0626\u0629 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u062e\u0628\u064a\u0631class ProductRecommendationSystem:\n \"\"\"Expert system for product recommendations\"\"\"\n \n def __init__(self):\n # TODO: Define rules "
+        },
+        {
+          "cell_index": 4,
+          "line": 18,
+          "offset": 6,
+          "message": "unindent does not match any outer indentation level",
+          "text": " pass\n",
+          "source_preview": "# Exercise 2: Bayes' Theore\nm\n# \u0627\u0644\u062a\u0645\u0631\u064a\u0646 2: \u0646\u0638\u0631\u064a\u0629 \u0628\u0627\u064a\u0632p\nprint(\"\\nExercise 2: Bayes' Theorem\")\nprint(\"\u0627\u0644\u062a\u0645\u0631\u064a\u0646 2: \u0646\u0638\u0631\u064a\u0629 \u0628\u0627\u064a\u0632\")\nprint(\"-\" * 60)\n\ndef bayes_theorem(prior, likelihood, evidence):\n \n    \n    "
+        },
+        {
+          "cell_index": 8,
+          "line": 10,
+          "offset": 2,
+          "message": "unmatched ')'",
+          "text": "y)",
+          "source_preview": "# Exercise 4: Train a Simple ML Mode\nl\n# \u0627\u0644\u062a\u0645\u0631\u064a\u0646 4: \u062f\u0631\u0628 \u0646\u0645\u0648\u0630\u062c \u062a\u0639\u0644\u0645 \u0622\u0644\u064a \u0628\u0633\u064a\u0637p\nprint(\"\\nExercise 4: Supervised Learning\")\nprint(\"\u0627\u0644\u062a\u0645\u0631\u064a\u0646 4: \u0627\u0644\u062a\u0639\u0644\u0645 \u0627\u0644\u062e\u0627\u0636\u0639 \u0644\u0644\u0625\u0634\u0631\u0627\u0641\")\nprint(\"-\" * 60)\n\n# Use the encoded dat"
+        },
+        {
+          "cell_index": 10,
+          "line": 13,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "k=2c\n",
+          "source_preview": "# Exercise 5: Clustering\n# \u0627\u0644\u062a\u0645\u0631\u064a\u0646 5: \u0627\u0644\u062a\u062c\u0645\u064a\u0639p\nprint(\"\\nExercise 5: Unsupervised Learning - Clustering\")\nprint(\"\u0627\u0644\u062a\u0645\u0631\u064a\u0646 5: \u0627\u0644\u062a\u0639\u0644\u0645 \u063a\u064a\u0631 \u0627\u0644\u062e\u0627\u0636\u0639 \u0644\u0644\u0625\u0634\u0631\u0627\u0641 - \u0627\u0644\u062a\u062c\u0645\u064a\u0639\")\nprint(\"-\" * 60)\n\n# TODO: Use age and sa"
+        }
+      ]
+    },
+    {
+      "path": "Course 01/unit3-knowledge-representation/examples/01_knowledge_graph.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 80,
+          "offset": 35,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"\\nWho are Ahmed's children?\n",
+          "source_preview": "\"\"\"\nUnit 3 - Example 1: Knowledge Graph Representation\n\u0627\u0644\u0648\u062d\u062f\u0629 3 - \u0645\u062b\u0627\u0644 1: \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a \u0644\u0644\u0645\u0639\u0631\u0641\u0629\n\nThis example demonstrates:\n1. Creating a knowledge graph\n2. Representing relationships\n3. Queryin"
+        }
+      ]
+    },
+    {
+      "path": "Course 01/unit4-neural-networks-basics/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 26,
+          "offset": 6,
+          "message": "unindent does not match any outer indentation level",
+          "text": " pass\n",
+          "source_preview": "\"\"\"\nUnit 4 - Exercise 1: Neural Networks Basics\u0627\u0644\u0648\u062d\u062f\u0629 4 - \u062a\u0645\u0631\u064a\u0646 1: \u0623\u0633\u0627\u0633\u064a\u0627\u062a \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0639\u0635\u0628\u064a\u0629\n\nComplete the following exercises.\n\u0623\u0643\u0645\u0644 \u0627\u0644\u062a\u0645\u0627\u0631\u064a\u0646 \u0627\u0644\u062a\u0627\u0644\u064a\u0629.\n\"\"\"\n\nimport numpy as np\n\n# Exercise 1: Implement Ac"
+        }
+      ]
+    },
+    {
+      "path": "Course 02/NOTEBOOKS/00_Python_Libraries_for_AI.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 36,
+          "offset": 15,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"   arr1\n",
+          "source_preview": "# \ud83d\udcda QUICK REFERENCE: NumPy Most Commonly Used Functions\n# Complete cheat sheet of functions you'll use in AI projects\n\nimport numpy as np\n\nprint(\"=\" * 70)\nprint(\"\ud83d\udcda NUMPY FUNCTION REFERENCE - Most Comm"
+        },
+        {
+          "cell_index": 7,
+          "line": 62,
+          "offset": 27,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"   \ud83d\udd39 Multiple Plots\n",
+          "source_preview": "# Matplotlib Basics: Creating Visualizations\n# BEFORE: Just numbers - hard to understand!\n# AFTER: Beautiful graphs - easy to understand!\n\nimport matplotlib.pyplot as plt  # Import Matplotlib (standar"
+        },
+        {
+          "cell_index": 40,
+          "line": 7,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "from 'PIL')\n",
+          "source_preview": "# PIL/Pillow: Image Processing (Simple Alternative)\n# BEFORE: Hard to open, manipulate, save images\n# AFTER: Pillow makes image processing SIMPLE!\n\ntry:\n    from PIL import Image  # Import Pillow (sta"
+        }
+      ]
+    },
+    {
+      "path": "Course 02/NOTEBOOKS/04_Optimization_Techniques.ipynb",
+      "errors": [
+        {
+          "cell_index": 9,
+          "line": 80,
+          "offset": 0,
+          "message": "expected an indented block",
+          "text": "temperature)\n",
+          "source_preview": "import numpy as np\n# Simulated Annealing: Temperature-Based Optimization\n# BEFORE: Optimization gets stuck in local minima\n# AFTER: Start \"hot\" (explore widely), then \"cool\" (focus) - escapes local mi"
+        }
+      ]
+    },
+    {
+      "path": "Course 02/unit1-search-algorithms/examples/00_Python_Libraries_for_AI.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 36,
+          "offset": 15,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"   arr1\n",
+          "source_preview": "# \ud83d\udcda QUICK REFERENCE: NumPy Most Commonly Used Functions\n# Complete cheat sheet of functions you'll use in AI projects\n\nimport numpy as np\n\nprint(\"=\" * 70)\nprint(\"\ud83d\udcda NUMPY FUNCTION REFERENCE - Most Comm"
+        },
+        {
+          "cell_index": 8,
+          "line": 62,
+          "offset": 27,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"   \ud83d\udd39 Multiple Plots\n",
+          "source_preview": "# Matplotlib Basics: Creating Visualizations\n# BEFORE: Just numbers - hard to understand!\n# AFTER: Beautiful graphs - easy to understand!\n\nimport matplotlib.pyplot as plt  # Import Matplotlib (standar"
+        },
+        {
+          "cell_index": 41,
+          "line": 7,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "from 'PIL')\n",
+          "source_preview": "# PIL/Pillow: Image Processing (Simple Alternative)\n# BEFORE: Hard to open, manipulate, save images\n# AFTER: Pillow makes image processing SIMPLE!\n\ntry:\n    from PIL import Image  # Import Pillow (sta"
+        }
+      ]
+    },
+    {
+      "path": "Course 02/unit2-knowledge-representation/examples/04_inference_rules_logical_reasoning.ipynb",
+      "errors": [
+        {
+          "cell_index": 9,
+          "line": 33,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "    def__str__(self):\n",
+          "source_preview": "class LogicalArgument:\n    \"\"\"Class to represent and validate logical arguments\"\"\"\n    \n    def __init__(self):\n        self.premises = []\n        self.conclusion = None\n        self.inference_rule = "
+        }
+      ]
+    },
+    {
+      "path": "Course 02/unit2-knowledge-representation/examples/05_first_order_logic_fol.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 8,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "    def__str__(self):\n",
+          "source_preview": "class FOLPredicate:\n    \"\"\"Represents a FOL predicate (e.g., Human(x), Loves(x, y))\"\"\"\n    \n    def __init__(self, name: str, arguments: List[str]):\n        self.name = name\n        self.arguments = a"
+        },
+        {
+          "cell_index": 5,
+          "line": 14,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "    def__str__(self):\n",
+          "source_preview": "class FOLFormula:\n    \"\"\"Represents a FOL formula with quantifiers\"\"\"\n    \n    def __init__(self, formula_type: str, variable: str = None, \n                 predicate: FOLPredicate = None, subformula:"
+        }
+      ]
+    },
+    {
+      "path": "Course 02/unit4-optimization-techniques/examples/04_Optimization_Techniques.ipynb",
+      "errors": [
+        {
+          "cell_index": 10,
+          "line": 80,
+          "offset": 0,
+          "message": "expected an indented block",
+          "text": "temperature)\n",
+          "source_preview": "import numpy as np\n# Simulated Annealing: Temperature-Based Optimization\n# BEFORE: Optimization gets stuck in local minima\n# AFTER: Start \"hot\" (explore widely), then \"cool\" (focus) - escapes local mi"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_01/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 6,
+          "line": 1,
+          "offset": 87,
+          "message": "invalid syntax",
+          "text": "if __name__ == \"__main__\": print(\"Testing Exercise 01: Vector and Matrix Operations\") print(\"=\" * 60)  # Test 1: Create data matrix print(\"\\n1. Testing create_data\\n_matrix:\") data = create_data_matrix(5, 3) if data is None: print(\" \u274c ERROR: create_data\\n_matrix() returned None!\") print(\" \ud83d\udca1 SOLUTION: Replace 'pass' with: return np.random.randn(samples, features)\") raise NotImplementedError(\"Please implement create_data_matrix() first!\") print(f\" Created matrix shape: {data.shape}\") print(f\" Expected: (5, 3)\") assert data.shape == (5, 3), \"Shape should be (5, 3)\" print(\" \u2705 Passed!\")  # Test 2: Dot product print(\"\\n2. Testing compute\\n_dot\\n_product:\") v1 = np.array([1, 2, 3]) v2 = np.array([4, 5, 6]) result = compute_dot_product(v1, v2) if result is None: print(\" \u274c ERROR: compute\\n_dot\\n_product() returned None!\") print(\" \ud83d\udca1 SOLUTION: Replace 'pass' with: return np.dot(v1, v2)\") raise NotImplementedError(\"Please implement compute_dot_product() first!\") expected = 32 # 1*4 + 2*5 + 3*6 = 4 + 10 + 18 = 32 print(f\" Result: {result}\") print(f\" Expected: {expected}\") assert result == expected, f\"Expected {expected}, got {result}\" print(\" \u2705 Passed!\")  # Test 3: Matrix multiplication print(\"\\n3. Testing matrix_multiplication:\") A = np.array([[1, 2], [3, 4]]) B = np.array([[5, 6], [7, 8]]) result = matrix_multiplication(A, B) if result is None: print(\" \u274c ERROR: matrix_multiplication() returned None!\") print(\" \ud83d\udca1 SOLUTION: Replace 'pass' with: return np.dot(A, B)\") raise NotImplementedError(\"Please implement matrix_multiplication() first!\") expected = np.array([[19, 22], [43, 50]]) print(f\" Result:\\n{result}\") print(f\" Expected:\\n{expected}\") assert np.allclose(result, expected), \"Matrix multiplication incorrect\" print(\" \u2705 Passed!\")  # Test 4: Transpose print(\"\\n4. Testing compute\\n_transpose:\") matrix = np.array([[1, 2, 3], [4, 5, 6]]) result = compute_transpose(matrix) if result is None: print(\" \u274c ERROR: compute\\n_transpose() returned None!\") print(\" \ud83d\udca1 SOLUTION: Replace 'pass' with: return matrix.T\") raise NotImplementedError(\"Please implement compute_transpose() first!\") expected = np.array([[1, 4], [2, 5], [3, 6]]) print(f\" Original shape: {matrix.shape}\") print(f\" Transposed shape: {result.shape}\") assert np.allclose(result, expected), \"Transpose incorrect\" print(\" \u2705 Passed!\")  print(\"\\n\" + \"=\" * 60) print(\"\ud83c\udf89 All tests passed! Great job!\")\n",
+          "source_preview": "if __name__ == \"__main__\": print(\"Testing Exercise 01: Vector and Matrix Operations\") print(\"=\" * 60)  # Test 1: Create data matrix print(\"\\n1. Testing create_data\\n_matrix:\") data = create_data_matri"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_01/exercises/exercise_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 7,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "t()\n",
+          "source_preview": "import numpy as np\n\n\ndef compute_determinant(matrix):\n \n # TODO: Compute determinant using np.linalg.de\nt()\n pass\n\n\ndef compute_matrix_inverse(matrix):\n \n # TODO: Compute inverse using np.linalg.in\nv("
+        },
+        {
+          "cell_index": 6,
+          "line": 1,
+          "offset": 76,
+          "message": "invalid syntax",
+          "text": "if __name__ == \"__main__\": print(\"Testing Exercise 02: Matrix Properties\") print(\"=\" * 60)  # Test 1: Determinant print(\"\\n1. Testing compute\\n_determinant:\") matrix = np.array([[1, 2], [3, 4]]) det = compute_determinant(matrix) expected = -2.0 # 1*4 - 2*3 = 4 - 6 = -2 print(f\" Determinant: {det:.2 f}\") print(f\" Expected: {expected:.2 f}\") assert np.isclose(det, expected), \"Determinant incorrect\" print(\" \u2705 Passed!\")  # Test 2: Matrix inverse print(\"\\n2. Testing compute\\n_matrix_inverse:\") matrix = np.array([[1, 2], [3, 4]]) inv = compute_matrix_inverse(matrix) expected = np.array([[-2.0, 1.0], [1.5, -0.5]]) print(f\" Inverse:\\n{inv}\") print(f\" Expected:\\n{expected}\") assert np.allclose(inv, expected), \"Inverse incorrect\" print(\" \u2705 Passed!\")  # Test 3: Verify inverse print(\"\\n3. Testing verify_inverse:\") is_valid = verify_inverse(matrix, inv) print(f\" Matrix @ Inverse = Identity: {is_valid}\") assert is_valid, \"Inverse verification failed\" print(\" \u2705 Passed!\")  # Test 4: Eigenvalues and eigenvectors print(\"\\n4. Testing compute\\n_eigenvalues\\n_eigenvectors:\") matrix = np.array([[2, 1], [1, 2]]) eigenvals, eigenvecs = compute_eigenvalues_eigenvectors(matrix) print(f\" Eigenvalues: {eigenvals}\") print(f\" Eigenvectors:\\n{eigenvecs}\") print(\" \u2705 Computed successfully!\")  print(\"\\n\" + \"=\" * 60) print(\"\ud83c\udf89 All tests passed!\")\n",
+          "source_preview": "if __name__ == \"__main__\": print(\"Testing Exercise 02: Matrix Properties\") print(\"=\" * 60)  # Test 1: Determinant print(\"\\n1. Testing compute\\n_determinant:\") matrix = np.array([[1, 2], [3, 4]]) det ="
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_01/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 4,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def compute_dot_product(v1, v2):        # # SOLUTION: Compute dot product using np.dot() or v1 @ v2    pass\n",
+          "source_preview": "# Complete solution:\n# import numpy as np\ndef create_data_matrix(samples, features):        # # SOLUTION: Create a matrix with the specified shape    # Use np.random.randn() to generate random values "
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_01/solutions/solution_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 4,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def compute_matrix_inverse(matrix):        # # SOLUTION: Compute inverse using np.linalg.inv()    # Note: Matrix must be square and have non-zero determinant    pass\n",
+          "source_preview": "# Complete solution:\n# import numpy as np\ndef compute_determinant(matrix):        # # SOLUTION: Compute determinant using np.linalg.det()    pass\ndef compute_matrix_inverse(matrix):        # # SOLUTIO"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_02/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 23,
+          "offset": 21,
+          "message": "expected an indented block",
+          "text": "# Test your solution\n",
+          "source_preview": "import numpy as np\nfrom scipy.optimize import approx_fprime\n# Note: scipy.misc.derivative moved, using approx_fprime instead def compute_derivative(func, x, h=1e-6):\n \n # TODO: Implement numerical der"
+        },
+        {
+          "cell_index": 6,
+          "line": 1,
+          "offset": 84,
+          "message": "invalid syntax",
+          "text": "if __name__ == \"__main__\": print(\"Testing Exercise 01: Derivatives and Gradients\") print(\"=\" * 60)  # Test 1: Derivative print(\"\\n1. Testing compute\\n_derivative:\") def f(x): return x**2 + 3*x + 2  x0 = 2.0 deriv = compute_derivative(f, x0) expected = 2*x0 + 3 # d/dx(x\u00b2 + 3x + 2) = 2x + 3 print(f\" Function: f(x) = x\u00b2 + 3 x + 2\") print(f\" At x = {x0}:\") print(f\" Computed derivative: {deriv:.4 f}\") print(f\" Expected: {expected:.4 f}\") assert abs(deriv - expected) < 0.01, \"Derivative incorrect\" print(\" \u2705 Passed!\")  # Test 2: Gradient print(\"\\n2. Testing compute\\n_gradient:\") def multivariable_func(point): x, y = pointreturn x**2 + y**2 + x*y  point = np.array([1.0, 2.0]) grad = compute_gradient(multivariable_func, point) expected = np.array([2*point[0] + point[1], 2*point[1] + point[0]]) print(f\" Function: f(x, y) = x\u00b2 + y\u00b2 + xy\") print(f\" At point ({point[0]}, {point[1]}):\") print(f\" Computed gradient: {grad}\") print(f\" Expected: {expected}\") assert np.allclose(grad, expected, atol=0.1), \"Gradient incorrect\" print(\" \u2705 Passed!\")  # Test 3: Gradient descent print(\"\\n3. Testing gradient_descent_step:\") def loss_func(x): return (x - 3)**2 # Minimum atx = 3 x = 5.0 x_new = gradient_descent_step(loss_func, x, learning_rate=0.1) print(f\" Loss function: f(x) = (x - 3)\u00b2\") print(f\" Starting at x = {x}\") print(f\" After one step: x = {x_new:.4f}\") print(f\" Expected: x should move closer to 3\") assert abs(x_new - 3) < abs(x - 3), \"Should move toward minimum\" print(\" \u2705 Passed!\")  print(\"\\n\" + \"=\" * 60) print(\"\ud83c\udf89 All tests passed!\")\n",
+          "source_preview": "if __name__ == \"__main__\": print(\"Testing Exercise 01: Derivatives and Gradients\") print(\"=\" * 60)  # Test 1: Derivative print(\"\\n1. Testing compute\\n_derivative:\") def f(x): return x**2 + 3*x + 2  x0"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_02/exercises/exercise_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 6,
+          "line": 1,
+          "offset": 74,
+          "message": "invalid syntax",
+          "text": "if __name__ == \"__main__\": print(\"Testing Exercise 02: Gradient Descent\")print(\"=\" * 60)  # Test 1: Gradient descent print(\"\\n1. Testing gradient_descent:\")def f(x): return (x - 3)**2 # Minimum at x = 3 def grad_f(x): return 2 * (x - 3) # Gradient of (x-3)\u00b2  initial_x = 5.0 final_x, history = gradient_descent(f, grad_f, initial_x, learning_rate=0.1, iterations=20)print(f\" Function: f(x) = (x - 3)\u00b2 (minimum at x = 3)\") print(f\" Starting at: {initial_x}\")print(f\" Final value: {final_x:.4f}\")print(f\" Expected: close to 3.0\")print(f\" Converged: {abs(final_x - 3) < 0.1}\") assert abs(final_x - 3) < 0.5, \"Should converge close to minimum\" print(\" \u2705 Passed!\")  # Test 2: Learning rate analysis print(\"\\n2. Testing analyze\\n_learning_rate:\")learning_rates = [0.01, 0.1, 0.5, 1.0] results = analyze_learning_rate(f, grad_f, initial_x, learning_rates, iterations=30)print(f\" Learning Rate Analysis:\")for lr, final_val in results.items(): converged = abs(final_val - 3) < 0.5 status = \"\u2705 Converged\" if converged else \"\u274c Diverged\" print(f\" LR = {lr:.2f}: Final x = {final_val:.4f} {status}\")print(\"\\n\" + \"=\" * 60)print(\"\ud83c\udf89 All tests passed!\")\n",
+          "source_preview": "if __name__ == \"__main__\": print(\"Testing Exercise 02: Gradient Descent\")print(\"=\" * 60)  # Test 1: Gradient descent print(\"\\n1. Testing gradient_descent:\")def f(x): return (x - 3)**2 # Minimum at x ="
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_02/notebook_02_why_how_after.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 11,
+          "offset": 23,
+          "message": "unindent does not match any outer indentation level",
+          "text": " return (x - 3)**2 + 2\n",
+          "source_preview": "# Example: Why Calculus matters in ML\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# Example: Understanding loss functions and optimization\n# In ML, we want to minimize a loss function\ndef simp"
+        },
+        {
+          "cell_index": 4,
+          "line": 41,
+          "offset": 46,
+          "message": "unindent does not match any outer indentation level",
+          "text": " return 2*x + y # d/dx(x\u00b2 + y\u00b2 + xy) = 2x + y\n",
+          "source_preview": "# Example: Basic Calculus Operations in Python for ML\n# This shows HOW each calculus concept works and WHY it's used\n\nimport numpy as np\nfrom scipy.optimize import approx_fprime\n# Note: scipy.misc.der"
+        },
+        {
+          "cell_index": 8,
+          "line": 10,
+          "offset": 14,
+          "message": "unindent does not match any outer indentation level",
+          "text": " results = {}\n",
+          "source_preview": "# Example: Understanding the Results and Implications\n\nimport numpy as np\n\n# Example: Analyzing gradient descent convergence\ndef analyze_convergence(learning_rates):\n \n    \n    \"\"\"Analyze how differen"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_02/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 5,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "h    pass\n",
+          "source_preview": "# Complete solution:\n# import numpy as np\nfrom scipy.misc import derivative\ndef compute_derivative(func, x, h=1e-6):        # # SOLUTION: Implement numerical derivative    # Formula: (f(x+h) - f(x))\nh"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_02/solutions/solution_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 3,
+          "offset": 114,
+          "message": "invalid syntax",
+          "text": "def gradient_descent(func, gradient_func, initial_x, learning_rate=0.1, iterations=100):        x = initial_x    history = [x]        # # SOLUTION: Implement gradient descent loop    # For each iteration:    #   1. Compute gradient at current point    #   2. Update: x = x - learning_rate * gradient    #   3. Store x in history       return x, history\n",
+          "source_preview": "# Complete solution:\n# import numpy as np\ndef gradient_descent(func, gradient_func, initial_x, learning_rate=0.1, iterations=100):        x = initial_x    history = [x]        # # SOLUTION: Implement "
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_03/examples/01_optimizers_comparison.ipynb",
+      "errors": [
+        {
+          "cell_index": 12,
+          "line": 21,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        v_hat = self.v\n",
+          "source_preview": "import numpy as np\n# Example 2: Adam Optimizer\n# WHY: Adapts to each parameter, handles noise better\n# HOW: Tracks momentum + variance, adapts learning rate\n\nclass AdamOptimizer:\n    def __init__(self"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_03/examples/03_statistical_measures.ipynb",
+      "errors": [
+        {
+          "cell_index": 10,
+          "line": 14,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    return {'MSE': mse, 'RMSE': rmse, 'MAE': mae, 'R\u00b2': r2}\n",
+          "source_preview": "import numpy as np\n# Example 1: Statistical Measures\n# WHY: Need objective way to evaluate models\n# HOW: Compute error metrics\n\ndef calculate_statistics(predictions, targets):\n    \"\"\"Calculate statist"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_03/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 1,
+          "offset": 25,
+          "message": "invalid syntax",
+          "text": "import numpy as npclass SimpleGDOptimizer:  def __init__(self, lr=0.01): self.lr = lr  def update(self, params, grads):  # TODO: Implement simple gradient descent update passclass MomentumOptimizer:  def __init__(self, lr=0.01, momentum=0.9): self.lr = lr self.momentum = momentum self.velocity = None  def update(self, params, grads):  # TODO: Initialize velocity if first call # TODO: Update velocity: v = momentum * v + lr * grads # TODO: Update params: params = params - velocity passdef compare_optimizers(loss_func, grad_func, initial_params, optimizers, iterations=100):  results = {}  # TODO: For each optimizer: # 1. Start with initial_params # 2. Run for 'iterations' steps # 3. Store final parameters  return results# Test your solution\n",
+          "source_preview": "import numpy as npclass SimpleGDOptimizer:  def __init__(self, lr=0.01): self.lr = lr  def update(self, params, grads):  # TODO: Implement simple gradient descent update passclass MomentumOptimizer:  "
+        },
+        {
+          "cell_index": 6,
+          "line": 1,
+          "offset": 82,
+          "message": "invalid syntax",
+          "text": "if __name__ == \"__main__\": print(\"Testing Exercise 01: Optimization Algorithms\") print(\"=\" * 60)  # Test 1: Simple GD print(\"\\n1. Testing SimpleGDOptimizer:\") def loss(x): return (x - 3)**2  def grad(x): return 2 * (x - 3)  optimizer = SimpleGDOptimizer(lr=0.1) x = 5.0 for i in range(20): g = grad(x) x = optimizer.update(x, g)  print(f\" Starting: 5.0, Final: {x:.4f}, Target: 3.0\") assert abs(x - 3) < 0.5, \"Should converge close to 3\" print(\" \u2705 Passed!\")  # Test 2: Momentum print(\"\\n2. Testing MomentumOptimizer:\") momentum_opt = MomentumOptimizer(lr=0.1, momentum=0.9) x = 5.0 for i in range(20): g = grad(x) x = momentum_opt.update(x, g)  print(f\" Starting: 5.0, Final: {x:.4f}, Target: 3.0\") assert abs(x - 3) < 0.5, \"Should converge close to 3\" print(\" \u2705 Passed!\")  print(\"\\n\" + \"=\" * 60) print(\"\ud83c\udf89 All tests passed!\")\n",
+          "source_preview": "if __name__ == \"__main__\": print(\"Testing Exercise 01: Optimization Algorithms\") print(\"=\" * 60)  # Test 1: Simple GD print(\"\\n1. Testing SimpleGDOptimizer:\") def loss(x): return (x - 3)**2  def grad("
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_03/exercises/exercise_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 7,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "E\n",
+          "source_preview": "import numpy as np\n\n\ndef calculate_mse(predictions, targets):\n \n # TODO: Calculate MS\nE\n # Formula: mean((predictions - targets)^2)\n pass\n\n\ndef calculate_rmse(predictions, targets):\n \n # TODO: Calcula"
+        },
+        {
+          "cell_index": 6,
+          "line": 1,
+          "offset": 78,
+          "message": "invalid syntax",
+          "text": "if __name__ == \"__main__\": print(\"Testing Exercise 02: Statistical Measures\")print(\"=\" * 60)  # Test data predictions = np.array([2.1, 3.2, 4.0, 5.1, 6.0])targets = np.array([2.0, 3.0, 4.0, 5.0, 6.0])  # Test 1: MSE print(\"\\n1. Testing calculate\\n_mse:\")mse = calculate_mse(predictions, targets)expected = np.mean((predictions - targets)**2) print(f\" MSE: {mse:.4 f}\")print(f\" Expected: {expected:.4 f}\")assert np.isclose(mse, expected), \"MSE incorrect\" print(\" \u2705 Passed!\")  # Test 2: RMSE print(\"\\n2. Testing calculate\\n_rmse:\")rmse = calculate_rmse(predictions, targets)expected = np.sqrt(expected)print(f\" RMSE: {rmse:.4 f}\")print(f\" Expected: {expected:.4 f}\")assert np.isclose(rmse, expected), \"RMSE incorrect\" print(\" \u2705 Passed!\")  # Test 3: R\u00b2 print(\"\\n3. Testing calculate\\n_r2\\n_score:\")r2 = calculate_r2_score(predictions, targets)print(f\" R\u00b2: {r2:.4 f}\")print(f\" Expected: close to 1.0 (perfect predictions)\") assert r2 > 0.9, \"R\u00b2 should be high for good predictions\" print(\" \u2705 Passed!\")  # Test 4: Comprehensive evaluation print(\"\\n4. Testing evaluate_model:\")metrics = evaluate_model(predictions, targets)print(f\" All metrics: {metrics}\")assert 'MSE' in metrics and 'RMSE' in metrics and 'R\u00b2' in metricsprint(\" \u2705 Passed!\")print(\"\\n\" + \"=\" * 60)print(\"\ud83c\udf89 All tests passed!\")\n",
+          "source_preview": "if __name__ == \"__main__\": print(\"Testing Exercise 02: Statistical Measures\")print(\"=\" * 60)  # Test data predictions = np.array([2.1, 3.2, 4.0, 5.1, 6.0])targets = np.array([2.0, 3.0, 4.0, 5.0, 6.0])"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_03/notebook_03_why_how_after.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 46,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        v_hat = self.v\n",
+          "source_preview": "# Example: Optimization and Statistics in Python for ML\n# This shows HOW optimizers work and WHY we use different ones\n\nimport numpy as np\nfrom scipy import stats\n\nprint(\"=\" * 60)\nprint(\"HOW Optimizat"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_03/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 5,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def __init__(self, lr=0.01):        self.lr = lr        def update(self, params, grads):                # # SOLUTION: Implement simple gradient descent update        pass\n",
+          "source_preview": "# Complete solution:\n# import numpy as np\nclass SimpleGDOptimizer:        \n\ndef __init__(self, lr=0.01):        self.lr = lr        def update(self, params, grads):                # # SOLUTION: Implem"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_03/solutions/solution_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 4,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def calculate_rmse(predictions, targets):        # # SOLUTION: Calculate RMSE    # Formula: sqrt(MSE)    pass\n",
+          "source_preview": "# Complete solution:\n# import numpy as np\ndef calculate_mse(predictions, targets):        # # SOLUTION: Calculate MSE    # Formula: mean((predictions - targets)^2)    pass\ndef calculate_rmse(predictio"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_04/examples/02_curse_dimensionality.ipynb",
+      "errors": [
+        {
+          "cell_index": 10,
+          "line": 8,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Volume of unit cube\n",
+          "source_preview": "# Example 1: Curse of Dimensionality\n# WHY: High dimensions cause problems\n# HOW: Volume increases exponentially\n\ndef volume_ratio(dimensions):\n    \"\"\"Volume ratio in unit hypercube\"\"\"\n    # Volume of"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_04/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 14,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "A\n",
+          "source_preview": "import numpy as np\n\n\ndef compute_covariance_matrix(data):\n \n # TODO: Compute covariance matrix\n # Hint: Center data first (subtract mean), then compute covariance\n pass\n\n\ndef pca_from_scratch(data, n_"
+        },
+        {
+          "cell_index": 6,
+          "line": 1,
+          "offset": 62,
+          "message": "invalid syntax",
+          "text": "if __name__ == \"__main__\": print(\"Testing Exercise 01: PCA\") print(\"=\" * 60)  # Create sample data np.random.seed(42) data = np.random.randn(100, 10)  # Test 1: Covariance matrix print(\"\\n1. Testing compute\\n_covariance_matrix:\") cov = compute_covariance_matrix(data) print(f\" Data shape: {data.shape}\") print(f\" Covariance shape: {cov.shape}\") assert cov.shape == (10, 10), \"Covariance should be square\" assert np.allclose(cov, cov.T), \"Covariance should be symmetric\" print(\" \u2705 Passed!\")  # Test 2: PCA print(\"\\n2. Testing pca\\n_from_scratch:\") reduced, variance_ratio = pca_from_scratch(data, n_components=2) print(f\" Original shape: {data.shape}\") print(f\" Reduced shape: {reduced.shape}\") print(f\" Variance explained: {variance_ratio:.2%}\") assert reduced.shape == (100, 2), \"Should reduce to 2 dimensions\" assert 0 <= variance_ratio <= 1, \"Variance ratio should be between 0 and 1\" print(\" \u2705 Passed!\")  print(\"\\n\" + \"=\" * 60) print(\"\ud83c\udf89 All tests passed!\")\n",
+          "source_preview": "if __name__ == \"__main__\": print(\"Testing Exercise 01: PCA\") print(\"=\" * 60)  # Create sample data np.random.seed(42) data = np.random.randn(100, 10)  # Test 1: Covariance matrix print(\"\\n1. Testing c"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_04/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 4,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def pca_from_scratch(data, n_components=2):        # # SOLUTION: Implement PCA    # Steps:    # 1. Center the data (subtract mean)    # 2. Compute covariance matrix    # 3. Find eigenvalues and eigenvectors    # 4. Sort by eigenvalues (descending)    # 5. Select top n_components    # 6. Project data: reduced = data @ eigenvectors    # 7. Calculate explained variance ratio    pass\n",
+          "source_preview": "# Complete solution:\n# import numpy as np\ndef compute_covariance_matrix(data):        # # SOLUTION: Compute covariance matrix    # Hint: Center data first (subtract mean), then compute covariance    p"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_05/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 9,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "s:\n",
+          "source_preview": "import numpy as np\nfrom scipy import stats\n\n\ndef compute_confidence_interval(data, confidence=0.95):\n \n # TODO: Compute confidence interval\n # Step\ns:\n # 1. Calculate sample mean and standard erro\nr\n "
+        },
+        {
+          "cell_index": 6,
+          "line": 1,
+          "offset": 80,
+          "message": "invalid syntax",
+          "text": "if __name__ == \"__main__\": print(\"Testing Exercise 01: Statistical Inference\") print(\"=\" * 60)  # Test data np.random.seed(42) sample1 = np.random.normal(0.85, 0.02, 100) sample2 = np.random.normal(0.87, 0.02, 100)  # Test 1: Confidence interval print(\"\\n1. Testing compute\\n_confidence_interval:\") ci = compute_confidence_interval(sample1, confidence=0.95) mean = np.mean(sample1) print(f\" Sample mean: {mean:.4 f}\") print(f\" 95% CI: [{ci[0]:.4f}, {ci[1]:.4f}]\") assert ci[0] < mean < ci[1], \"Mean should be in CI\" print(\" \u2705 Passed!\")  # Test 2: t-test print(\"\\n2. Testing t\\n_test_two_samples:\") t_stat, p_value = t_test_two_samples(sample1, sample2) print(f\" t-statistic: {t_stat:.4f}\") print(f\" p-value: {p_value:.4f}\") assert isinstance(t_stat, float) and isinstance(p_value, float) print(\" \u2705 Passed!\")  # Test 3: Interpretation print(\"\\n3. Testing interpret\\n_p\\n_value:\") interpretation = interpret_p_value(p_value) print(f\" Interpretation: {interpretation}\") print(\" \u2705 Passed!\")  print(\"\\n\" + \"=\" * 60) print(\"\ud83c\udf89 All tests passed!\")\n",
+          "source_preview": "if __name__ == \"__main__\": print(\"Testing Exercise 01: Statistical Inference\") print(\"=\" * 60)  # Test data np.random.seed(42) sample1 = np.random.normal(0.85, 0.02, 100) sample2 = np.random.normal(0."
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_05/notebook_05_why_how_after.ipynb",
+      "errors": [
+        {
+          "cell_index": 7,
+          "line": 5,
+          "offset": 21,
+          "message": "invalid syntax",
+          "text": "import pandas as pd as np\n",
+          "source_preview": "# Example: Visualizing Probability Distributions and Statistical Inference\n# This demonstrates HOW to visualize and interpret statistical concepts\n\nimport numpy as np\nimport pandas as pd as np\nfrom sc"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/modules/module_05/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 5,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def t_test_two_samples(sample1, sample2):        # # SOLUTION: Perform two-sample t-test    # Use scipy.stats.ttest_ind()    pass\n",
+          "source_preview": "# Complete solution:\n# import numpy as np\nfrom scipy import stats\ndef compute_confidence_interval(data, confidence=0.95):        # # SOLUTION: Compute confidence interval    # Steps:    # 1. Calculate"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/unit1-linear-algebra/examples/04_substitution_elimination_linear_equations.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 21,
+          "offset": 5,
+          "message": "invalid syntax",
+          "text": "a2 (if a2 != 0)\n",
+          "source_preview": "print(\"=\" * 60)\nprint(\"Part 1: Substitution Method\")\nprint(\"=\" * 60)\n\n# Example: Solve 2x + y = 5, x - y = 1\n# Step 1: From second equation: x = 1 + y\n# Step 2: Substitute into first: 2(1 + y) + y = 5"
+        },
+        {
+          "cell_index": 5,
+          "line": 35,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        for k in range(i+1, n):\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: Elimination Method (Gaussian Elimination)\")\nprint(\"=\" * 60)\n\ndef gaussian_elimination(A, b):\n    \"\"\"\n    Solve Ax = b using Gaussian elimination.\n    A: coefficie"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/unit2-calculus/examples/04_backpropagation_neural_networks.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 34,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        db2 = np.sum(dz2, axis=0, keepdims=True)\n",
+          "source_preview": "# Simple 2-layer neural network class with backpropagation\nclass SimpleNeuralNetwork:\n    def __init__(self, input_size, hidden_size, output_size, learning_rate=0.1):\n        \"\"\"Initialize neural netw"
+        },
+        {
+          "cell_index": 7,
+          "line": 31,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        it.iternext()\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: Understanding the Chain Rule in Backpropagation\")\nprint(\"=\" * 60)\n\nprint(\"\\nThe chain rule allows us to compute gradients through nested functions:\")\nprint(\"\\nFor"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/unit3-optimization/examples/01_optimizers_comparison.ipynb",
+      "errors": [
+        {
+          "cell_index": 12,
+          "line": 20,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        v_hat = self.v\n",
+          "source_preview": "# Example 2: Adam Optimizer\n# WHY: Adapts to each parameter, handles noise better\n# HOW: Tracks momentum + variance, adapts learning rate\n\nclass AdamOptimizer:\n    def __init__(self, lr=0.1, beta1=0.9"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/unit3-optimization/examples/03_statistical_measures.ipynb",
+      "errors": [
+        {
+          "cell_index": 10,
+          "line": 13,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    return {'MSE': mse, 'RMSE': rmse, 'MAE': mae, 'R\u00b2': r2}\n",
+          "source_preview": "# Example 1: Statistical Measures\n# WHY: Need objective way to evaluate models\n# HOW: Compute error metrics\n\ndef calculate_statistics(predictions, targets):\n    \"\"\"Calculate statistical measures\"\"\"\n  "
+        }
+      ]
+    },
+    {
+      "path": "Course 03/unit4-dimensionality-reduction/examples/02_curse_dimensionality.ipynb",
+      "errors": [
+        {
+          "cell_index": 10,
+          "line": 8,
+          "offset": 8,
+          "message": "invalid syntax",
+          "text": "Volume of unit cube\n",
+          "source_preview": "# Example 1: Curse of Dimensionality\n# WHY: High dimensions cause problems\n# HOW: Volume increases exponentially\n\ndef volume_ratio(dimensions):\n    \"\"\"Volume ratio in unit hypercube\"\"\"\n    # Volume of"
+        }
+      ]
+    },
+    {
+      "path": "Course 03/unit5-probability/examples/08_pvalues_confidence_intervals.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 23,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "np.sqrt(sample_size))\n",
+          "source_preview": "import pandas as pd\nprint(\"=\" * 60)\nprint(\"Part 1: Computing P-values\")\nprint(\"=\" * 60)\n\n# Generate sample data\nnp.random.seed(42)\ntrue_mean = 50\nsample_size = 30\nsample = np.random.normal(true_mean, "
+        },
+        {
+          "cell_index": 5,
+          "line": 12,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "np.sqrt(sample_size))\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: Computing Confidence Intervals\")\nprint(\"=\" * 60)\n\n# Confidence interval for mean (t-interval)\nconfidence_level = 0.95\nalpha = 1 - confidence_level\n\n# Calculate CI"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/examples/02_data_cleaning.ipynb",
+      "errors": [
+        {
+          "cell_index": 9,
+          "line": 30,
+          "offset": 54,
+          "message": "EOL while scanning string literal",
+          "text": "print(f\"   Percentage missing: {(missing_before.sum()\n",
+          "source_preview": "# First, let's see how many missing values we have\nprint(\"\\n\" + \"=\" * 60)\nprint(\"2. Handling Missing Values\")\nprint(\"\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0642\u064a\u0645 \u0627\u0644\u0645\u0641\u0642\u0648\u062f\u0629\")\nprint(\"=\" * 60)\n\n# Note: df has been modified (duplicates a"
+        },
+        {
+          "cell_index": 10,
+          "line": 25,
+          "offset": 37,
+          "message": "EOL while scanning string literal",
+          "text": "print(f\"   Data loss: {(rows_removed\n",
+          "source_preview": "# Method 1: Remove rows with missing values\n# .dropna() removes any row that has at least one missing value\n# Why use this? If missing values are rare, it's better to remove than guess\n\nprint(\"\\n--- M"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/examples/05_polynomial_regression.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 11,
+          "offset": 12,
+          "message": "invalid syntax",
+          "text": " df_full = # File not found: ../../datasets/raw/us_accidents.csv\n",
+          "source_preview": "import pandas as pd\n# Load real-world US Accidents dataset for Traffic Management\n# GDI Theme: Traffic Management - Understanding how visibility affects accident impact distance\n\nprint(\"\\n\ud83d\udce5 Loading US"
+        },
+        {
+          "cell_index": 8,
+          "line": 28,
+          "offset": 46,
+          "message": "EOL while scanning string literal",
+          "text": "print(\" - A straight line (linear regression)\n",
+          "source_preview": "# Visualize the data FIRST to see the relationship\n# This scatter plot shows us that the relationship is CURVED, not linear!\n# We can see this visually BEFORE trying any models\n\nprint(\"\\n\" + \"=\" * 60)"
+        },
+        {
+          "cell_index": 9,
+          "line": 20,
+          "offset": 34,
+          "message": "EOL while scanning string literal",
+          "text": "print(\" The low R\u00b2 score ({:.4f})\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"2. Linear Regression (Baseline)\")\nprint(\"\u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u062e\u0637\u064a (\u062e\u0637 \u0627\u0644\u0623\u0633\u0627\u0633)\")\nprint(\"=\" * 60)\n\n# Try linear regression on non-linear data\n# As we saw in the visualization above, "
+        },
+        {
+          "cell_index": 11,
+          "line": 42,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "linear_mse) * 100\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"3. Polynomial Regression - Degree 2\")\nprint(\"\u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u062d\u062f\u0648\u062f - \u0627\u0644\u062f\u0631\u062c\u0629 2\")\nprint(\"=\" * 60)\n\n# Create polynomial features of degree 2\n# PolynomialFeatures transforms:"
+        },
+        {
+          "cell_index": 12,
+          "line": 28,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "linear_mse) * 100\n",
+          "source_preview": "# 4. Polynomial Regression - Degree 3\n# \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u062d\u062f\u0648\u062f - \u0627\u0644\u062f\u0631\u062c\u0629 3\nprint(\"\\n\" + \"=\" * 60)\nprint(\"4. Polynomial Regression - Degree 3\")\nprint(\"\u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u062d\u062f\u0648\u062f - \u0627\u0644\u062f\u0631\u062c\u0629 3\")\nprint(\"=\" * 60)\np"
+        },
+        {
+          "cell_index": 16,
+          "line": 16,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " print(f\" - Gap: {train_test_r2_gap:.4f} (large gap indicates overfitting)\")\n",
+          "source_preview": "# Test metrics - check if degree 10 generalizes well or overfits\npoly10_mse = mean_squared_error(y_test, y_pred_poly_10)\npoly10_r2 = r2_score(y_test, y_pred_poly_10)\nprint(f\"Training MSE: {train_mse_1"
+        },
+        {
+          "cell_index": 17,
+          "line": 50,
+          "offset": 48,
+          "message": "EOL while scanning string literal",
+          "text": "print(f\" - BUT: Higher degrees (like degree 10)\n",
+          "source_preview": "# 6. Comparison Table\n# \u062c\u062f\u0648\u0644 \u0627\u0644\u0645\u0642\u0627\u0631\u0646\u0629\nprint(\"\\n\" + \"=\" * 60)\nprint(\"6. Model Comparison\")\nprint(\"\u0645\u0642\u0627\u0631\u0646\u0629 \u0627\u0644\u0646\u0645\u0627\u0630\u062c\")\nprint(\"=\" * 60)\n# pd.DataFrame(data)\n# - pd.DataFrame(): Creates pandas DataFrame (2D "
+        },
+        {
+          "cell_index": 19,
+          "line": 3,
+          "offset": 12,
+          "message": "invalid syntax",
+          "text": "for smooth curve visualization\n",
+          "source_preview": "# Create smooth line for plotting\n# Use the actual range of our data (Horsepower values)\nfor smooth curve visualization\nX_min, X_max = X.min(), X.max()\nX_plot = np.linspace(X_min, X_max, 200).reshape("
+        },
+        {
+          "cell_index": 23,
+          "line": 23,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " model.fit(X_train_poly, y_train)\n",
+          "source_preview": "# 8. Finding Optimal Degree\n# \u0625\u064a\u062c\u0627\u062f \u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0645\u062b\u0644\u0649\nprint(\"\\n\" + \"=\" * 60)\nprint(\"8. Finding Optimal Polynomial Degree\")\nprint(\"\u0625\u064a\u062c\u0627\u062f \u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0645\u062b\u0644\u0649 \u0644\u0645\u062a\u0639\u062f\u062f \u0627\u0644\u062d\u062f\u0648\u062f\")\nprint(\"=\" * 60)\ndegrees = range(1, 11)"
+        },
+        {
+          "cell_index": 25,
+          "line": 9,
+          "offset": 5,
+          "message": "cannot assign to operator",
+          "text": "for train and test sets\n",
+          "source_preview": "# 9. Visualizing the Bias-Variance Tradeoff\n# \u062a\u0635\u0648\u0631 \u0627\u0644\u0645\u0642\u0627\u064a\u0636\u0629 \u0628\u064a\u0646 \u0627\u0644\u062a\u062d\u064a\u0632 \u0648\u0627\u0644\u062a\u0628\u0627\u064a\u0646\nprint(\"\\n\" + \"=\" * 60)\nprint(\"9. Visualizing the Bias-Variance Tradeoff\")\nprint(\"\u062a\u0635\u0648\u0631 \u0627\u0644\u0645\u0642\u0627\u064a\u0636\u0629 \u0628\u064a\u0646 \u0627\u0644\u062a\u062d\u064a\u0632 \u0648\u0627\u0644\u062a\u0628\u0627\u064a\u0646\")\npri"
+        },
+        {
+          "cell_index": 29,
+          "line": 5,
+          "offset": 62,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"\\n\ud83c\udfaf Next Step: Move to Unit 2 (Ridge/Lasso Regression)\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Example 5 Complete! \u2713\")\nprint(\"\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u0645\u062b\u0627\u0644 5! \u2713\")\nprint(\"=\" * 60)\nprint(\"\\n\ud83c\udfaf Next Step: Move to Unit 2 (Ridge/Lasso Regression)\nto see how they solve the overfitting pro"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/examples/06_ridge_lasso_regression.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 11,
+          "offset": 26,
+          "message": "invalid syntax",
+          "text": "scaler = StandardScaler()_X_train_scaled =  scaler.fit_transform(X_train)\n",
+          "source_preview": "# Generate sample data with multiple features_np.random.seed(42)\nn_samples = 100\n\n# Create features with some correlation_X = np.random.randn(n_samples, 5)\n# Target: linear combination with noise_y = "
+        },
+        {
+          "cell_index": 3,
+          "line": 7,
+          "offset": 33,
+          "message": "invalid syntax",
+          "text": "ols.fit(X_train_scaled, y_train)_ols_pred =  ols.predict(X_test_scaled)\n",
+          "source_preview": "# Compare: Ordinary Least Squares (OLS), Ridge, Lasso_\nprint(\"=\" * 60)\nprint(\"Comparing Regression Models:\")\nprint(\"=\" * 60)\n\n# OLS_ols = LinearRegression()\nols.fit(X_train_scaled, y_train)_ols_pred ="
+        },
+        {
+          "cell_index": 5,
+          "line": 2,
+          "offset": 17,
+          "message": "invalid syntax",
+          "text": "ridge_coefs = []_lasso_coefs =  []\n",
+          "source_preview": "# Test different alpha values_alphas = np.logspace(-4, 2, 50)\nridge_coefs = []_lasso_coefs =  []\nlasso_coefs = []_ridge_scores =  []\nridge_scores = []_lasso_scores =  []\nlasso_scores = []\n\nfor alpha i"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/examples/07_svr_decision_tree_regression.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 3,
+          "offset": 30,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection \n",
+          "source_preview": "import numpy as np\nimport pandas as pd\nfrom sklearn.model_selection \nimport train_test_split\nfrom sklearn.svm \nimport SVR\nfrom sklearn.tree \nimport DecisionTreeRegressor\nfrom sklearn.ensemble \nimport "
+        },
+        {
+          "cell_index": 2,
+          "line": 2,
+          "offset": 48,
+          "message": "invalid syntax",
+          "text": "X = np.sort(5 * np.random.rand(100, 1), axis=0)_y =  np.sin(X).ravel() + 0.1 * np.random.randn(100)\n",
+          "source_preview": "# Generate non-linear data_np.random.seed(42)\nX = np.sort(5 * np.random.rand(100, 1), axis=0)_y =  np.sin(X).ravel() + 0.1 * np.random.randn(100)\ny = np.sin(X).ravel() + 0.1 * np.random.randn(100)\n\nX_"
+        },
+        {
+          "cell_index": 4,
+          "line": 10,
+          "offset": 37,
+          "message": "invalid syntax",
+          "text": "    svr.fit(X_train_scaled, y_train)_y_pred =  svr.predict(X_test_scaled)\n",
+          "source_preview": "# SVR with different kernels_kernels = ['linear', 'rbf', 'poly']\nsvr_models = {}\n\nprint(\"=\" * 60)\nprint(\"SVR Models with Different Kernels:\")\nprint(\"=\" * 60)\n\nfor kernel in kernels:\n    svr = SVR(kern"
+        },
+        {
+          "cell_index": 6,
+          "line": 2,
+          "offset": 25,
+          "message": "invalid syntax",
+          "text": "dt.fit(X_train, y_train)_dt_pred =  dt.predict(X_test)\n",
+          "source_preview": "# Decision Tree Regressor_dt = DecisionTreeRegressor(max_depth=5, random_state=42)\ndt.fit(X_train, y_train)_dt_pred =  dt.predict(X_test)\ndt_pred = dt.predict(X_test)_dt_mse =  mean_squared_error(y_te"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/examples/comparing_regression_algorithms_on_real_datasets.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/examples/implementing_decision_tree_and_random_forest_regression.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/examples/visualizing_regression_results_and_residuals.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 3,
+          "offset": 40,
+          "message": "invalid syntax",
+          "text": "import matplotlib.pyplot as plti_mport seaborn as sn\n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plti_mport seaborn as sn"
+        },
+        {
+          "cell_index": 3,
+          "line": 3,
+          "offset": 398,
+          "message": "invalid syntax",
+          "text": "data = { 'product_id': range(1, 101), 'product_name': [f'Product__{i}' for i in range(1, 101)], 'category': np.random.choice(['Electronics', 'Clothing', 'Food', 'Books', 'Sports'], 100), 'price': np.random.uniform(10, 500, 100), 'quantity_sold': np.random.randint(10, 1000, 100), 'customer_rating': np.random.uniform(1, 5, 100), 'month': np.random.choice(['Jan', 'Feb', 'Mar', 'Apr', 'May'], 100)}_df =  pd.DataFrame(data)\n",
+          "source_preview": "import pandas as pd\n# Sample dataset - Sales data# \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0646\u0645\u0648\u0630\u062c\u064a\u0629 - \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062an_p.random.seed(42)\ndata = { 'product_id': range(1, 101), 'product_name': [f'Product__{i}' for i in range(1, 101)"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/exercises/exercise_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 4,
+          "offset": 41,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection import rom train_test_split\n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as pltf\nfrom sklearn.model_selection import rom train_test_split\nfrom sklearn.linear_model import LinearRegression\nfrom sklearn.metrics "
+        },
+        {
+          "cell_index": 3,
+          "line": 3,
+          "offset": 48,
+          "message": "invalid syntax",
+          "text": "house_sizes = np.random.uniform(800, 4000, 150)_house_prices =  45 * house_sizes + 80000 + np.random.normal(0, 35000, 150)\n",
+          "source_preview": "import pandas as pd\n# Generate sample housing data_np.random.seed(42)\nhouse_sizes = np.random.uniform(800, 4000, 150)_house_prices =  45 * house_sizes + 80000 + np.random.normal(0, 35000, 150)\nhouse_p"
+        },
+        {
+          "cell_index": 14,
+          "line": 1,
+          "offset": 41,
+          "message": "invalid syntax",
+          "text": "print(\"\\nTask 5: Predict for new sizes\")_new_sizes =  [[1000], [2000], [3000]]\n",
+          "source_preview": "print(\"\\nTask 5: Predict for new sizes\")_new_sizes =  [[1000], [2000], [3000]]\nnew_sizes = [[1000], [2000], [3000]]\n# Your code here...\nprint(\"\\nExercise 2 Complete!\")\nprint(\"\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u0645\u0631\u064a\u0646 2!\")"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/exercises/exercise_04_data_preprocessing.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 6,
+          "offset": 46,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"   GDI Theme: Financial Investigations\n",
+          "source_preview": "# Set random seed for reproducibility_np.random.seed(73)\n\n# Generate sample financial transaction data (GDI Theme: Financial Investigations)\nprint(\"\ud83d\udce5 Generating sample financial transaction data...\")\n"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 3,
+          "offset": 16,
+          "message": "invalid syntax",
+          "text": "Dataset: Sales data for a retail stor_e\"\"\"\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 1 - Exercise 1: Data Processing Practice\u0623\u0633\u0627\u0644\u064a\u0628 \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0645\u0627\u0631\u0633\u0629 \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062aInstructions:1. Load the sample dataset provided below2. Explore the data"
+        },
+        {
+          "cell_index": 4,
+          "line": 3,
+          "offset": 398,
+          "message": "invalid syntax",
+          "text": "data = { 'product_id': range(1, 101), 'product_name': [f'Product__{i}' for i in range(1, 101)], 'category': np.random.choice(['Electronics', 'Clothing', 'Food', 'Books', 'Sports'], 100), 'price': np.random.uniform(10, 500, 100), 'quantity_sold': np.random.randint(10, 1000, 100), 'customer_rating': np.random.uniform(1, 5, 100), 'month': np.random.choice(['Jan', 'Feb', 'Mar', 'Apr', 'May'], 100)}_df =  pd.DataFrame(data)\n",
+          "source_preview": "import pandas as pd\n# Sample dataset - Sales data# \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0646\u0645\u0648\u0630\u062c\u064a\u0629 - \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062anp.random.seed(42)\ndata = { 'product_id': range(1, 101), 'product_name': [f'Product__{i}' for i in range(1, 101)]"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/solutions/solution_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 3,
+          "offset": 29,
+          "message": "invalid syntax",
+          "text": "import matplotlib.pyplot as \n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as \nfrom sklearn.model_selection import plt\nfrom from sklearn.linear_model import train_test_split\nfrom from sklearn.metrics import Line"
+        },
+        {
+          "cell_index": 4,
+          "line": 3,
+          "offset": 48,
+          "message": "invalid syntax",
+          "text": "house_sizes = np.random.uniform(800, 4000, 150)_house_prices =  45 * house_sizes + 80000 + np.random.normal(0, 35000, 150)\n",
+          "source_preview": "import pandas as pd\n# Generate sample housing datanp.random.seed(42)\nhouse_sizes = np.random.uniform(800, 4000, 150)_house_prices =  45 * house_sizes + 80000 + np.random.normal(0, 35000, 150)\nhouse_pr"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/solutions/solution_03_polynomial_regression.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 11,
+          "offset": 21,
+          "message": "invalid syntax",
+          "text": "print(\"\\n\" + \"=\"*60)print(\"Task 3: Polynomial Regression (degree=2)\")print(\"=\"*60)# Use PolynomialFeatures with degree=2# Train and evaluate# Your code here...# Task 4: Train polynomial regression with degree 5\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 1 - Exercise 3: Polynomial Regression Practice\u0623\u0633\u0627\u0644\u064a\u0628 \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a - \u062a\u0645\u0631\u064a\u0646 3: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u062d\u062f\u0648\u062fInstructions:1. Load the provided dataset2. Create polynomial"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit1-data-processing/solutions/solution_04_data_preprocessing.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 6,
+          "offset": 46,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"   GDI Theme: Financial Investigations\n",
+          "source_preview": "# Set random seed for reproducibility_np.random.seed(73)\n\n# Generate sample financial transaction data (GDI Theme: Financial Investigations)\nprint(\"\ud83d\udce5 Generating sample financial transaction data...\")\n"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/01_ridge_lasso_regression.ipynb",
+      "errors": [
+        {
+          "cell_index": -1,
+          "error": "Failed to read notebook: Expecting value: line 1357 column 1 (char 66122)"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/02_cross_validation.ipynb",
+      "errors": [
+        {
+          "cell_index": 23,
+          "line": 59,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    if std_ratio < 0.1:\n",
+          "source_preview": "import pandas as pd\n# 4. Comparing Different Models with Cross-Validation\nprint(\"\\n\" + \"=\" * 60)\nprint(\"4. Comparing Different Models with Cross-Validation\")\nprint(\"\u0645\u0642\u0627\u0631\u0646\u0629 \u0646\u0645\u0627\u0630\u062c \u0645\u062e\u062a\u0644\u0641\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u062a\u062d\u0642\u0642"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/03_bias_variance_learning_curves.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 3,
+          "offset": 30,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection \n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\nfrom sklearn.model_selection \nimport learning_curve, validation_curve\nfrom sklearn.linear_model \nimport LinearRegression\nfrom sklearn.preprocessing \n"
+        },
+        {
+          "cell_index": 2,
+          "line": 2,
+          "offset": 43,
+          "message": "invalid syntax",
+          "text": "X = np.linspace(0, 10, 100).reshape(-1, 1)_y =  np.sin(X).ravel() + 0.3 * np.random.randn(100)\n",
+          "source_preview": "# Generate sample data_np.random.seed(42)\nX = np.linspace(0, 10, 100).reshape(-1, 1)_y =  np.sin(X).ravel() + 0.3 * np.random.randn(100)\ny = np.sin(X).ravel() + 0.3 * np.random.randn(100)\n\nprint(f\"Dat"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/04_regression_evaluation_metrics.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "from sklearn.metrics \n",
+          "source_preview": "import numpy as np\nfrom sklearn.metrics \nimport mean_squared_error, mean_absolute_error, r2_score_\nprint(\"\u2705 Libraries imported!\")\nprint(\"\\nRegression Evaluation Metrics\")\nprint(\"=\" * 60)\n\nprint(\"\\nMSE"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/05_leave_one_out_stratified_cv.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 30,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection \n",
+          "source_preview": "import numpy as np\nfrom sklearn.model_selection \nimport LeaveOneOut, StratifiedKFold, cross_val_score\nfrom sklearn.linear_model \nimport LinearRegression_\nprint(\"\u2705 Libraries imported!\")\nprint(\"\\nLeave-"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/06_overfitting_underfitting_handling.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 3,
+          "offset": 30,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection \n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\nfrom sklearn.model_selection \nimport learning_curve\nfrom sklearn.linear_model \nimport LinearRegression, Ridge\nfrom sklearn.tree \nimport DecisionTreeR"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/07_optimal_model_complexity.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 30,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection \n",
+          "source_preview": "import numpy as np\nfrom sklearn.model_selection \nimport validation_curve, GridSearchCV\nfrom sklearn.tree \nimport DecisionTreeRegressor\nfrom sklearn.linear_model \nimport Ridge_\nprint(\"\u2705 Libraries impor"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/08_comparing_model_performance.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 4,
+          "offset": 27,
+          "message": "invalid syntax",
+          "text": "from sklearn.linear_model \n",
+          "source_preview": "import numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\nfrom sklearn.linear_model \nimport LinearRegression, Ridge, Lasso\nfrom sklearn.tree \nimport DecisionTreeRegressor\nfrom sklearn.ens"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/09_comparing_regression_algorithms.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 3,
+          "offset": 27,
+          "message": "invalid syntax",
+          "text": "from sklearn.linear_model \n",
+          "source_preview": "import numpy as np\nimport pandas as pd\nfrom sklearn.linear_model \nimport LinearRegression, Ridge, Lasso\nfrom sklearn.tree \nimport DecisionTreeRegressor\nfrom sklearn.ensemble \nimport RandomForestRegres"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/10_visualizing_regression_results_residuals.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 4,
+          "offset": 27,
+          "message": "invalid syntax",
+          "text": "from sklearn.linear_model \n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nfrom sklearn.linear_model \nimport LinearRegression\nfrom sklearn.metrics \nimport mean_squared_error, r2_score_\nprint(\"\u2705 Librarie"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/comparing_model_performance_across_different_algorithms.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/computing_regression_evaluation_metrics_mse_rmse_mae_r\u00b2.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/identifying_and_handling_overfittingunderfitting.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/performing_leave_one_out_and_stratified_cross_validation.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/examples/selecting_optimal_model_complexity_using_validation_sets.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 4,
+          "offset": 41,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection import rom train_test_split\n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as pltf\nfrom sklearn.model_selection import rom train_test_split\nfrom sklearn.linear_model import LinearRegression, Ridge, Lassof\nfrom s"
+        },
+        {
+          "cell_index": 4,
+          "line": 2,
+          "offset": 19,
+          "message": "invalid syntax",
+          "text": "np.random.seed(42)_n_samples =  300_X = np.random.randn(n_samples, 8)# Make some features correlatedX[:, 2] = X[:, 0] + 0.3 * np.random.randn(n_n_samples = 300_X = np.random.randn(n_samples, 8)# Make some features correlatedX[:, 2] = X[:, 0] + 0.3 * np.random.randn(n\n",
+          "source_preview": "import pandas as pd\nnp.random.seed(42)_n_samples =  300_X = np.random.randn(n_samples, 8)# Make some features correlatedX[:, 2] = X[:, 0] + 0.3 * np.random.randn(n_n_samples = 300_X = np.random.randn("
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/exercises/exercise_02_cross_validation.ipynb",
+      "errors": [
+        {
+          "cell_index": 0,
+          "line": 20,
+          "offset": 28,
+          "message": "invalid syntax",
+          "text": "X = np.random.randn(300, 5)_y =  2 * X[:, 0] + 1.5 * X[:, 1] - X[:, 2] + 3 * X[:, 3] + np.random.normal(0, 0.5, 300)\n",
+          "source_preview": "\"\"\"\nUnit 2 - Exercise 2: Cross-Validation Practice\n\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u062d\u0642\u0642 \u0627\u0644\u0645\u062a\u0642\u0627\u0637\u0639\n\nInstructions:\n1. Load the provided dataset_2. Implement K-Fold cross-validation manually_"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 3,
+          "offset": 29,
+          "message": "invalid syntax",
+          "text": "import matplotlib.pyplot as \n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as \nfrom sklearn.model_selection import plt\nfrom from sklearn.linear_model import train_test_split\nfrom LinearRegression, Ridge, from sk"
+        },
+        {
+          "cell_index": 5,
+          "line": 1,
+          "offset": 19,
+          "message": "invalid syntax",
+          "text": "np.random.seed(42)_n_samples =  300_X = np.random.randn(n_samples, 8)# Make some features correlatedX[:, 2] = X[:, 0] + 0.3 * np.random.randn(n_n_samples = 300_X = np.random.randn(n_samples, 8)# Make some features correlatedX[:, 2] = X[:, 0] + 0.3 * np.random.randn(n\n",
+          "source_preview": "np.random.seed(42)_n_samples =  300_X = np.random.randn(n_samples, 8)# Make some features correlatedX[:, 2] = X[:, 0] + 0.3 * np.random.randn(n_n_samples = 300_X = np.random.randn(n_samples, 8)# Make "
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit2-regression/solutions/solution_02_cross_validation.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 11,
+          "offset": 25,
+          "message": "invalid syntax",
+          "text": "print(\"Dataset loaded!\")print(f\"Shape: {df.shape}\")# # SOLUTION: Write # SOLUTION here# # SOLUTION: \u0627\u0643\u062a\u0628 \u0627\u0644\u0643\u0648\u062f \u0627\u0644\u062e\u0627\u0635 \u0628\u0643 \u0647\u0646\u0627# Task 1: Single train-test split (baseline)print(\"\\n\" + \"=\"*60)print(\"Task 1: Single train-test split\")print(\"=\"*60)# Split data 80/20# Train Linear Regression# Evaluate on test set# Print MSE and R\u00b2# Your code here...# Task 2: Manual K-Fold cross-validation (K=5)print(\"\\n\" + \"=\"*60)print(\"Task 2: Manual K-Fold CV (K=5)\")print(\"=\"*60)# Split data into 5 folds manually# For each fold:#   - Train on 4 folds, test on 1 fold#   - Calculate MSE and R\u00b2# Store all scores# Print mean and std of scores# Your code here...# Task 3: Use sklearn's KFold\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 2 - Exercise 2: Cross-Validation Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u062d\u0642\u0642 \u0627\u0644\u0645\u062a\u0642\u0627\u0637\u0639Instructions:1. Load the provided dataset2. Implement K-Fold cross-val"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/examples/03_svm.ipynb",
+      "errors": [
+        {
+          "cell_index": -1,
+          "error": "Failed to read notebook: Expecting value: line 2442 column 1 (char 452059)"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/examples/04_knn.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 10,
+          "offset": 6,
+          "message": "invalid syntax",
+          "text": "print(\"\u2705 Libraries imported successfully!\")\n",
+          "source_preview": "# Step 1: Import necessary libraries\n# These libraries help us build KNN classification models import pandas as pd # For data manipulation\nimport numpy as np # For numerical operations\nimport matplotl"
+        },
+        {
+          "cell_index": 5,
+          "line": 10,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "pd.DataFrame({'col1': range(100), 'col2': range(100, 200)})\n",
+          "source_preview": "# Load the Credit Card Fraud dataset\n# This is REAL financial transaction data for binary classification (GDI: Financial Investigations & Admin Crimes)\nprint(\"\\n\" + \"=\" * 60)\nprint(\"Loading Credit Car"
+        },
+        {
+          "cell_index": 8,
+          "line": 9,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "print(f\"\\n\u2705 Data split!\")\n",
+          "source_preview": "# Demonstrate why feature scaling is critical for KNN\n# We'll compare KNN with and without scaling print(\"\\n\" + \"=\" * 60)\nprint(\"Demonstrating Feature Scaling Importance\")\nprint(\"\u0625\u0638\u0647\u0627\u0631 \u0623\u0647\u0645\u064a\u0629 \u062a\u062d\u062c\u064a\u0645 \u0627\u0644\u0645"
+        },
+        {
+          "cell_index": 10,
+          "line": 62,
+          "offset": 51,
+          "message": "EOL while scanning string literal",
+          "text": "print(f\" - Balance between catching fraud (recall)\n",
+          "source_preview": "# Find the optimal K value\n# We'll test different K values and see which gives best performance print(\"\\n\" + \"=\" * 60)\nprint(\"Finding Optimal K Value\")\nprint(\"\u0625\u064a\u062c\u0627\u062f \u0642\u064a\u0645\u0629 K \u0627\u0644\u0623\u0645\u062b\u0644\")\nprint(\"=\" * 60)\n\n# "
+        },
+        {
+          "cell_index": 12,
+          "line": 76,
+          "offset": 54,
+          "message": "EOL while scanning string literal",
+          "text": "print(\" - GDI Application: Minimize FN (missed fraud)\n",
+          "source_preview": "# Train final KNN model with optimal K and evaluate comprehensively print(\"\\n\" + \"=\" * 60)\nprint(\"Training Final KNN Model with Optimal K\")\nprint(\"\u062a\u062f\u0631\u064a\u0628 \u0646\u0645\u0648\u0630\u062c KNN \u0627\u0644\u0646\u0647\u0627\u0626\u064a \u0628\u0642\u064a\u0645\u0629 K \u0627\u0644\u0623\u0645\u062b\u0644\")\nprint(\"=\" * "
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/examples/05_random_forest_naive_bayes.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 10,
+          "offset": 25,
+          "message": "invalid syntax",
+          "text": "rf.fit(X_train, y_train)_rf_pred =  rf.predict(X_test)\n",
+          "source_preview": "# Generate classification dataset\nfrom sklearn.datasets import make_classification\n\nX, y = make_classification(n_samples=1000, n_features=20, n_informative=15,\n                          n_redundant=5,"
+        },
+        {
+          "cell_index": 5,
+          "line": 3,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    \"Free money click here now\",\n",
+          "source_preview": "# Example: Spam detection with Naive Bayes\n# Simulated email data_emails = [\n    \"Free money click here now\",\n    \"Meeting tomorrow at 3pm\",\n    \"You won a prize claim it\",\n    \"Project update attache"
+        },
+        {
+          "cell_index": 7,
+          "line": 2,
+          "offset": 56,
+          "message": "invalid syntax",
+          "text": "fpr, tpr, thresholds = roc_curve(y_test, rf_pred_proba)_roc_auc =  auc(fpr, tpr)\n",
+          "source_preview": "# ROC Curve for Random Forest\nfpr, tpr, thresholds = roc_curve(y_test, rf_pred_proba)_roc_auc =  auc(fpr, tpr)\nroc_auc = auc(fpr, tpr)\nprint(\"=\" * 60)\nprint(\"ROC Curve Analysis:\")\nprint(\"=\" * 60)\nprin"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/examples/06_ensemble_methods_bagging_boosting.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 23,
+          "message": "invalid syntax",
+          "text": "from sklearn.datasets \n",
+          "source_preview": "import numpy as np\nfrom sklearn.datasets \nimport make_classification\nfrom sklearn.model_selection \nimport train_test_split\nfrom sklearn.tree \nimport DecisionTreeClassifier\nfrom sklearn.ensemble \nimpor"
+        },
+        {
+          "cell_index": 4,
+          "line": 2,
+          "offset": 32,
+          "message": "invalid syntax",
+          "text": "base_tree.fit(X_train, y_train)_base_pred =  base_tree.predict(X_test)\n",
+          "source_preview": "# Base model: Single decision tree_base_tree = DecisionTreeClassifier(random_state=42)\nbase_tree.fit(X_train, y_train)_base_pred =  base_tree.predict(X_test)\nbase_pred = base_tree.predict(X_test)_base"
+        },
+        {
+          "cell_index": 6,
+          "line": 2,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    random_state=42)\n",
+          "source_preview": "# Bagging Classifier_bagging = BaggingClassifier(estimator=DecisionTreeClassifier(), n_estimators=100,\n    random_state=42)\nbagging.fit(X_train, y_train)_bagging_pred =  bagging.predict(X_test)\nbaggin"
+        },
+        {
+          "cell_index": 8,
+          "line": 2,
+          "offset": 31,
+          "message": "invalid syntax",
+          "text": "adaboost.fit(X_train, y_train)_adaboost_pred =  adaboost.predict(X_test)\n",
+          "source_preview": "# AdaBoost_adaboost = AdaBoostClassifier(n_estimators=100, random_state=42)\nadaboost.fit(X_train, y_train)_adaboost_pred =  adaboost.predict(X_test)\nadaboost_pred = adaboost.predict(X_test)_adaboost_a"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/examples/08_classification_evaluation_metrics.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 21,
+          "offset": 25,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"  - Precision: TP\n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\nfrom sklearn.metrics import confusion_matrix, roc_curve, auc, precision_recall_curve\nfrom sklearn.metrics import precision_score, recall_score, f1_sc"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/examples/evaluating_classification_models_using_confusion_matrices_roc_curves_and_analyzi.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/examples/using_svm_with_different_kernels_linear_polynomial_rbf_to_handle_complex_classif.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 7,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "from sklearn.datasets import make_classification\n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.tree import DecisionTreeClassifier\nfrom sklearn.ensemble import RandomForestClassifier\nfrom skl"
+        },
+        {
+          "cell_index": 2,
+          "line": 7,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " confusion_matrix)\n",
+          "source_preview": "\"\"\"\nUnit 3 - Exercise 1: Classification Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u0635\u0646\u064a\u0641I_nstructions:\n1. Load the provided dataset2. Train a Decision Tree classifier_3. Train a Random Forest"
+        },
+        {
+          "cell_index": 4,
+          "line": 2,
+          "offset": 116,
+          "message": "invalid syntax",
+          "text": "X, y = make_classification( n_samples = 800, n_features = 8, n_informative = 5, n_redundant = 2, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(8)])\n",
+          "source_preview": "np.random.seed(42)\nX, y = make_classification( n_samples = 800, n_features = 8, n_informative = 5, n_redundant = 2, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(8)]"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 2,
+          "offset": 17,
+          "message": "invalid syntax",
+          "text": "import numpy as \n",
+          "source_preview": "import pandas as pd\nimport numpy as \nfrom sklearn.model_selection import np\nfrom from sklearn.tree import train_test_split\nfrom from sklearn.ensemble import DecisionTreeClassifier\nfrom from sklearn.me"
+        },
+        {
+          "cell_index": 3,
+          "line": 3,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "or feature importance\"\"\" confusion\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 3 - Exercise 1: Classification Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 1: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u062a\u0635\u0646\u064a\u0641Instructions:1. Load the provided dataset2. Train a Decision Tree classifier3. Tr"
+        },
+        {
+          "cell_index": 5,
+          "line": 2,
+          "offset": 116,
+          "message": "invalid syntax",
+          "text": "X, y = make_classification( n_samples = 800, n_features = 8, n_informative = 5, n_redundant = 2, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(8)])\n",
+          "source_preview": "np.random.seed(42)\nX, y = make_classification( n_samples = 800, n_features = 8, n_informative = 5, n_redundant = 2, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(8)]"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/solutions/solution_02_logistic_regression.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 13,
+          "offset": 25,
+          "message": "invalid syntax",
+          "text": "print(\"Dataset loaded!\")print(f\"Shape: {df.shape}\")print(f\"\\nClass distribution:\")print(df['target'].value_counts())# # SOLUTION: Write # SOLUTION here# # SOLUTION: \u0627\u0643\u062a\u0628 \u0627\u0644\u0643\u0648\u062f \u0627\u0644\u062e\u0627\u0635 \u0628\u0643 \u0647\u0646\u0627# Task 1: Split the data into train and test sets (80/20, use stratify)print(\"\\n\" + \"=\"*60)print(\"Task 1: Split data\")print(\"=\"*60)# Your code here...# Task 2: Scale the features (important for logistic regression!)print(\"\\n\" + \"=\"*60)print(\"Task 2: Scale features\")print(\"=\"*60)# Your code here...# Task 3: Train a Logistic Regression model (default parameters)print(\"\\n\" + \"=\"*60)print(\"Task 3: Train Logistic Regression model\")print(\"=\"*60)# Your code here...# Task 4: Make predictions and calculate metrics\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 3 - Exercise 2: Logistic Regression Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u0627\u0646\u062d\u062f\u0627\u0631 \u0627\u0644\u0644\u0648\u062c\u0633\u062a\u064aInstructions:1. Load the provided dataset2. Train a Logistic Regre"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/solutions/solution_03_svm.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 3,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "or compare metrics6. Find the best kernel and hyperparametersDataset: Binary classification dataset\"\"\"\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 3 - Exercise 3: Support Vector Machine (SVM) Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 3: \u0645\u0645\u0627\u0631\u0633\u0629 \u0622\u0644\u0627\u062a \u0646\u0627\u0642\u0644\u0627\u062a \u0627\u0644\u062f\u0639\u0645 (SVM)Instructions:1. Load the provided dataset2. Train S"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit3-classification/solutions/solution_04_knn.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 25,
+          "message": "invalid syntax",
+          "text": "print(\"Dataset loaded!\")print(f\"Shape: {df.shape}\")print(f\"\\nClass distribution:\")print(df['target'].value_counts())# # SOLUTION: Write # SOLUTION here# # SOLUTION: \u0627\u0643\u062a\u0628 \u0627\u0644\u0643\u0648\u062f \u0627\u0644\u062e\u0627\u0635 \u0628\u0643 \u0647\u0646\u0627# Task 1: Split the data\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 3 - Exercise 4: K-Nearest Neighbors (KNN) Practice\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 - \u062a\u0645\u0631\u064a\u0646 4: \u0645\u0645\u0627\u0631\u0633\u0629 \u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0629 \u0627\u0644\u062c\u064a\u0631\u0627\u0646 \u0627\u0644\u0623\u0642\u0631\u0628 (KNN)Instructions:1. Load the provided dataset2. Scal"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/examples/01_kmeans_clustering.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 9,
+          "offset": 7,
+          "message": "invalid syntax",
+          "text": " df = # File not found: ../../datasets/raw/crime_statistics.csv\n",
+          "source_preview": "# Load real-world US Crime Statistics dataset\n# This is REAL state crime data for Internal Intelligence analysis\n# K-Means will identify states with similar crime patterns!\n\nprint(\"\\n\ud83d\udce5 Loading US Crim"
+        },
+        {
+          "cell_index": 6,
+          "line": 6,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "vs Income (0-100000) - income would dominate!\n",
+          "source_preview": "# Step 2: Scale Features for Clustering | \u0627\u0644\u062e\u0637\u0648\u0629 2: \u0642\u064a\u0627\u0633 \u0627\u0644\u0645\u064a\u0632\u0627\u062a \u0644\u0644\u062a\u062c\u0645\u064a\u0639\n# # Why scaling is CRITICAL for clustering:\n# - K-Means uses Euclidean distance to measure similarity\n# - Features with larger "
+        },
+        {
+          "cell_index": 8,
+          "line": 16,
+          "offset": 15,
+          "message": "invalid syntax",
+          "text": "for clustering!\n",
+          "source_preview": "# Step 3: K-Means Clustering with K=3 | \u0627\u0644\u062e\u0637\u0648\u0629 3: \u062a\u062c\u0645\u064a\u0639 K-Means \u0645\u0639 K=3\nprint(\"\\n\" + \"=\" * 60)\nprint(\"2. K-Means Clustering (K=3)\")\nprint(\"\u062a\u062c\u0645\u064a\u0639 K-Means (K=3)\")\nprint(\"=\" * 60)\n\n# Create K-Means model "
+        },
+        {
+          "cell_index": 9,
+          "line": 24,
+          "offset": 29,
+          "message": "EOL while scanning string literal",
+          "text": "print(f\" - Range: -1 (worst)\n",
+          "source_preview": "# Interpret clustering metrics\nprint(\"\\n\" + \"=\" * 60)\nprint(\"\ud83d\udca1 Interpreting Clustering Metrics | \u062a\u0641\u0633\u064a\u0631 \u0645\u0642\u0627\u064a\u064a\u0633 \u0627\u0644\u062a\u062c\u0645\u064a\u0639\")\nprint(\"=\" * 60)\nprint(f\"\\n\ud83d\udcca Silhouette Score Quality Assessment:\")\nif silhouette"
+        },
+        {
+          "cell_index": 10,
+          "line": 99,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " print(f\" - Assault: {centroid[1]:.0f} (avg)\")\n",
+          "source_preview": "# Visualize clusters (2D projection for visualization)\n# Note: Clustering was done in 4D space, but we visualize in 2D\nprint(\"\\n\" + \"=\" * 60)\nprint(\"3. Visualizing Clusters (2D Projection)\")\nprint(\"\u062a\u0635"
+        },
+        {
+          "cell_index": 12,
+          "line": 19,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " if k > 1:\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"4. Finding Optimal K - Elbow Method\")\nprint(\"\u0625\u064a\u062c\u0627\u062f K \u0627\u0644\u0645\u062b\u0644\u0649 - \u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u0645\u0631\u0641\u0642\")\nprint(\"=\" * 60)\n\n# Try different values of K (number of clusters)\n# We'll test K from 1 to 10"
+        },
+        {
+          "cell_index": 13,
+          "line": 13,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "diffs = [inertias[i] - inertias[i+1] for i in range(len(inertias)-1)]\n",
+          "source_preview": "# Plot Elbow Method\nplt.figure(figsize=(14, 6))\nplt.subplot(1, 2, 1)\nplt.plot(k_range, inertias, 'bo-', linewidth=3, markersize=10, markerfacecolor='lightblue', \n markeredgecolor='darkblue', markeredg"
+        },
+        {
+          "cell_index": 14,
+          "line": 42,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "else:\n",
+          "source_preview": "# Find optimal K using both methods\nprint(\"\\n\" + \"=\" * 60)\nprint(\"\ud83d\udca1 Interpreting Optimal K Results | \u062a\u0641\u0633\u064a\u0631 \u0646\u062a\u0627\u0626\u062c K \u0627\u0644\u0645\u062b\u0644\u0649\")\nprint(\"=\" * 60)\n\n# Find optimal K from silhouette scores\nbest_silhouette_idx"
+        },
+        {
+          "cell_index": 15,
+          "line": 17,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " centroids_4d = scaler.inverse_transform(kmeans.cluster_centers_)\n",
+          "source_preview": "# 5. Compare Different K Values\nprint(\"\\n\" + \"=\" * 60)\nprint(\"5. Compare Different K Values\")\nprint(\"\u0645\u0642\u0627\u0631\u0646\u0629 \u0642\u064a\u0645 K \u0627\u0644\u0645\u062e\u062a\u0644\u0641\u0629\")\nprint(\"=\" * 60)\nk_values = [2, 3, 4, 5]\nfig, axes = plt.subplots(2, 2, figs"
+        },
+        {
+          "cell_index": 16,
+          "line": 35,
+          "offset": 39,
+          "message": "EOL while scanning string literal",
+          "text": "print(\" \u2705 It finds K clusters (groups)\n",
+          "source_preview": "# Part 1 Summary: Clustering Results Table\nprint(\"\\n\" + \"=\" * 60)\nprint(\"Part 1 Summary: Clustering Results\")\nprint(\"\u0645\u0644\u062e\u0635 \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u0623\u0648\u0644: \u0646\u062a\u0627\u0626\u062c \u0627\u0644\u062a\u062c\u0645\u064a\u0639\")\nprint(\"=\" * 60)\nsummary_data = {\n 'K': list(k_ran"
+        },
+        {
+          "cell_index": 23,
+          "line": 5,
+          "offset": 63,
+          "message": "EOL while scanning string literal",
+          "text": "print(\"\\n\ud83c\udfaf Next Step: Open Example 2 (Hierarchical Clustering)\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Example 1 Complete! \u2713\")\nprint(\"\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u0645\u062b\u0627\u0644 1! \u2713\")\nprint(\"=\" * 60)\nprint(\"\\n\ud83c\udfaf Next Step: Open Example 2 (Hierarchical Clustering)\nto see how it solves the 'unknown K' pro"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/examples/03_pca.ipynb",
+      "errors": [
+        {
+          "cell_index": 12,
+          "line": 37,
+          "offset": 50,
+          "message": "EOL while scanning string literal",
+          "text": "print(f\"   - Reduction: {((X_scaled.shape[1] - 2)\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"3. PCA with 2 Components (for visualization)\")\nprint(\"PCA \u0645\u0639 \u0645\u0643\u0648\u0646\u064a\u0646 (\u0644\u0644\u062a\u062e\u064a\u0644)\")\nprint(\"=\" * 60)\n\n# Create PCA with 2 components\n# n_components=2: Reduce high-dimensional d"
+        },
+        {
+          "cell_index": 26,
+          "line": 23,
+          "offset": 50,
+          "message": "EOL while scanning string literal",
+          "text": "print(f\"Compression ratio: {X_compressed.shape[1]\n",
+          "source_preview": "# 7. PCA for Data Compression\nprint(\"\\n\" + \"=\" * 60)\nprint(\"7. PCA for Data Compression\")\nprint(\"PCA \u0644\u0636\u063a\u0637 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\")\nprint(\"=\" * 60)\nprint(f\"\\nOriginal dimensions: {X_scaled.shape[1]}\")\nprint(f\"\u0627\u0644\u0623\u0628\u0639\u0627"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/examples/04_lda_tsne_umap.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 3,
+          "offset": 23,
+          "message": "invalid syntax",
+          "text": "from sklearn.datasets \n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\nfrom sklearn.datasets \nimport make_classification, load_iris\nfrom sklearn.discriminant_analysis \nimport LinearDiscriminantAnalysis\nfrom sklearn.decom"
+        },
+        {
+          "cell_index": 3,
+          "line": 8,
+          "offset": 26,
+          "message": "invalid syntax",
+          "text": "pca = PCA(n_components=2)_X_train_pca =  pca.fit_transform(X_train)\n",
+          "source_preview": "# Load Iris dataset for LDA demonstration_iris = load_iris()\nX, y = iris.data, iris.target\n\n# Compare: PCA vs LDA for classification\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size"
+        },
+        {
+          "cell_index": 5,
+          "line": 4,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"=\" * 60)\n",
+          "source_preview": "if HAS_TSNE:\n    # t-SNE for visualization\n    # Note: t-SNE is computationally expensive, use on smaller datasets_tsne = TSNE(n_components=2, random_state=42, perplexity=30) X_tsne = tsne.fit_transfo"
+        },
+        {
+          "cell_index": 7,
+          "line": 3,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "print(\"=\" * 60)\n",
+          "source_preview": "if HAS_UMAP:\n    # UMAP: Faster than t-SNE, preserves both local and global structure_reducer = umap.UMAP(n_components=2, random_state=42) X_umap = reducer.fit_transform(X)\nprint(\"=\" * 60)\nprint(\"UMAP"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/examples/05_elbow_method_silhouette_score.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 3,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "from sklearn.cluster \n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\nfrom sklearn.cluster \nimport KMeans\nfrom sklearn.metrics \nimport silhouette_score\nfrom sklearn.datasets \nimport make_blobs_\nprint(\"\u2705 Libraries import"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/examples/06_evaluating_clustering_metrics.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "from sklearn.metrics \n",
+          "source_preview": "import numpy as np\nfrom sklearn.metrics \nimport silhouette_score, adjusted_rand_score, normalized_mutual_info_score\nfrom sklearn.metrics \nimport davies_bouldin_score, calinski_harabasz_score_\nprint(\"\u2705"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/examples/evaluating_clustering_models_using_appropriate_metrics.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 9,
+          "offset": 14,
+          "message": "invalid syntax",
+          "text": "inertias = []_sil =  []\n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\n\nfrom sklearn.datasets import make_blobs\nfrom sklearn.cluster import KMeans\nfrom sklearn.metrics import silhouette_score\n\nX, _ = make_blobs(n_samples"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/examples/using_elbow_method_and_silhouette_score_to_determine_optimal_number_of_clusters.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 9,
+          "offset": 14,
+          "message": "invalid syntax",
+          "text": "inertias = []_sil =  []\n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\n\nfrom sklearn.datasets import make_blobs\nfrom sklearn.cluster import KMeans\nfrom sklearn.metrics import silhouette_score\n\nX, _ = make_blobs(n_samples"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 4,
+          "offset": 33,
+          "message": "invalid syntax",
+          "text": "from sklearn.cluster import rom KMeans, AgglomerativeClusteringf\n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as pltf\nfrom sklearn.cluster import rom KMeans, AgglomerativeClusteringf\nfrom sklearn.preprocessing import rom StandardScaler\nfrom sklea"
+        },
+        {
+          "cell_index": 3,
+          "line": 2,
+          "offset": 50,
+          "message": "invalid syntax",
+          "text": "cluster1 = np.random.normal([2, 2], 0.6, (80, 2))_cluster2 =  np.random.normal([6, 6], 0.6, (80, 2))\n",
+          "source_preview": "# Generate sample data_np.random.seed(42)\ncluster1 = np.random.normal([2, 2], 0.6, (80, 2))_cluster2 =  np.random.normal([6, 6], 0.6, (80, 2))\ncluster2 = np.random.normal([6, 6], 0.6, (80, 2))_cluster"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/exercises/exercise_02_pca.ipynb",
+      "errors": [
+        {
+          "cell_index": 0,
+          "line": 19,
+          "offset": 19,
+          "message": "invalid syntax",
+          "text": "iris = load_iris()_X =  iris.data_y = iris.target_feature_names = iris.feature_names_df = pd.DataFrame(X, columns=feature_names)\n",
+          "source_preview": "\"\"\"\nUnit 4 - Exercise 2: Principal Component Analysis (PCA) Practice\n\u0627\u0644\u062a\u062c\u0645\u064a\u0639 \u0648\u062a\u0642\u0644\u064a\u0644 \u0627\u0644\u0623\u0628\u0639\u0627\u062f - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 (PCA)\n\nInstructions:\n1. Load the provided dataset_2. Apply PCA to "
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 3,
+          "offset": 29,
+          "message": "invalid syntax",
+          "text": "import matplotlib.pyplot as \n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as \nfrom sklearn.cluster import plt\nfrom KMeans, from sklearn.preprocessing import AgglomerativeClustering\nfrom from sklearn.metrics imp"
+        },
+        {
+          "cell_index": 4,
+          "line": 2,
+          "offset": 50,
+          "message": "invalid syntax",
+          "text": "cluster1 = np.random.normal([2, 2], 0.6, (80, 2))_cluster2 =  np.random.normal([6, 6], 0.6, (80, 2))\n",
+          "source_preview": "# Generate sample datanp.random.seed(42)\ncluster1 = np.random.normal([2, 2], 0.6, (80, 2))_cluster2 =  np.random.normal([6, 6], 0.6, (80, 2))\ncluster2 = np.random.normal([6, 6], 0.6, (80, 2))_cluster3"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit4-clustering/solutions/solution_02_pca.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 10,
+          "offset": 25,
+          "message": "invalid syntax",
+          "text": "print(\"Dataset loaded!\")print(f\"Shape: {df.shape}\")print(f\"Features: {feature_names}\")print(f\"\\nClass distribution:\")print(df['target'].value_counts())# # SOLUTION: Write # SOLUTION here# # SOLUTION: \u0627\u0643\u062a\u0628 \u0627\u0644\u0643\u0648\u062f \u0627\u0644\u062e\u0627\u0635 \u0628\u0643 \u0647\u0646\u0627# Task 1: Scale the data (CRITICAL for PCA!)print(\"\\n\" + \"=\"*60)print(\"Task 1: Scale data\")print(\"=\"*60)# Use StandardScaler# Your code here...# Task 2: Apply PCA with all components\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 4 - Exercise 2: Principal Component Analysis (PCA) Practice\u0627\u0644\u062a\u062c\u0645\u064a\u0639 \u0648\u062a\u0642\u0644\u064a\u0644 \u0627\u0644\u0623\u0628\u0639\u0627\u062f - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 (PCA)Instructions:1. Load the provided datase"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/03_cross_validation_hyperparameter_tuning.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 30,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection \n",
+          "source_preview": "import numpy as np\nfrom sklearn.model_selection \nimport cross_val_score, KFold\nfrom sklearn.model_selection \nimport validation_curve\nfrom sklearn.ensemble \nimport RandomForestClassifier_\nprint(\"\u2705 Libr"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/04_grid_search_random_search.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 30,
+          "message": "invalid syntax",
+          "text": "from sklearn.model_selection \n",
+          "source_preview": "import numpy as np\nfrom sklearn.model_selection \nimport GridSearchCV, RandomizedSearchCV\nfrom sklearn.ensemble \nimport RandomForestClassifier\nfrom scipy.stats \nimport randint, uniform_\nprint(\"\u2705 Librar"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/applying_confusion_matrices_plotting_roc_curves_for_classification_models.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/comparing_performance_with_traditional_methods.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/evaluating_models_on_real_datasets_using_performance_metrics.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/implementing_cross_validation_and_hyperparameter_tuning_using_python.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/implementing_final_project_applying_learned_techniques_on_real_dataset_evaluatin.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/tuning_models_for_optimal_performance_and_documenting_improvements.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/examples/using_grid_search_and_random_search_in_scikit_learn_to_optimize_parameters.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 12,
+          "offset": 8,
+          "message": "invalid decimal literal",
+          "text": "n = 600_x1 = rng.normal(size=n)_x2 =  rng.normal(size=n)",
+          "source_preview": "import numpy as np\nimport pandas as pd\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn."
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 6,
+          "offset": 34,
+          "message": "invalid syntax",
+          "text": "from sklearn.datasets import rom make_classification\n",
+          "source_preview": "import pandas as pd\nimport numpy as np\nfrom sklearn.model_selection import train_test_split, GridSearchCV\nfrom sklearn.ensemble import RandomForestClassifier\nfrom sklearn.metrics import accuracy_score"
+        },
+        {
+          "cell_index": 4,
+          "line": 2,
+          "offset": 101,
+          "message": "invalid syntax",
+          "text": "X, y = make_classification( n_samples = 1000, n_features = 10, n_informative = 5, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(10)])\n",
+          "source_preview": "np.random.seed(42)\nX, y = make_classification( n_samples = 1000, n_features = 10, n_informative = 5, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(10)])\ndf = pd.Data"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/solutions/solution_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 2,
+          "offset": 17,
+          "message": "invalid syntax",
+          "text": "import numpy as \n",
+          "source_preview": "import pandas as pd\nimport numpy as \nfrom sklearn.model_selection import np\nfrom train_test_split, from sklearn.ensemble import GridSearchCV\nfrom from sklearn.metrics import RandomForestClassifier\nfro"
+        },
+        {
+          "cell_index": 5,
+          "line": 2,
+          "offset": 101,
+          "message": "invalid syntax",
+          "text": "X, y = make_classification( n_samples = 1000, n_features = 10, n_informative = 5, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(10)])\n",
+          "source_preview": "np.random.seed(42)\nX, y = make_classification( n_samples = 1000, n_features = 10, n_informative = 5, random_state = 42)_df =  pd.DataFrame(X, columns=[f'feature _{i}' for i in range(10)])\ndf = pd.Data"
+        }
+      ]
+    },
+    {
+      "path": "Course 04/unit5-model-selection/solutions/solution_02_boosting.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 11,
+          "offset": 25,
+          "message": "invalid syntax",
+          "text": "print(\"Dataset loaded!\")print(f\"Shape: {df.shape}\")print(f\"\\nClass distribution:\")print(df['target'].value_counts())# # SOLUTION: Write # SOLUTION here# # SOLUTION: \u0627\u0643\u062a\u0628 \u0627\u0644\u0643\u0648\u062f \u0627\u0644\u062e\u0627\u0635 \u0628\u0643 \u0647\u0646\u0627# Task 1: Split the data\n",
+          "source_preview": "# Complete solution:\n# \"\"\"Unit 5 - Exercise 2: Boosting Algorithms Practice\u0627\u062e\u062a\u064a\u0627\u0631 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0648\u0627\u0644\u062a\u0639\u0632\u064a\u0632 - \u062a\u0645\u0631\u064a\u0646 2: \u0645\u0645\u0627\u0631\u0633\u0629 \u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0627\u062a \u0627\u0644\u062a\u0639\u0632\u064a\u0632Instructions:1. Load the provided dataset2. Train XGBoost model (i"
+        }
+      ]
+    },
+    {
+      "path": "Course 05/unit1-introduction/examples/03_cudf_introduction.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 19,
+          "offset": 5,
+          "message": "invalid syntax",
+          "text": "    !pip install -q cudf-cu11 cuml-cu11 --extra-index-url=https://pypi.nvidia.com\n",
+          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\nimport os\n\n# Check if running on Colab\nIN_COLAB = 'google.colab' in str(get"
+        }
+      ]
+    },
+    {
+      "path": "Course 05/unit2-cleaning/examples/07_cudf_import_export_gpu.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 22,
+          "offset": 5,
+          "message": "invalid syntax",
+          "text": "    !pip install -q cudf-cu11 cuml-cu11 --extra-index-url=https://pypi.nvidia.com\n",
+          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\nimport os\n\n# Check if running on Colab\ntry:\n    IN_COLAB = 'google.colab' i"
+        }
+      ]
+    },
+    {
+      "path": "Course 05/unit4-ml-intro/examples/12_cpu_vs_gpu_ml.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 22,
+          "offset": 5,
+          "message": "invalid syntax",
+          "text": "    !pip install -q cudf-cu11 cuml-cu11 --extra-index-url=https://pypi.nvidia.com\n",
+          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\nimport os\n\n# Check if running on Colab\ntry:\n    IN_COLAB = 'google.colab' i"
+        }
+      ]
+    },
+    {
+      "path": "Course 05/unit5-scaling/examples/04_rapids_workflows.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 22,
+          "offset": 5,
+          "message": "invalid syntax",
+          "text": "    !pip install -q cudf-cu11 cuml-cu11 --extra-index-url=https://pypi.nvidia.com\n",
+          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\nimport os\n\n# Check if running on Colab\ntry:\n    IN_COLAB = 'google.colab' i"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit1-ethics-foundations/examples/02_ethical_decision_making.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 166,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    influence\n",
+          "source_preview": "# Step 2: Create the Ethical Decision-Making Framework class\n# This class implements a 6-step process for making ethical decisions in AI\n\n# BEFORE: No structured decision-making process\n# AFTER: We'll"
+        },
+        {
+          "cell_index": 6,
+          "line": 55,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    framework.analyze_scenario(\"Autonomous Vehicle Dilemma\", autonomous_vehicle_data)\n",
+          "source_preview": "# Step 4.5: Solve the autonomous vehicle problem using decision-making framework\n# This demonstrates how the framework resolves framework conflicts\n\n# BEFORE: Frameworks conflict - no way to decide\n# "
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit1-ethics-foundations/examples/03_case_study_analysis.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 8,
+          "offset": 7,
+          "message": "invalid syntax",
+          "text": "mport numpy as np # For numerical operations: Arrays, calculations\n",
+          "source_preview": "# Step 1: Import necessary libraries\n# These libraries help us analyze and visualize the case stud\ny\n\nimport matplotlib.pyplot as plt # For creating visualizations: Charts, graphs, bar charts\nimport m"
+        },
+        {
+          "cell_index": 5,
+          "line": 36,
+          "offset": 67,
+          "message": "unindent does not match any outer indentation level",
+          "text": " Create a chart showing severity of ethical issues in COMPAS case.\n",
+          "source_preview": "# Step 3: Create visualization of ethical issues severity\n# This shows us which ethical issues are most seriou\ns\n\n# BEFORE: List of issues but no visual comparison\n# AFTER: We'll have a clear bar char"
+        },
+        {
+          "cell_index": 7,
+          "line": 39,
+          "offset": 60,
+          "message": "unindent does not match any outer indentation level",
+          "text": " 'Utilitarianism': { # Framework 1: Utilitarian perspective\n",
+          "source_preview": "# Step 4: Apply ethical frameworks to COMPAS case\n# This shows how different frameworks evaluate the same ethical proble\nm\n\n# BEFORE: Issues identified but no framework-based analysis\n# AFTER: We'll s"
+        },
+        {
+          "cell_index": 9,
+          "line": 37,
+          "offset": 2,
+          "message": "unmatched ')'",
+          "text": "n)",
+          "source_preview": "# Step 5: Extract lessons learned from COMPAS case\n# This identifies key takeaways that help us build better AI system\ns\n\n# BEFORE: Case analyzed but no actionable lessons extracted\n# AFTER: We'll hav"
+        },
+        {
+          "cell_index": 11,
+          "line": 31,
+          "offset": 38,
+          "message": "EOL while scanning string literal",
+          "text": "rint(\"ProPublica investigation (2016)\n",
+          "source_preview": "\"\"\"\nAnalyze the COMPAS case study using ethical frameworks.\n\nHOW IT WORKS:\n1. Provides background on what COMPAS is and how it's used\n2. Describes the ethical problems discovered\n3. Identifies ethical"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit1-ethics-foundations/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 45,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    return ethical_issues\n",
+          "source_preview": "\"\"\"\nUnit 1: Foundations of AI Ethics\nExercise 1: Ethical Framework Application\nThis exercise helps you practice applying ethical frameworks to AI scenarios.\n\"\"\"\n# ====================================="
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit2-bias-justice/examples/01_bias_detection.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 16,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =2000):\n",
+          "source_preview": "# Step 2: Generate synthetic data with intentional bias\n# This creates a dataset where we know bias exists, so we can practice detecting it\n\n# BEFORE: No data with known bias to practice on\n# AFTER: W"
+        },
+        {
+          "cell_index": 5,
+          "line": 15,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "size =0.3, random\n",
+          "source_preview": "def train_and_analyze_bias(df):\n    \"\"\"Train a model and analyze for bias using fairness metrics.\"\"\"\n    from sklearn.model_selection import train_test_split\n    from sklearn.ensemble import RandomFor"
+        },
+        {
+          "cell_index": 7,
+          "line": 66,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    output\n",
+          "source_preview": "# Step 5: Create visualizations of bias detection results\n# This helps us see bias patterns clearly\n\n# BEFORE: We have numbers but no visual representation\n# AFTER: We'll have clear charts showing bia"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit2-bias-justice/examples/05_fair_ai_development.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 56,
+          "offset": 12,
+          "message": "unexpected indent",
+          "text": "            print(f\"  {group}: {count} samples ({percentage:.1f}%)\")  # Print: Group name, count, percentage\n",
+          "source_preview": "# Step 2: Demonstrate inclusive data collection strategies\n# This shows how different data collection approaches affect representation\n\n# BEFORE: We collect data without considering representation\n# A"
+        },
+        {
+          "cell_index": 5,
+          "line": 8,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =2000):\n",
+          "source_preview": "# Step 3: Bias-Aware Algorithms and Human-in-the-Loop\n# This demonstrates how to build fair AI systems with bias-aware algorithms and human oversight\n\n# ==============================================="
+        },
+        {
+          "cell_index": 6,
+          "line": 29,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    plt.savefig(output_path, dpi=300, bbox\n",
+          "source_preview": "# Step 4: Visualization Functions\n# These functions create visualizations to compare different approaches\n\n# ============================================================================\n# VISUALIZATIO"
+        },
+        {
+          "cell_index": 7,
+          "line": 16,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =2000)\n",
+          "source_preview": "# Step 5: Run the Complete Fair AI Development Pipeline\n# This executes the entire workflow from data generation to visualization\n\n# ==================================================================="
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit2-bias-justice/exercises/exercise_02.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 19,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =2000):\n",
+          "source_preview": "\"\"\"\nUnit 2: Bias, Justice, and Discrimination in AI\nExercise 2: Bias Mitigation TechniquesThis exercise requires you to implement and compare different bias mitigation techniques.\n\"\"\"\nimport numpy as "
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit3-privacy-security/examples/01_data_protection.ipynb",
+      "errors": [
+        {
+          "cell_index": 6,
+          "line": 28,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    for col in columns_to_anonymize:  # Loop through columns: Process each column to anonymize\n",
+          "source_preview": "# Part 3: Anonymization and Pseudonymization Techniques\n# This shows how to anonymize and pseudonymize data\n\n# BEFORE: We have identifying information in our data\n# AFTER: We'll remove or mask identif"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit3-privacy-security/examples/02_privacy_technologies.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 24,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "parties =3):\n",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 2: Privacy-Enhancing Technologies (PETs)\nThis example demonstrates privacy-enhancing technologies:\n- Secure Multi-Party Computation (SMPC) co"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit3-privacy-security/examples/03_differential_privacy.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 31,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    noise = np.random.laplace(0, scale)\n",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 3: Differential Privacy\nThis example demonstrates differential privacy concepts:\n- Adding noise for privacy\n- Privacy-utility trade-offs\n- Ep"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit3-privacy-security/examples/04_gdpr_compliance.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 171,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    importance = [p['importance'] for p in principles.values()]\n",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 4: GDPR Compliance\nThis example demonstrates GDPR compliance requirements:\n- Key GDPR principles\n- Data subject rights\n- Compliance checklist"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit3-privacy-security/examples/05_secure_development.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 120,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    for vuln, info in vulnerabilities.items():\n",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExample 5: Secure AI Development Practices\nThis example demonstrates secure AI development practices:\n- Security vulnerabilities in AI systems\n- Secu"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit3-privacy-security/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 51,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "name__ == \"__main__\":\n",
+          "source_preview": "\"\"\"\nUnit 3: Privacy, Security, and Data Protection\nExercise 1: Privacy Techniques\nThis exercise requires you to implement privacy-preserving techniques.\n\"\"\"\nimport numpy as np\nimport pandas as pd\n# =="
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit4-transparency-accountability/examples/01_shap_explanations.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 40,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    shap\n",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 1: SHAP Explanations\nThis example demonstrates SHAP (SHapley Additive exPlanations) for model interpretability:\n- SHAP values cal"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit4-transparency-accountability/examples/02_lime_explanations.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 37,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =5000):\n",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 2: LIME Explanations\nThis example demonstrates LIME (Local Interpretable Model-agnostic Explanations):\n- LIME for tabular data\n- "
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit4-transparency-accountability/examples/03_counterfactual_analysis.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 28,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "class =1, max\n",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 3: Counterfactual Analysis\nThis example demonstrates counterfactual analysis for model interpretability:\n- Generating counterfact"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit4-transparency-accountability/examples/04_accountability_frameworks.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 98,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    return model_card\n",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 4: Accountability Frameworks\nThis example demonstrates accountability frameworks for AI systems:\n- Key stakeholders and responsib"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit4-transparency-accountability/examples/05_hitl_approaches.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 23,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =1000):\n",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 5: Human-in-the-Loop (HITL) Approaches\nThis example demonstrates human-in-the-loop approaches for AI fairness evaluation.\n\"\"\"\nimp"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit4-transparency-accountability/examples/06_transparency_tools.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 27,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "name__ == \"__main__\":\n",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExample 6: Transparency Tools\nThis example demonstrates transparency tools and frameworks for AI systems.\n\"\"\"\nimport numpy as np\nimport p"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit4-transparency-accountability/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 14,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =1000):\n",
+          "source_preview": "\"\"\"\nUnit 4: Interpretability, Transparency, and Accountability\nExercise 1: SHAP and LIME Explanations\nThis exercise requires you to implement SHAP and LIME explanations.\n\"\"\"\nimport numpy as np\nimport "
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit5-governance-regulations/examples/01_global_regulations.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 131,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    colors = ['#e74c3c' if s >= 8 else '#f39c12' if s >= 6 else '#2ecc71' \n",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 1: Global AI Regulations\nThis example demonstrates global AI regulations:\n- EU AI Act\n- US Executive Orders and Initiatives\n- Chin"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit5-governance-regulations/examples/02_industry_regulations.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 80,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    risk\n",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 2: Industry-Specific AI Regulations\nThis example demonstrates industry-specific AI regulations:\n- Healthcare AI regulations\n- Fina"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit5-governance-regulations/examples/03_governance_frameworks.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 123,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    effectiveness = [f['effectiveness'] for f in frameworks.values()]\n",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 3: AI Governance Frameworks\nThis example demonstrates AI governance frameworks:\n- Governance models\n- Key components\n- Implementat"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit5-governance-regulations/examples/04_legal_challenges.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 31,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "name__ == \"__main__\":\n",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExample 4: Legal Challenges in AI Governance\nThis example demonstrates legal challenges in AI governance:\n- AI and Legal Liability\n- Ethic"
+        }
+      ]
+    },
+    {
+      "path": "Course 06/unit5-governance-regulations/exercises/exercise_01.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 8,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "name__ == \"__main__\":\n",
+          "source_preview": "\"\"\"\nUnit 5: AI Governance, Regulations, and Future Challenges\nExercise 1: Regulations\nThis exercise requires you to analyze AI regulations.\n\"\"\"\n# TODO: Complete the exercise\nif_\nname__ == \"__main__\":\n"
+        }
+      ]
+    },
+    {
+      "path": "Course 07/unit1-nlp-fundamentals/exercises/01_text_preprocessing_exercise.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "%pip install nltk pandas -q\\n\n",
+          "source_preview": "# Setup\\n\n%pip install nltk pandas -q\\n\n\\ni\nmport nltk\\ni\nmport pandas as pd\\ni\nmport re\\nf\nrom nltk.corpus import stopwords\\nf\nrom nltk.tokenize import word_tokenize\\nf\nrom nltk.stem import PorterSte"
+        },
+        {
+          "cell_index": 3,
+          "line": 3,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "ef clean_text(text):\\n\n",
+          "source_preview": "# TODO: Implement clean_text() function\\\nnd\nef clean_text(text):\\n\n # YOUR CODE HERE\\\nnpass"
+        }
+      ]
+    },
+    {
+      "path": "Course 07/unit1-nlp-fundamentals/solutions/01_text_preprocessing_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 2,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " \"Just bought the new iPhone 15! Absolutely LOVING it!!! #Apple https://t.co/xyz\",\n",
+          "source_preview": "# Sample tweets_tweets = [\n \"Just bought the new iPhone 15! Absolutely LOVING it!!! #Apple https://t.co/xyz\",\n \"@CustomerService Your service is terrible!!! NOT HAPPY\",\n \"Best coffee ever at @Starbuck"
+        },
+        {
+          "cell_index": 4,
+          "line": 15,
+          "offset": 50,
+          "message": "invalid syntax",
+          "text": "text = re.sub(r'https?://\\S+|www\\.\\S+', '', text)_text =  re.sub(r'@\\w+', '', text)\n",
+          "source_preview": "def clean_text(text):\n \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \"\"\"Clean text by removing URLs, mentions, hashtags, special chars\"\"\"\n_text =  re.sub(r'https?://\\S+|www\\.\\S+', '', text)\nt"
+        }
+      ]
+    },
+    {
+      "path": "Course 07/unit2-tokenization-morphology/examples/04_word_embeddings_glove_fasttext.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 20,
+          "message": "invalid syntax",
+          "text": "from gensim.models \n",
+          "source_preview": "import numpy as np\nfrom gensim.models \nimport KeyedVectors\nimport gensim.downloader as api\n\nprint(\"\u2705 Libraries imported!\")\nprint(\"\\nPre-trained Word Embeddings: GloVe and FastText\")\nprint(\"=\" * 60)\n\np"
+        }
+      ]
+    },
+    {
+      "path": "Course 07/unit2-tokenization-morphology/solutions/01_tokenization_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 17,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " return [t for t in tokens if len(t) > 1]\n",
+          "source_preview": "def tokenize_english(text):\n \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \"\"\"Tokenize English text\"\"\"\n # Remove special characters, keep alphanumeric and spaces_text = re.sub(r'[^\\w\\s]', '',"
+        }
+      ]
+    },
+    {
+      "path": "Course 07/unit3-ml-for-nlp/examples/04_model_evaluation_metrics_nlp.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 11,
+          "offset": 12,
+          "message": "EOL while scanning string literal",
+          "text": "(TP + FP)\")\n",
+          "source_preview": "import numpy as np\nfrom sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score\nfrom sklearn.metrics import classification_report, confusion_matrix\n\nprint(\"\u2705 Libraries imported!"
+        }
+      ]
+    },
+    {
+      "path": "Course 07/unit3-ml-for-nlp/solutions/01_sentiment_classification_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 15,
+          "offset": 1,
+          "message": "unexpected indent",
+          "text": " processed = []\n",
+          "source_preview": "def preprocess_reviews(reviews):\n \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \"\"\"Preprocess product reviews\"\"\"\n_processed =  []\n processed = []\n for review in reviews:\n # Clean text_text = "
+        }
+      ]
+    },
+    {
+      "path": "Course 07/unit5-applications-ethics/exercises/01_nlp_applications_ethics_exercise.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "%pip install nltk transformers torch pandas numpy matplotlib seaborn -q\n",
+          "source_preview": "# Setup\n%pip install nltk transformers torch pandas numpy matplotlib seaborn -q\n\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nfrom collections import Co"
+        }
+      ]
+    },
+    {
+      "path": "Course 07/unit5-applications-ethics/solutions/01_nlp_applications_ethics_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "%pip install nltk transformers torch pandas numpy matplotlib seaborn -q\n",
+          "source_preview": "# Setup\n%pip install nltk transformers torch pandas numpy matplotlib seaborn -q\n\nimport pandas as pd\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nfrom collections \nimport"
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit1-deep-learning-basics/examples/01_simple_neural_network.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 5,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "ry:\n",
+          "source_preview": "\n\n# Visualization: Neural Network Architecture\n# \u062a\u0635\u0648\u0631: \u0647\u064a\u0643\u0644 \u0627\u0644\u0634\u0628\u0643\u0629 \u0627\u0644\u0639\u0635\u0628\u064a\u0629t\nry:\n import matplotlib.pyplot as plt\nimport matplotlib.patches as mpatches\n \n fig, ax = plt.subplots(figsize=(12, 8))\n # Dra"
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit1-deep-learning-basics/examples/04_perceptron_mlp_tensorflow_pytorch_setup.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 20,
+          "offset": 5,
+          "message": "invalid syntax",
+          "text": "    !pip install -q tensorflow torch torchvision\n",
+          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n# Check if running on Colab\ntry:\n    IN_COLAB = 'google.colab' in str(get_i"
+        },
+        {
+          "cell_index": 6,
+          "line": 5,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "rate =0.1, n\n",
+          "source_preview": "class Perceptron:\n    \"\"\"Simple Perceptron implementation from scratch\"\"\"\n    \n    def __init__(self, learning\nrate =0.1, n\niterations =100):\n        self.learning\nrate = learning\nrate\n        self.n\n"
+        },
+        {
+          "cell_index": 8,
+          "line": 13,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =1000, n\n",
+          "source_preview": "if HAS_TF:\n    print(\"=\" * 60)\n    print(\"MLP with TensorFlow/Keras\")\n    print(\"=\" * 60)\n    \n    # Generate sample data\n    from sklearn.datasets import make_classification\n    from sklearn.model_se"
+        },
+        {
+          "cell_index": 10,
+          "line": 16,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =1000, n\n",
+          "source_preview": "if HAS_TORCH:\n    print(\"=\" * 60)\n    print(\"MLP with PyTorch\")\n    print(\"=\" * 60)\n    \n    import torch.nn as nn\n    import torch.optim as optim\n    \n    # Generate sample data\n    from sklearn.data"
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit2-cnns/examples/01_cnn_architecture.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 5,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "ry:\n",
+          "source_preview": "\n\n# Visualization: Neural Network Architecture\n# \u062a\u0635\u0648\u0631: \u0647\u064a\u0643\u0644 \u0627\u0644\u0634\u0628\u0643\u0629 \u0627\u0644\u0639\u0635\u0628\u064a\u0629t\nry:\n import matplotlib.pyplot as plt\nimport matplotlib.patches as mpatches\n \n fig, ax = plt.subplots(figsize=(12, 8))\n # Dra"
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit3-rnns-transformers/examples/03_gpt_text_generation.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 20,
+          "offset": 5,
+          "message": "invalid syntax",
+          "text": "    !pip install -q tensorflow torch torchvision\n",
+          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n# Check if running on Colab\ntry:\n    IN_COLAB = 'google.colab' in str(get_i"
+        },
+        {
+          "cell_index": 7,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "length =100, temperature=0.7, top\n",
+          "source_preview": "def generate_text(prompt, model, tokenizer, max\nlength =100, temperature=0.7, top\nk =50, top\np =0.95):\n \n    \n    \"\"\"\n Generate text using GPT model.\n \n Args:\n prompt: Input text promptmodel: GPT mode"
+        },
+        {
+          "cell_index": 9,
+          "line": 13,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "length =80, temperature=0.8)\n",
+          "source_preview": "# Real-world scenario: Content creation for marketing\nmarketing\nprompts = [\n \"Our new AI-powered product helps businesses\",\n \"The future of technology is\",\n \"Customer satisfaction is achieved through\""
+        },
+        {
+          "cell_index": 11,
+          "line": 9,
+          "offset": 1,
+          "message": "positional argument follows keyword argument",
+          "text": "p =0.9)\n",
+          "source_preview": "# Compare different generation strategies\nprompt = \"The impact of artificial intelligence on healthcare\"\n\nprint(\"\ud83d\udd27 Generation Strategies Comparison:\\n\")\n\n# Strategy 1: High temperature (creative)\ncrea"
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit3-rnns-transformers/exercises/01_rnn_exercise.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 4,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =1000):\n",
+          "source_preview": "# TODO: Generate synthetic time series data\n# Hint: Use sine wave + trend + noise\ndef generate_stock_data(n\nsamples =1000):\n # YOUR CODE HERE\n pass\n\n# Test\ndata = generate\nstock\ndata()\nplt.plot(data[:"
+        },
+        {
+          "cell_index": 5,
+          "line": 4,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def __init__(self, input_size, hidden_size, output_size):\n",
+          "source_preview": "# TODO: Implement SimpleRNN class\nclass SimpleRNN(nn.Module):\n \ndef __init__(self, input_size, hidden_size, output_size):\n super().__init__()\n # YOUR CODE HERE\n pass\n \n def forward(self, x):\n # YOUR C"
+        },
+        {
+          "cell_index": 9,
+          "line": 4,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def __init__(self, input_size, hidden_size, output_size):\n",
+          "source_preview": "# TODO: Implement LSTM model\nclass LSTMModel(nn.Module):\n \ndef __init__(self, input_size, hidden_size, output_size):\n super().__init__()\n # YOUR CODE HERE\n pass\n \n def forward(self, x):\n # YOUR CODE H"
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit3-rnns-transformers/solutions/01_rnn_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =1000):\n",
+          "source_preview": "def generate_stock_data(n\nsamples =1000):\n    \n    \n    \n    \"\"\"Generate synthetic stock price data\"\"\"\n_t =  np.linspace(0, 100, n_samples)\n    t = np.linspace(0, 100, n_samples)_trend =  0.5 * t\nseas"
+        },
+        {
+          "cell_index": 4,
+          "line": 3,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def __init__(self, input_size, hidden_size, output_size):\n",
+          "source_preview": "class SimpleRNN(nn.Module):\n    \ndef __init__(self, input_size, hidden_size, output_size):\n        super().__init__()\n        self.hidden\nsize = hidden\nsize\n        self.rnn = nn.RNN(input_size, hidde"
+        },
+        {
+          "cell_index": 5,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "length =20):\n",
+          "source_preview": "def prepare_sequences(data, seq\nlength =20):\n    \n    \n    \n    \"\"\"Prepare sequences for training\"\"\"\n    X, y = [], []\n    for i in range(len(data) - seq_length):\n        X.append(data[i:i+seq_length]"
+        },
+        {
+          "cell_index": 6,
+          "line": 3,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def __init__(self, input_size, hidden_size, output_size):\n",
+          "source_preview": "class LSTMModel(nn.Module):\n    \ndef __init__(self, input_size, hidden_size, output_size):\n        super().__init__()\n        self.lstm = nn.LSTM(input_size, hidden_size, batch\nfirst =True)\n        se"
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit5-deployment/examples/02_tensorflow_serving.ipynb",
+      "errors": [
+        {
+          "cell_index": 8,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "name ='model', port=8501):\n",
+          "source_preview": "import requests\nimport json\n\n# Example REST API call (when serving is running)\ndef predict_rest_api(data, model\nname ='model', port=8501):\n \n    \n    \"\"\"\n Make prediction via REST API.\n \n Real-world: "
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit5-deployment/examples/03_onnx_conversion.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 8,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def __init__(self):\n",
+          "source_preview": "# Simple PyTorch model\nclass SimpleModel(nn.Module):\n \n\n\n\n\ndef __init__(self):\n super().__init__()\n self.fc1 = nn.Linear(10, 64)\nself.fc2 = nn.Linear(64, 32)\nself.fc3 = nn.Linear(32, 1)\nself.relu = nn"
+        },
+        {
+          "cell_index": 6,
+          "line": 11,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "names =['input'],\n",
+          "source_preview": "# Create dummy input\ndummy\ninput = torch.randn(1, 10)\n\n# Export to ONNX\nonnx\npath = 'model.onnx'\ntorch.onnx.export(model, dummy_input,\n onnx_path,\n input\nnames =['input'],\n output\nnames =['output'],\n "
+        }
+      ]
+    },
+    {
+      "path": "Course 08/unit5-deployment/examples/06_flask_fastapi_deployment.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 1,
+          "offset": 2256,
+          "message": "expected an indented block",
+          "text": "if HAS_FLASK and HAS_SKLEARN:    # Flask app code (would be in a separate .py file in production)    flask_app_code = '''from flask import Flask, request, jsonifyimport pickleimport numpy as npapp = Flask(__name__)# Load modelwith open('deployment_model.pkl', 'rb') as f:    model = pickle.load(f)@app.route('/predict', methods=['POST'])def predict():    \"\"\"Predict endpoint\"\"\"    try:        data = request.json        features = np.array(data['features']).reshape(1, -1)        prediction = model.predict(features)[0]        probability = model.predict_proba(features)[0].tolist()                return jsonify({            'prediction': int(prediction), 'probabilities': probability,            'status': 'success'        })    except Exception as e:        return jsonify({'error': str(e), 'status': 'error'}), 400@app.route('/health', methods=['GET'])def health():    \"\"\"Health check endpoint\"\"\"    return jsonify({'status': 'healthy'})if __name__ == '__main__':    app.run(host='0.0.0.0', port=5000, debug=True)'''        # Save Flask app    with open('flask_app.py', 'w') as f:        f.write(flask_app_code)        print(\"=\" * 60)    print(\"Flask Deployment Code Created\")    print(\"=\" * 60)    print(\"\u2705 Flask app saved as 'flask_app.py'\")    print(\"\\nTo run Flask app:\")    print(\"  python flask_app.py\")    print(\"\\nExample API call:\")    print(\"  curl -X POST http://localhost:5000/predict \\\\\")    print(\"       -H 'Content-Type: application/json' \\\\\")    print(\"       -d '{\\\"features\\\": [0.5, -0.3, 0.1, 0.8, -0.2, 0.4, 0.9, -0.1, 0.3, 0.6]}'\")else:    print(\"=\" * 60)    print(\"Flask Deployment (Installation Required)\")    print(\"=\" * 60)    print(\"\"\"    To deploy with Flask:        1. Install Flask:       pip install flask        2. Create app.py:       from flask import Flask, request, jsonify       import pickle              app = Flask(__name__)       model = pickle.load(open('model.pkl', 'rb'))              @app.route('/predict', methods=['POST'])       def predict():           data = request.json           prediction = model.predict([data['features']])           return jsonify({'prediction': int(prediction[0])})              if __name__ == '__main__':           app.run(debug=True)        3. Run:       python app.py    \"\"\")\n",
+          "source_preview": "if HAS_FLASK and HAS_SKLEARN:    # Flask app code (would be in a separate .py file in production)    flask_app_code = '''from flask import Flask, request, jsonifyimport pickleimport numpy as npapp = F"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit1-rl-fundamentals/examples/04_openai_gym_setup.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 7,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "mode ='rgb_array')\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: Understanding Gym Environments\")\nprint(\"=\" * 60)\n\n# Create a simple environment (CartPole)\nenv = gym.make('CartPole-v1', render\nmode ='rgb_array')\n\nprint(\"\\nEnvir"
+        },
+        {
+          "cell_index": 7,
+          "line": 14,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        reward = 0\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 3: Interacting with Gym Environments\")\nprint(\"=\" * 60)\n\n# Create environment\nenv = gym.make('CartPole-v1')\n\n# Reset environment\nobservation, info = env.reset()\nprint"
+        },
+        {
+          "cell_index": 9,
+          "line": 14,
+          "offset": 2,
+          "message": "expected an indented block",
+          "text": " env = gym.make(env_name)\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 4: Exploring Different Gym Environments\")\nprint(\"=\" * 60)\n\n# List of environments to explore\nenvironments = [\n ('CartPole-v1', 'Classic control problem'),\n ('FrozenL"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit1-rl-fundamentals/examples/06_solving_rl_problems_states_actions_rewards.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 24,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "mode ='ansi')\n",
+          "source_preview": "print(\"=\" * 60)\nprint(\"Part 1: Defining State Spaces\")\nprint(\"=\" * 60)\n\n# Create CartPole environment\nenv = gym.make('CartPole-v1')\n\nprint(\"\\nCartPole-v1 Environment:\")\nobservation, info = env.reset()"
+        },
+        {
+          "cell_index": 7,
+          "line": 21,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        reward = 0\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 3: Designing Reward Functions\")\nprint(\"=\" * 60)\n\nprint(\"\\nReward Function Design Principles:\")\nprint(\" 1. Provide clear feedback (positive for good, negative for bad"
+        },
+        {
+          "cell_index": 9,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "steps =100):\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 4: Running RL Simulations\")\nprint(\"=\" * 60)\n\ndef run_random_episode(env, max\nsteps =100):\n \n    \n    \"\"\"Run a single episode with random actions.\"\"\"\n obs, info = env"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit1-rl-fundamentals/examples/07_mini_projects_cartpole_frozenlake_qlearning_dqn.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 9,
+          "offset": 31,
+          "message": "unindent does not match any outer indentation level",
+          "text": " if random.random() < epsilon:\n",
+          "source_preview": "print(\"=\" * 60)\nprint(\"Part 1: Q-Learning Algorithm Implementation\")\nprint(\"=\" * 60)\n\ndef epsilon_greedy_action(q_table, state, epsilon, n_actions):\n \n    \n    \"\"\"Choose action using epsilon-greedy st"
+        },
+        {
+          "cell_index": 5,
+          "line": 6,
+          "offset": 33,
+          "message": "invalid syntax",
+          "text": "env = gym.make('FrozenLake-v1', is\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: Q-Learning on FrozenLake\")\nprint(\"=\" * 60)\n\n# Create FrozenLake environment\nenv = gym.make('FrozenLake-v1', is\nslippery =True)\n\n# Q-learning parameters\nn\nstates ="
+        },
+        {
+          "cell_index": 7,
+          "line": 9,
+          "offset": 38,
+          "message": "unindent does not match any outer indentation level",
+          "text": " cart_pos, cart_vel, pole_angle, pole\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 3: Q-Learning on CartPole (with State Discretization)\")\nprint(\"=\" * 60)\n\ndef discretize_state(observation, bins):\n \n    \n    \"\"\"Discretize continuous state into disc"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit1-rl-fundamentals/examples/mini_projects_applying_rl_in_games_like_cartpole_and_frozenlake_implementing_q_l.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "name = 'gymnasium'\n",
+          "source_preview": "# Gym has two common packages: gymnasium (new) and gym (older)\n# This notebook tries both.\ntry:\n import gymnasium as gym\n gym\nname = 'gymnasium'\nexcept ImportError:\n import gym\n gym\nname = 'gym'\n\nprin"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit1-rl-fundamentals/examples/setting_up_rl_environment_installing_openai_gym_and_using_python_based_framework.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "name = 'gymnasium'\n",
+          "source_preview": "# Gym has two common packages: gymnasium (new) and gym (older)\n# This notebook tries both.\ntry:\n import gymnasium as gym\n gym\nname = 'gymnasium'\nexcept ImportError:\n import gym\n gym\nname = 'gym'\n\nprin"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit2-policy-value/examples/01_q_learning.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 4,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        if next\n",
+          "source_preview": "\n\n# Visualization:eward for transition.\"\"\"\n        if next\nstate == self.goal_state:\n            return 10.0  # Goal reward\n        return -0.1  # Small negative reward for each step\n    \n    def get_"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit2-policy-value/examples/04_monte_carlo_value_estimation.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 8,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "t = R_{t+1} + \u03b3R_{t+2} + \u03b3\u00b2R_{t+3} + ...\")\n",
+          "source_preview": "print(\"=\" * 60)\nprint(\"Part 1: Understanding Monte Carlo Methods\")\nprint(\"=\" * 60)\n\nprint(\"\\nMonte Carlo Key Concepts:\")\nprint(\" 1. Learn from complete episodes (must wait until episode ends)\")\nprint("
+        },
+        {
+          "cell_index": 5,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "steps =100):\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: First-Visit Monte Carlo Implementation\")\nprint(\"=\" * 60)\n\ndef generate_episode(policy, env, max\nsteps =100):\n \n    \n    \"\"\"Generate an episode following the polic"
+        },
+        {
+          "cell_index": 7,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "episodes =1000, gamma=0.99):\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 3: Every-Visit Monte Carlo Implementation\")\nprint(\"=\" * 60)\n\ndef every_visit_mc(policy, env, n\nepisodes =1000, gamma=0.99):\n \n    \n    \"\"\"\n Every-visit Monte Carlo f"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit2-policy-value/examples/05_td_algorithms_td0_nstep.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 9,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "t = R_{t+1} + \u03b3V(S_{t+1}) - V(S_t)\")\n",
+          "source_preview": "print(\"=\" * 60)\nprint(\"Part 1: Understanding TD Learning\")\nprint(\"=\" * 60)\n\nprint(\"\\nTD Learning Key Concepts:\")\nprint(\" 1. Bootstrap: Update estimate using other estimates\")\nprint(\" 2. Incremental: U"
+        },
+        {
+          "cell_index": 5,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "episodes =100, alpha=0.1, gamma=0.99):\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: TD(0) Implementation\")\nprint(\"=\" * 60)\n\ndef td0(policy, env_simulator, n\nepisodes =100, alpha=0.1, gamma=0.99):\n \n    \n    \"\"\"\n TD(0) for estimating state values."
+        },
+        {
+          "cell_index": 7,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "episodes =100, n=2, alpha=0.1, gamma=0.99):\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 3: n-Step TD Implementation\")\nprint(\"=\" * 60)\n\ndef n_step_td(policy, env_simulator, n\nepisodes =100, n=2, alpha=0.1, gamma=0.99):\n \n    \n    \"\"\"\n n-step TD for estim"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit2-policy-value/examples/applying_q_learning_and_sarsa_in_openai_gym_cartpole_frozenlake.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "name = 'gymnasium'\n",
+          "source_preview": "# Gym has two common packages: gymnasium (new) and gym (older)\n# This notebook tries both.\ntry:\n import gymnasium as gym\n gym\nname = 'gymnasium'\nexcept ImportError:\n import gym\n gym\nname = 'gym'\n\nprin"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit2-policy-value/examples/running_td0_and_n_step_td_algorithms_in_simple_rl_environments.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "name = 'gymnasium'\n",
+          "source_preview": "# Gym has two common packages: gymnasium (new) and gym (older)\n# This notebook tries both.\ntry:\n import gymnasium as gym\n gym\nname = 'gymnasium'\nexcept ImportError:\n import gym\n gym\nname = 'gym'\n\nprin"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit2-policy-value/solutions/01_q_learning_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 6,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def __init__(self, size=5):\n",
+          "source_preview": "import numpy as np\n\nclass GridWorld:\n    \n\ndef __init__(self, size=5):\n        self.size = size\n        self.start = (0, 0)\n        self.goal = (size-1, size-1)\n        self.agent\npos = self.start\n   "
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit3-deep-rl/examples/02_actor_critic.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 8,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "dim =128):\n",
+          "source_preview": "class ActorCritic(nn.Module):\n    \"\"\"\n    Actor-Critic network.\n    Actor: Policy network (outputs action probabilities)\n    Critic: Value network (estimates state values)\n    \"\"\"\n    def __init__(sel"
+        },
+        {
+          "cell_index": 6,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "name ='CartPole-v1', episodes=500):\n",
+          "source_preview": "def train_actor_critic(env\nname ='CartPole-v1', episodes=500):\n    \"\"\"\n    Train Actor-Critic agent.\n    \n    Real-world: Training robots or game agents\n    \"\"\"\n    env = gym.make(env_name)\n    state\n"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit3-deep-rl/examples/04_training_evaluation_monitoring.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 9,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "size =100):\n",
+          "source_preview": "print(\"=\" * 60)\nprint(\"Part 1: Monitoring Learning Curves\")\nprint(\"=\" * 60)\n\nclass TrainingMonitor:\n    \"\"\"Monitor training progress for Deep RL.\"\"\"\n    \n    def __init__(self, window\nsize =100):\n    "
+        },
+        {
+          "cell_index": 5,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "size =100):\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: Evaluating Stability\")\nprint(\"=\" * 60)\n\ndef evaluate_stability(rewards, window\nsize =100):\n    \"\"\"Evaluate training stability metrics.\"\"\"\n    metrics = {}\n    \n  "
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit3-deep-rl/examples/05_optimization_experience_replay_reward_shaping.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 22,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "    def__len__(self):\n",
+          "source_preview": "print(\"=\" * 60)\nprint(\"Part 1: Experience Replay\")\nprint(\"=\" * 60)\n\nclass ReplayBuffer:\n    \"\"\"Experience replay buffer for storing and sampling transitions.\"\"\"\n    \n    def __init__(self, capacity=10"
+        },
+        {
+          "cell_index": 5,
+          "line": 11,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    shaping = 0.1 * (next_potential - potential)  # Small shaping coefficient\n",
+          "source_preview": "print(\"\\n\" + \"=\" * 60)\nprint(\"Part 2: Reward Shaping\")\nprint(\"=\" * 60)\n\ndef shaped_reward(original_reward, state, next_state, goal_state):\n    \"\"\"Apply reward shaping to guide learning.\"\"\"\n    # Poten"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit4-exploration-exploitation/examples/02_balancing_exploration.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 11,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        self.successes = np.zeros(n_arms)\n",
+          "source_preview": "class ThompsonSampling:\n    \"\"\"\n    Thompson Sampling for multi-armed bandit.\n    \n    Real-world: A/B testing, recommendation systems\n    \"\"\"\n    def __init__(self, n_arms):\n        self.n\narms = n\na"
+        },
+        {
+          "cell_index": 6,
+          "line": 23,
+          "offset": 50,
+          "message": "f-string: invalid syntax",
+          "text": "(np.sum([ts.select_arm() == np.argmax(true_ctrs) for_ in range(100)]))\n",
+          "source_preview": "# Simulate A/B testing scenario\n# Real-world: Testing different website designs\nn\ntrials = 1000\ntrue\nctrs = [0.1, 0.15, 0.12, 0.18, 0.11]  # True click-through rates\nn\narms = len(true_ctrs)\n\n# Thompso"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit4-exploration-exploitation/examples/03_adaptive_exploration_ucb.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 9,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        self.counts = np.zeros(n_arms)\n",
+          "source_preview": "import numpy as np\nimport matplotlib.pyplot as plt\n\nclass UCB:\n    def __init__(self, n_arms):\n        self.n\narms = n\narms\n        self.counts = np.zeros(n_arms)\n        self.values = np.zeros(n_arms"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit4-exploration-exploitation/exercises/02_exploration_exercise.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 3,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "steps =1000):\n",
+          "source_preview": "# TODO: Implement epsilon_greedy function\ndef epsilon_greedy(bandit, epsilon=0.1, n\nsteps =1000):\n    # YOUR CODE HERE\n    pass"
+        },
+        {
+          "cell_index": 7,
+          "line": 3,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "steps =1000):\n",
+          "source_preview": "# TODO: Implement UCB algorithm\ndef ucb(bandit, c=2, n\nsteps =1000):\n    # YOUR CODE HERE\n    pass"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit4-exploration-exploitation/solutions/02_exploration_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 7,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        self.true\n",
+          "source_preview": "class MultiArmedBandit:\n    \"\"\"Simulate ads with different click-through rates\"\"\"\n    def __init__(self, n_arms, true_rewards):\n        self.n\narms = n\narms\n        self.true\nrewards = np.array(true_r"
+        },
+        {
+          "cell_index": 5,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "steps =1000):\n",
+          "source_preview": "def epsilon_greedy(bandit, epsilon=0.1, n\nsteps =1000):\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \"\"\"Epsilon-greedy exploration strategy\"\"\"\n_n\narms =  bandit.n_arms\ncounts = np.zeros("
+        },
+        {
+          "cell_index": 7,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "steps =1000):\n",
+          "source_preview": "def ucb(bandit, c=2, n\nsteps =1000):\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \"\"\"Upper Confidence Bound algorithm\"\"\"\n_n\narms =  bandit.n_arms\ncounts = np.zeros(n_arms)\nn\narms = bandi"
+        },
+        {
+          "cell_index": 9,
+          "line": 4,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        reward = bandit.true_rewards[bandit.optimal_arm]\n",
+          "source_preview": "# Calculate cumulative regret\ndef calculate_regret(bandit, rewards):\n    optimal\n        reward = bandit.true_rewards[bandit.optimal_arm]\n    return np.cumsum([optimal_reward - r for r in rewards])\nre"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit5-applications/examples/02_game_playing_agent.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 10,
+          "offset": 8,
+          "message": "unexpected indent",
+          "text": "        return self.board.copy()\n",
+          "source_preview": "class TicTacToe:\n    \"\"\"Simple Tic-Tac-Toe game environment\"\"\"\n    def __init__(self):\n        self.reset()\n    \n    def reset(self):\n        self.board = np.zeros((3, 3), dtype=int)\n        self.curr"
+        },
+        {
+          "cell_index": 6,
+          "line": 4,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "rate =0.1, discount=0.95, epsilon=0.1):\n",
+          "source_preview": "class QLearningAgent:\n    \"\"\"Q-learning agent for game playing\"\"\"\n    def __init__(self, learning\nrate =0.1, discount=0.95, epsilon=0.1):\n        self.q\ntable = {}\n        self.lr = learning\nrate\n    "
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit5-applications/examples/03_resource_optimization.ipynb",
+      "errors": [
+        {
+          "cell_index": 4,
+          "line": 8,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "servers =5, n\n",
+          "source_preview": "class ResourceAllocationEnv:\n    \"\"\"\n    Simplified data center resource allocation environment.\n    \n    Real-world: Optimizing server allocation for workloads\n    \"\"\"\n    def __init__(self, n\nserver"
+        },
+        {
+          "cell_index": 6,
+          "line": 5,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "rate =0.1, discount=0.95, epsilon=0.1):\n",
+          "source_preview": "# Simple Q-learning for resource allocation\nclass ResourceOptimizer:\n    \"\"\"RL-based resource optimizer\"\"\"\n    def __init__(self, n_servers, learning\nrate =0.1, discount=0.95, epsilon=0.1):\n        se"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit5-applications/examples/implementing_multi_agent_rl_environments_and_training_cooperativecompetitive_age.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 6,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "name = 'gymnasium'\n",
+          "source_preview": "# Gym has two common packages: gymnasium (new) and gym (older)\n# This notebook tries both.\ntry:\n import gymnasium as gym\n gym\nname = 'gymnasium'\nexcept ImportError:\n import gym\n gym\nname = 'gym'\n\nprin"
+        }
+      ]
+    },
+    {
+      "path": "Course 09/unit5-applications/solutions/01_rl_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 5,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "products =10, n\n",
+          "source_preview": "import numpy as np\n\nclass RecommendationEnv:\n    def __init__(self, n\nproducts =10, n\nusers =100):\n        self.n\nproducts = n\nproducts\n        self.user\npreferences = np.random.rand(n_users, n_produc"
+        }
+      ]
+    },
+    {
+      "path": "Course 10/unit1-generative-fundamentals/examples/01_gan_architecture.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 5,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "ry:\n",
+          "source_preview": "\n\n# Visualization: Generative vs Discriminative Models\n# \u062a\u0635\u0648\u0631: \u0627\u0644\u0646\u0645\u0627\u0630\u062c \u0627\u0644\u062a\u0648\u0644\u064a\u062f\u064a\u0629 \u0645\u0642\u0627\u0628\u0644 \u0627\u0644\u062a\u0645\u064a\u064a\u0632\u064a\u0629t\nry:\n import matplotlib.pyplot as plt\n \n categories = ['Generative\nModels', 'DiscriminativeModels']\n ca"
+        }
+      ]
+    },
+    {
+      "path": "Course 10/unit1-generative-fundamentals/examples/01_generative_vs_discriminative.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 5,
+          "offset": 4,
+          "message": "invalid syntax",
+          "text": "ry:\n",
+          "source_preview": "\n\n# Visualization: Generative vs Discriminative Models\n# \u062a\u0635\u0648\u0631: \u0627\u0644\u0646\u0645\u0627\u0630\u062c \u0627\u0644\u062a\u0648\u0644\u064a\u062f\u064a\u0629 \u0645\u0642\u0627\u0628\u0644 \u0627\u0644\u062a\u0645\u064a\u064a\u0632\u064a\u0629t\nry:\n import matplotlib.pyplot as plt\n \n categories = ['Generative\nModels', 'DiscriminativeModels']\n ca"
+        }
+      ]
+    },
+    {
+      "path": "Course 10/unit2-text-generation/examples/05_fine_tuning_language_models.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 1,
+          "offset": 19,
+          "message": "invalid syntax",
+          "text": "from transformers \n",
+          "source_preview": "from transformers \nimport GPT2LMHeadModel, GPT2Tokenizer, Trainer, TrainingArguments\nimport torch\n\nprint(\"\u2705 Libraries imported!\")\nprint(\"\\nFine-tuning Language Models\")\nprint(\"=\" * 60)\n\nprint(\"\\nFine-"
+        }
+      ]
+    },
+    {
+      "path": "Course 10/unit2-text-generation/examples/05_finetuning_language_models.ipynb",
+      "errors": [
+        {
+          "cell_index": 1,
+          "line": 1,
+          "offset": 19,
+          "message": "invalid syntax",
+          "text": "from transformers \n",
+          "source_preview": "from transformers \nimport AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments\nimport torch\n\nprint(\"\u2705 Libraries imported!\")\nprint(\"\\nFine-tuning Language Models\")\nprint(\"=\" * 60)\n\nprint(\"\\n"
+        }
+      ]
+    },
+    {
+      "path": "Course 10/unit3-image-generation/examples/02_image_generation_advanced.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 20,
+          "offset": 5,
+          "message": "invalid syntax",
+          "text": "    !pip install -q diffusers transformers accelerate torch torchvision\n",
+          "source_preview": "# \ud83d\ude80 Google Colab Setup (Run this first if using Colab)\n# \u062f\u0644\u064a\u0644 \u0625\u0639\u062f\u0627\u062f Google Colab (\u0642\u0645 \u0628\u062a\u0634\u063a\u064a\u0644 \u0647\u0630\u0627 \u0623\u0648\u0644\u0627\u064b \u0625\u0630\u0627 \u0643\u0646\u062a \u062a\u0633\u062a\u062e\u062f\u0645 Colab)\n\n# Check if running on Colab\ntry:\n    IN_COLAB = 'google.colab' in str(get_i"
+        }
+      ]
+    },
+    {
+      "path": "Course 10/unit3-image-generation/examples/03_vae_advanced_topics.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 2,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "steps =10):\n",
+          "source_preview": "def interpolate_latent(z1, z2, n\nsteps =10):\n    \"\"\"\n    Interpolate between two latent vectors\n    \"\"\"\n    # TODO: Implement linear interpolation\n    # Generate intermediate latent vectors\n    pass\n\n"
+        }
+      ]
+    },
+    {
+      "path": "Course 10/unit3-image-generation/exercises/01_vae_exercise.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 4,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "dim =20):\n",
+          "source_preview": "# TODO: Implement VAE class\nclass VAE(nn.Module):\n    def __init__(self, latent\ndim =20):\n        super().__init__()\n        # YOUR CODE HERE\n        pass\n    \n    def encode(self, x):\n        # YOUR "
+        },
+        {
+          "cell_index": 9,
+          "line": 3,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "samples =16):\n",
+          "source_preview": "# TODO: Generate and visualize new samples\ndef generate_samples(model, n\nsamples =16):\n    # YOUR CODE HERE\n    pass"
+        }
+      ]
+    },
+    {
+      "path": "Course 10/unit5-future-trends/examples/03_music_generation.ipynb",
+      "errors": [
+        {
+          "cell_index": 6,
+          "line": 4,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "dim =128, hidden\n",
+          "source_preview": "class MusicGenerator(nn.Module):\n    \"\"\"LSTM-based music generator\"\"\"\n    def __init__(self, vocab_size, embedding\ndim =128, hidden\ndim =256):\n        super().__init__()\n        self.embedding = nn.Em"
+        }
+      ]
+    },
+    {
+      "path": "Course 11/unit1-deployment-basics/examples/01_model_serving_api.ipynb",
+      "errors": [
+        {
+          "cell_index": 2,
+          "line": 1,
+          "offset": 220,
+          "message": "invalid syntax",
+          "text": "\"\"\"Unit 1 - Example 1: Model Serving with REST API\u0627\u0644\u0648\u062d\u062f\u0629 1 - \u0645\u062b\u0627\u0644 1: \u062a\u0642\u062f\u064a\u0645 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 REST APIThis example demonstrates:1. Saving and loading a model2. Creating a REST API endpoint3. Serving predictions via API\"\"\"import joblibimport numpy as npfrom sklearn.ensemble import RandomForestClassifierfrom sklearn.datasets import make_classificationprint(\"=\" * 60)print(\"Example 1: Model Serving with REST API\")print(\"\u0645\u062b\u0627\u0644 1: \u062a\u0642\u062f\u064a\u0645 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 REST API\")print(\"=\" * 60)# 1. Train and Save Model# \u062a\u062f\u0631\u064a\u0628 \u0648\u062d\u0641\u0638 \u0627\u0644\u0646\u0645\u0648\u0630\u062cprint(\"\\n1. Training and Saving Model\")print(\"\u062a\u062f\u0631\u064a\u0628 \u0648\u062d\u0641\u0638 \u0627\u0644\u0646\u0645\u0648\u0630\u062c\")print(\"-\" * 60)# Create sample dataX, y = make_classification(n_samples=100, n_features=4, random_state=42)# Train modelmodel = RandomForestClassifier(n_estimators=10, random_state=42)model.fit(X, y)print(\"\u2713 Model trained successfully\")print(\"\u2713 \u062a\u0645 \u062a\u062f\u0631\u064a\u0628 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0628\u0646\u062c\u0627\u062d\")# Save modelmodel_filename = 'trained_model.pkl'joblib.dump(model, model_filename)print(f\"\u2713 Model saved to {model_filename}\")print(f\"\u2713 \u062a\u0645 \u062d\u0641\u0638 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0641\u064a {model_filename}\")# Load modelloaded_model = joblib.load(model_filename)print(\"\u2713 Model loaded successfully\")print(\"\u2713 \u062a\u0645 \u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0628\u0646\u062c\u0627\u062d\")# 2. API Structure (using Flask)# \u0647\u064a\u0643\u0644 API (\u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 Flask)print(\"\\n\" + \"=\" * 60)print(\"2. REST API Structure\")print(\"\u0647\u064a\u0643\u0644 REST API\")print(\"=\" * 60)api_code = \"\"\"from flask import Flask, request, jsonifyimport joblibimport numpy as npapp = Flask(__name__)# Load model at startupmodel = joblib.load('trained_model.pkl')@app.route('/predict', methods=['POST'])def predict():    # Get data from request    data = request.json    features = np.array(data['features']).reshape(1, -1)        # Make prediction    prediction = model.predict(features)[0]    probability = model.predict_proba(features)[0].tolist()        return jsonify({        'prediction': int(prediction), 'probability': probability    })@app.route('/health', methods=['GET'])def health():    return jsonify({'status': 'healthy'})if __name__ == '__main__':    app.run(host='0.0.0.0', port=5000, debug=True)\"\"\"print(api_code)# 3. Example API Request# \u0645\u062b\u0627\u0644 \u0639\u0644\u0649 \u0637\u0644\u0628 APIprint(\"\\n\" + \"=\" * 60)print(\"3. Example API Request\")print(\"\u0645\u062b\u0627\u0644 \u0639\u0644\u0649 \u0637\u0644\u0628 API\")print(\"=\" * 60)example_request = \"\"\"POST http://localhost:5000/predictContent-Type: application/json{    \"features\": [0.5, 0.3, 0.8, 0.2]}\"\"\"print(example_request)example_response = \"\"\"Response:{    \"prediction\": 1, \"probability\": [0.2, 0.8]}\"\"\"print(example_response)# Test the loaded modelprint(\"\\n\" + \"=\" * 60)print(\"4. Testing Loaded Model\")print(\"\u0627\u062e\u062a\u0628\u0627\u0631 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0627\u0644\u0645\u062d\u0645\u0651\u0644\")print(\"=\" * 60)test_sample = np.array([[0.5, 0.3, 0.8, 0.2]])prediction = loaded_model.predict(test_sample)probability = loaded_model.predict_proba(test_sample)print(f\"\\nTest sample: {test_sample[0]}\")print(f\"Prediction: {prediction[0]}\")print(f\"Probability: {probability[0]}\")print(\"\\n\" + \"=\" * 60)print(\"Example completed successfully!\")print(\"\u062a\u0645 \u0625\u0643\u0645\u0627\u0644 \u0627\u0644\u0645\u062b\u0627\u0644 \u0628\u0646\u062c\u0627\u062d!\")print(\"=\" * 60)print(\"\\nNote: Install Flask to run API:\")print(\"pip install flask\")\n",
+          "source_preview": "\"\"\"Unit 1 - Example 1: Model Serving with REST API\u0627\u0644\u0648\u062d\u062f\u0629 1 - \u0645\u062b\u0627\u0644 1: \u062a\u0642\u062f\u064a\u0645 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 REST APIThis example demonstrates:1. Saving and loading a model2. Creating a REST API endpoint3. Serving pre"
+        }
+      ]
+    },
+    {
+      "path": "Course 11/unit1-deployment-basics/examples/03_local_deployment_testing.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 16,
+          "offset": 22,
+          "message": "invalid syntax",
+          "text": "name__ == '__main__':\n",
+          "source_preview": "from flask import Flask, request, jsonify\nimport joblib\n\n# Load model\n# model = joblib.load('model.pkl')\n\napp = Flask(__name__)\n\n@app.route('/predict', methods=['POST'])\ndef predict():\n # TODO: Implem"
+        },
+        {
+          "cell_index": 5,
+          "line": 12,
+          "offset": 6,
+          "message": "unindent does not match any outer indentation level",
+          "text": " pass\n",
+          "source_preview": "import requests\n\ndef test_deployment(url, test_cases):\n \n    \n    \"\"\"\n Test deployed model with various inputs\n \"\"\"\n # TODO: Send test requests\n # Verify responses\n # Check error handling\n pass\n\nprint"
+        }
+      ]
+    },
+    {
+      "path": "Course 11/unit2-versioning-serving/solutions/03_api_deployment_solution.ipynb",
+      "errors": [
+        {
+          "cell_index": 3,
+          "line": 2,
+          "offset": 4,
+          "message": "unexpected indent",
+          "text": "    version='1.0.0'\n",
+          "source_preview": "# Create FastAPI app_app = FastAPI(title='Sentiment Analysis API', description='Real-time sentiment analysis for customer feedback',\n    version='1.0.0'\n)\n\n# Request/Response models\nclass TextInput(Ba"
+        },
+        {
+          "cell_index": 4,
+          "line": 4,
+          "offset": 1,
+          "message": "expected an indented block",
+          "text": "def predict(self, text):\n",
+          "source_preview": "# Mock model (in production, load real model)\nclass SentimentModel:\n    \ndef predict(self, text):\n        # Simple rule-based for demo_positive_words = ['good', 'great', 'excellent', 'amazing', 'love'"
+        },
+        {
+          "cell_index": 5,
+          "line": 26,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "model =SentimentOutput, tags=['Prediction'])\n",
+          "source_preview": "# API endpoints\n@app.get('/', tags=['Health'])\ndef root():\n    \n    \n    \n    \"\"\"Health check endpoint\"\"\"\n    return {\n        'status': 'healthy', 'service': 'Sentiment Analysis API',\n        'versio"
+        },
+        {
+          "cell_index": 7,
+          "line": 7,
+          "offset": 1,
+          "message": "invalid syntax",
+          "text": "-> {root()}\")\n",
+          "source_preview": "# Test API (simulated)\nprint('\ud83d\udcdd Testing API endpoints:\\n')\n\n# Test 1: Health check_\nprint('1. Health Check:')\nprint(f\"   GET\"\n-> {root()}\")\nprint(f\"   GET /health -> {health()}\\n\")\n\n# Test 2: Single p"
+        }
+      ]
+    },
+    {
+      "path": "Course 12/unit5-documentation-presentation/examples/01_project_documentation_presentation.ipynb",
+      "errors": [
+        {
+          "cell_index": 5,
+          "line": 12,
+          "offset": 21,
+          "message": "EOL while scanning string literal",
+          "text": "    \"Slide 16\": \"Q&A\n",
+          "source_preview": "# Presentation Slide Structure\npresentation\nstructure = {\n    \"Slide 1\": \"Title Slide (Project title, your name, date)\",\n    \"Slide 2-3\": \"Introduction (Problem statement, motivation, objectives)\",\n  "
+        }
+      ]
+    }
+  ]
+}
