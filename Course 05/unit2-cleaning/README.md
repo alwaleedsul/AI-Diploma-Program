@@ -1,5 +1,4 @@
 # Unit: Data Cleaning and Preprocessing
-## Data Cleaning and Preprocessing
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 

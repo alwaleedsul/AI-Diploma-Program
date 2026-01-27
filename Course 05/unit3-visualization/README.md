@@ -1,5 +1,4 @@
 # Unit: Data Visualization
-## Data Visualization
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 

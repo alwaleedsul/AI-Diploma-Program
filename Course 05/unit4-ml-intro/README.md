@@ -1,5 +1,4 @@
 # Unit: Introduction to Machine Learning
-## Introduction to Machine Learning
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 

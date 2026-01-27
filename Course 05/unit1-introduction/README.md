@@ -1,5 +1,4 @@
 # Unit: Introduction to Data Science
-## Introduction to Data Science
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 

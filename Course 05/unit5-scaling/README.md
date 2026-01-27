@@ -1,5 +1,4 @@
-# Unit: Extending the Scope of Data Science
-## Extending the Scope of Data Science (Scaling and Production)
+# Unit: Extending the Scope of Data Science (Scaling and Production)
 
 ## ✅ Prerequisites Checklist | قائمة المتطلبات الأساسية
 

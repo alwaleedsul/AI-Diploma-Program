@@ -44,7 +44,7 @@ Each quiz follows this structure:
 1. Complete the unit materials and examples first
 2. Review the unit content
 3. Take the quiz without referring to materials
-4. Check your answers using the answer key
+4. Check your answers in `../DOCS/SOLUTIONS/quizzes/` (e.g. `Quiz_01_solution.md`, … `Quiz_05_solution.md`)
 5. Review areas where you scored low
 
 ---
