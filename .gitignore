@@ -51,6 +51,7 @@ wheels/
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
+*.nbconvert*.ipynb
 
 # OS-specific files
 .DS_Store
@@ -257,6 +258,8 @@ standardize_*.py
 merge_*.py
 **/META/*.py
 **/SCRIPTS/*.py
+!tools/add_inputs_outputs_c05.py
+!tools/clarity_updates_c05.py
 
 # Keep only essential root-level files for students
 # README.md - course overview (KEEP)
