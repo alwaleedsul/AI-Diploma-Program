@@ -193,7 +193,7 @@ Advanced Topics (Deep Learning, NLP, etc.)
 All documentation is in the `DOCS/` folder:
 - **SETUP_INSTRUCTIONS.md** - Installation and setup guide (local + troubleshooting)
 - **COLAB_SETUP.md** - Google Colab and GPU setup
-- **SOLUTIONS/** - Quiz solutions
+- **SOLUTIONS/** - Quiz solutions (instructor-only)
 
 **Deep dive reports** (input/output audit, spec alignment):
 - **Unit 1:** `unit1-introduction/UNIT1_DEEP_DIVE.md`
@@ -205,14 +205,10 @@ All documentation is in the `DOCS/` folder:
 
 ## 📄 Course Summary | ملخص الدورة
 
-**Quick Reference:** `COURSE_SUMMARY.md` contains a comprehensive text summary of all course materials (PDFs/PPTX files).  
-**مرجع سريع:** يحتوي `COURSE_SUMMARY.md` على ملخص نصي شامل لجميع مواد الدورة (ملفات PDF/PPTX).
+**Quick Reference:** If present, `COURSE_SUMMARY.md` contains a text summary of course materials (PDFs/PPTX).  
+**مرجع سريع:** إن وُجد، يحتوي `COURSE_SUMMARY.md` على ملخص نصي لمواد الدورة (ملفات PDF/PPTX).
 
-This summary allows you to:
-- Read course content without opening PDF/PPTX files
-- Search through all materials quickly
-- Review key concepts in text format
-- Use as a study guide
+You can use it to read content, search materials, review concepts, and study—when available.
 
 ---
 

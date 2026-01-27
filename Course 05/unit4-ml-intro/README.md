@@ -46,7 +46,7 @@ By the end of this unit, students will be able to:
 - `exercises/`: Practice problems for students
 - `solutions/`: Instructor-only reference solutions (e.g. `solution_01.ipynb`)
 
-Quiz solutions are in `DOCS/SOLUTIONS/quizzes/` (see `QUIZZES/` for quiz files).
+Quiz files are in `QUIZZES/`. Answer keys are instructor-only.
 
 ---
 
@@ -54,7 +54,7 @@ Quiz solutions are in `DOCS/SOLUTIONS/quizzes/` (see `QUIZZES/` for quiz files).
 
 1. **Start with examples** - Understand concepts through code
 2. **Complete exercises** - Practice what you learned
-3. **Review quiz solutions** - Check your work in `DOCS/SOLUTIONS/quizzes/`
+3. **Review quiz solutions** - When your instructor provides the answer key
 4. **Take quizzes** - Test your understanding
 
 ---
