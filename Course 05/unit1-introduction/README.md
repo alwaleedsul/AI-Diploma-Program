@@ -8,7 +8,7 @@ Before starting this unit, confirm:
 - [ ] Completed Course 02 (Python for AI) or equivalent Python basics
 - [ ] Comfortable with NumPy arrays and Pandas DataFrames
 - [ ] Installed required libraries (`pip check` passes)
-- [ ] Read `Course 05/START_HERE.md`
+- [ ] Read `../START_HERE.md`
 - [ ] Reviewed related topics in `../../COURSE_MAP.md` if needed
 
 ### Learning Objectives | أهداف التعلم
