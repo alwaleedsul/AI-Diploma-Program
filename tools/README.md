@@ -35,3 +35,12 @@ Helper scripts for course notebooks (I/O, objectives, clarity, splitting).
 
 - `add_inputs_outputs_multi.py`, `objectives_multi.py` – Add I/O sections and replace generic objectives (courses 01, 02, 08–12).
 - Per-course: `add_inputs_outputs_c03`–`c07`, `c03`–`c07_specific_objectives`, `clarity_updates_c05`.
+- `fix_corrupted_json_notebooks.py` – Repair corrupted JSON in listed notebooks. **Skips** `01_ridge_lasso_regression` and `03_svm` (manually repaired); re-running repair on those would overwrite fixes.
+
+## Impact and caveats (runtime fixes)
+
+- **`01_logistic_regression`**: A bootstrap code cell was added (synthetic `X,y`, `model`, `y_proba`). Later blocks use `logistic_model`, `X_train_scaled`, etc. in **self-contained** cells that define them; no shared-state dependency on the bootstrap beyond the first thresholds block.
+- **`04_word_embeddings_glove_fasttext`**: `%pip install gensim` + try/except for `KeyedVectors`; `GENSIM_AVAILABLE` set. No other code cells use `KeyedVectors`; the notebook has only a few cells.
+- **`01_rnn_exercise`**: `generate_stock_data`, `SimpleRNN`, and `train_rnn` were implemented; `data` and `model` are created in the train cell. Task 4 (LSTM) remains a stub; no comparison code depends on it.
+- **GPT / C10 finetuning**: `USE_TF=0` before `transformers` import; GPT setup split into pip-only vs imports. No downstream notebooks or scripts depend on these.
+- **`fix_corrupted_json_notebooks`**: Do not re-run repair on `01_ridge_lasso_regression` or `03_svm`; they are skipped by the script.

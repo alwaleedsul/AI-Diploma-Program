@@ -263,6 +263,7 @@ merge_*.py
 **/SCRIPTS/*.py
 !tools/add_inputs_outputs_c05.py
 !tools/clarity_updates_c05.py
+!tools/fix_corrupted_json_notebooks.py
 
 # Keep only essential root-level files for students
 # README.md - course overview (KEEP)
