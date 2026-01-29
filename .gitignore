@@ -53,6 +53,9 @@ wheels/
 *.ipynb_checkpoints/
 *.nbconvert*.ipynb
 
+# ML experiment tracking
+mlruns/
+
 # OS-specific files
 .DS_Store
 .DS_Store?
