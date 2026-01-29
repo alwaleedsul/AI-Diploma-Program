@@ -1,0 +1,25 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix person: <http://example.org/person/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix uni: <http://example.org/university/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+person:DrAli a foaf:Person ;
+    uni:teaches uni:AIAT112 ;
+    foaf:name "Dr. Ahmed Ali" .
+
+person:DrSmith a foaf:Person ;
+    uni:teaches uni:AIAT111 ;
+    foaf:name "Dr. John Smith" .
+
+uni:AIAT112 a uni:Course ;
+    rdfs:label "Python for AI" ;
+    uni:courseCode "AIAT 112"^^xsd:string ;
+    uni:creditHours 3 ;
+    uni:hasPrerequisite uni:AIAT111 .
+
+uni:AIAT111 a uni:Course ;
+    rdfs:label "Introduction to AI & Applications" ;
+    uni:courseCode "AIAT 111"^^xsd:string ;
+    uni:creditHours 3 .
+
