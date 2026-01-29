@@ -23,6 +23,14 @@ Helper scripts for course notebooks (I/O, objectives, clarity, splitting).
 2. Run Story + I/O: `python tools/clarity_multi.py all` (or `story` / `io` only)
 3. Split large code cells: `python tools/split_large_code_cells.py`
 
+## Execution and validation
+
+- **`run_modified_only.py`** – Execute only notebooks that were recently modified (syntax/runtime fixes). Writes `artifacts/execution_modified_report.json`.
+  - `python tools/run_modified_only.py`
+- **`run_execution_subset.py`** – Execute a subset of notebooks by course. Optional course list as arguments; default `Course 04` and `Course 05`. Writes `artifacts/execution_subset_report.json`.
+  - `python tools/run_execution_subset.py "Course 04" "Course 05"`
+- **`scan_syntax_errors.py`** – Scan all notebooks for Python syntax errors in code cells. Writes `artifacts/syntax_errors_scan.json`.
+
 ## Other tools
 
 - `add_inputs_outputs_multi.py`, `objectives_multi.py` – Add I/O sections and replace generic objectives (courses 01, 02, 08–12).
